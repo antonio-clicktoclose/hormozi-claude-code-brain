@@ -1,0 +1,2058 @@
+[0.0s - 6.0s] We just finished Optimize where we went from 20 to 49 employees.
+[6.0s - 8.5s] And so now we graduate to 50 to 100.
+[8.5s - 12.8s] Anywhere in here would apply to your business, but basically you graduate once you pass 100
+[12.8s - 13.8s] employees here.
+[13.8s - 15.7s] And so the theme is categorize.
+[15.7s - 21.0s] So headcount 50 to 99, your role is that you are now an executive in the business.
+[21.0s - 24.5s] And so we'll talk about kind of the layers that kind of exist now.
+[24.5s - 25.5s] Yeah.
+[25.5s - 28.4s] So a lot of times what happens at this level is you actually form, or at least
+[28.4s - 31.2s] three layers you'd like to form, three layers of leadership.
+[31.2s - 34.3s] And so what that looks like is at the very bottom of your organization, you have your
+[34.3s - 36.1s] individual contributors, right?
+[36.1s - 37.6s] Those are people that don't manage people.
+[37.6s - 39.8s] They're just operating independently.
+[39.8s - 44.2s] Above those people, you have managers, and that's your first line of management.
+[44.2s - 46.8s] So the least experienced management team that you have.
+[46.8s - 51.7s] Above that management team, those managers roll into what we call most companies directors.
+[51.7s - 55.5s] And then above those directors, what forms at this level and what you typically see
+[55.7s - 59.0s] when you're at this size company is that you have an executive team.
+[59.0s - 63.1s] Now that executive team is usually not fully built out at this point.
+[63.1s - 67.7s] People are usually more strategic with hiring say two or three, you know, even one executive
+[67.7s - 70.0s] depending on your business and where you need leverage.
+[70.0s - 73.9s] So an example is in our first business, GymLaunch, we actually ended up hiring
+[73.9s - 79.2s] a CFO as our first executive because we needed somebody who could help manage inventory,
+[79.2s - 83.7s] work with legal and basically redo our finance department because those were things that
+[83.8s - 86.2s] we didn't like and they were not our skill.
+[86.2s - 91.2s] And so a lot of times selecting who's going to be your executive team depends on your
+[91.2s - 95.5s] business, what your business needs and what your strengths and weaknesses are as the
+[95.5s - 96.9s] leader of the company.
+[96.9s - 100.6s] And so the second piece to this is that oftentimes what happens at this point is
+[100.6s - 106.2s] that whether you're informally or formally decided, you as the founder or one of the
+[106.2s - 108.8s] founders kind of becomes the CEO.
+[108.8s - 112.0s] And so that's something that a lot of people don't formally identify with.
+[112.0s - 115.5s] But a lot of times at this point in the business, what you'll see is that if somebody
+[115.5s - 119.0s] doesn't really identify with that role, then there's a gap in leadership.
+[119.0s - 121.6s] And so that's what it usually looks like at this point.
+[121.6s - 123.9s] Managers, directors, executive team.
+[123.9s - 126.0s] Again, not usually fully built out.
+[126.0s - 129.0s] Even the directors team at this point, a lot of times you're missing a couple of
+[129.0s - 132.3s] them. That's OK, because as you scale up, you will fill out those teams.
+[132.3s - 136.3s] And so to put this in perspective, we had 30 million businesses total in the U.S.
+[136.3s - 140.1s] There's only one point two million businesses that actually get to this level.
+[140.1s - 144.4s] So you're looking at like three to four percent of all businesses, which already
+[144.4s - 146.2s] only nine percent of people own a business.
+[146.2s - 149.9s] So nine percent of people in a business and of those nine, three to four percent
+[149.9s - 151.9s] get to this level. So you're in rarefied air.
+[151.9s - 153.7s] So if you are here, congratulations.
+[153.7s - 155.7s] All right. So the first thing we're going to do is start with the
+[155.7s - 158.3s] constraints of product and what we need to do to graduate.
+[158.3s - 163.0s] And so reminder product services, goods and results that you deliver.
+[163.0s - 166.3s] And so the constraints at this level are that product becomes outdated, right,
+[166.3s - 169.4s] because you've probably been doing this for multiple years at this point.
+[169.4s - 172.2s] Improvements are beginning to take too long to roll out.
+[172.2s - 175.4s] And so to graduate, you have to begin fixing one problem at a time with
+[175.4s - 178.2s] focused feature specific teams.
+[178.2s - 180.1s] All right. So this is what that looks like.
+[180.1s - 184.1s] So it's ruthless focus on the problem that yields the biggest reward,
+[184.1s - 186.3s] not the easiest one to solve.
+[186.3s - 189.0s] I love this story from the GitHub founder.
+[189.0s - 192.8s] He would come on and rather than doing this massive onboarding,
+[192.8s - 196.5s] he just asked, what were the number the top 100 problems that people
+[196.5s - 199.1s] complained about for the system?
+[199.1s - 200.9s] And so he brought the whole engineering team on and he said,
+[200.9s - 203.4s] we're just going to solve this problem today.
+[203.4s - 206.2s] And they didn't do anything until they solved that problem.
+[206.2s - 207.5s] And then they just kept going.
+[207.5s - 210.3s] And then finally, they would solve the second problem.
+[210.3s - 213.0s] And what's interesting is that we have this fallacy of concurrent
+[213.0s - 216.9s] thinking, which is that of theoretically, we should be able to execute five
+[216.9s - 220.3s] things at the same time and get them done in one fifth the time.
+[220.3s - 224.7s] But in fact, it takes like five times the amount of time as if you had just
+[224.7s - 228.6s] done it sequentially or chronologically, because the cost of
+[228.6s - 229.8s] switching is real.
+[229.8s - 233.1s] And so people don't work that way.
+[233.1s - 236.6s] And so putting all of the company's resources on one problem then creates
+[236.6s - 239.7s] the urgency from the fact that all these other problems exist to get that
+[239.7s - 244.1s] problem done quickly. This one, one problem, one team, one measurable objective.
+[244.1s - 246.6s] The idea here. So this comes from Peter Thiel.
+[246.6s - 248.4s] I mean, his team has talked about this. He talks about it,
+[248.4s - 250.8s] but he was just ruthless in trying to make sure that people only
+[250.8s - 253.0s] solved one problem. That was it.
+[253.0s - 256.0s] For the same exact reason is that people have a very hard time splitting
+[256.0s - 261.2s] focus and a split focus is like one fifth as effective, not half as effective
+[261.2s - 264.9s] between two traits. And the thing is that works company wide.
+[264.9s - 268.2s] And so fundamentally at this level, it's very easy to describe this.
+[268.2s - 272.6s] It's like we just did a quarterly with our largest portfolio company.
+[272.6s - 276.6s] We spent the whole day just to say, this is the one thing that we're
+[276.6s - 279.0s] going to do. And it's hard.
+[279.0s - 281.4s] Like, I want to be able to describe this to you, but I can just tell you
+[281.4s - 283.9s] that, like, at the end of the day, when that happened, the whole team was
+[283.9s - 286.2s] like, wow, we get it.
+[286.2s - 288.4s] And so I'm trying to bring this to you.
+[288.4s - 290.4s] Like, right now, if you're like, oh, we've got these five objectives and
+[290.4s - 293.6s] we've got the sub objective, it's like you actually haven't prioritized.
+[293.6s - 296.5s] And that is the job is that there are many things that are important.
+[296.5s - 299.6s] But if you can't say this is the most important and that we will do this
+[299.6s - 302.1s] first, then you haven't done your job.
+[302.1s - 305.4s] Yeah. And I think a lot of the times what happens is as the team gets
+[305.4s - 308.8s] bigger, you think, well, now I have executives, now I have directors,
+[308.8s - 311.0s] like we should be capable of doing more things.
+[311.0s - 314.5s] It's not about doing more things at the same time.
+[314.5s - 318.4s] It's about being able to do more things over the span of a year or two years
+[318.4s - 322.8s] with ruthless focus on the sequence and focusing on one thing at a time.
+[322.8s - 326.5s] So I think that a lot of times the reason that there's this illusion that
+[326.5s - 329.0s] now that we have more leaders, we're going to have more capability of doing
+[329.0s - 330.7s] that because we have more people and more leaders.
+[330.7s - 333.7s] But the reality is, is that it's still one company and the departments
+[333.7s - 336.7s] are still pulling from resources that you may not even know about.
+[336.7s - 339.6s] And so there's an example, which is, you know, earlier today was on a
+[339.6s - 342.9s] meeting with our team and we had, you know, a big problem that we're like,
+[342.9s - 344.7s] this is the first thing we're going to solve.
+[344.7s - 348.4s] And the way that I plan my time is I'm focused on that problem this week.
+[348.4s - 350.9s] And someone said, you know what, actually, we should start really
+[350.9s - 352.0s] thinking about this right now.
+[352.0s - 354.5s] So should we use the rest of the meeting to to talk about this other
+[354.5s - 360.0s] problem? So even though this problem we now have solved and now we just
+[360.0s - 363.9s] need to go execute the plan, if we start on the next problem,
+[363.9s - 365.6s] people are going to have split attention.
+[365.6s - 368.4s] So something that you want to think about is it's not just the
+[368.5s - 369.9s] resources and the time.
+[369.9s - 371.5s] It's the attention of the team.
+[371.5s - 373.9s] Where's their discretionary effort going?
+[373.9s - 376.9s] And this is something that we're both ruthless with in terms of how we
+[376.9s - 379.7s] use our time. We have very different roles in the company,
+[379.7s - 383.8s] but we both are very particular about what we focus on because
+[383.8s - 386.5s] the value of having all of your discretionary effort, all of your
+[386.5s - 389.9s] shower time, all of your dinner conversation to one thing,
+[389.9s - 392.8s] you're going to solve that thing in a third or a fourth of the time
+[392.8s - 396.5s] than if you were to spread out your attention over all these other things.
+[396.5s - 399.0s] And so it's almost like you have to be able to put blinders on and then
+[399.0s - 402.8s] also help your team put the blinders on so that they're focused on that
+[402.8s - 405.4s] one problem and they will solve it in such a shorter period of time.
+[405.4s - 408.2s] And so, again, just because you have the time and the people
+[408.2s - 409.6s] doesn't mean you have the attention.
+[409.6s - 413.6s] And so at this point, we graduate from product being outdated,
+[413.6s - 416.5s] improvements taking too long to roll out, to fixing one problem
+[416.5s - 419.4s] at a time with a focused feature specific team.
+[419.4s - 422.1s] So it's like, OK, this is the one big objective.
+[422.1s - 424.9s] Now, if we say, OK, you know, risk is our biggest
+[424.9s - 426.3s] objective that we need to tackle.
+[426.3s - 427.7s] Well, there's going to be components to that.
+[427.7s - 430.5s] There's going to be like, OK, what is our messaging on email?
+[430.5s - 432.2s] What's our what is our webinar language?
+[432.2s - 433.6s] What does our telemarketing look like?
+[433.6s - 436.9s] Like all of these are going to have kind of tendrils attached to them.
+[437.1s - 439.0s] But you want to be able to actually go deep on them.
+[439.0s - 441.7s] And my little litmus test for you is that you probably had five goals
+[441.7s - 443.8s] last year and then when you looked at your goals this year,
+[443.8s - 445.6s] you probably didn't accomplish them.
+[445.6s - 447.9s] And so as much as you're like, well, I could just do all five.
+[447.9s - 449.2s] And why would I want to wait?
+[449.2s - 451.1s] Because we could just do all five by the end of the year.
+[451.1s - 453.2s] The year will come and you will not have done them.
+[453.2s - 455.3s] There's a quote that has always stuck with me
+[455.3s - 456.6s] when it comes to building a company.
+[456.6s - 459.6s] And it's really it really resonates with companies of this size,
+[459.6s - 464.0s] which is companies die from the inside out, not from the outside in.
+[464.0s - 466.4s] And so most companies, the reason that they don't succeed is not
+[466.4s - 469.6s] because of like the external market force or the economy
+[469.7s - 471.5s] or the weather or anything else happening.
+[471.5s - 473.6s] It's how they organize themselves internally.
+[473.8s - 477.9s] And most companies die from indigestion, not starvation,
+[477.9s - 480.4s] meaning they try to take on too much rather than too little.
+[480.4s - 481.6s] And that starts with product.
+[481.6s - 484.9s] And that's why the big the big prioritization.
+[484.9s - 486.5s] You're going to have one thing that you're going after.
+[486.5s - 489.5s] It's just that that thing, when you get to a bigger company, is a bigger thing.
+[489.8s - 490.9s] And that's really the difference.
+[490.9s - 493.2s] So it's not like, oh, we have all these capabilities.
+[493.2s - 494.8s] We should be able to do five things.
+[494.8s - 495.9s] You have all these capabilities.
+[495.9s - 497.4s] You should be able to do one bigger thing.
+[497.4s - 500.0s] You know, to give an example of that, you know, we have a portfolio
+[500.0s - 503.1s] company right now, and that one big thing is we are
+[503.4s - 506.2s] changing from a service company to a software company.
+[506.6s - 509.7s] And so it's really like we're not going to try and do more upsells.
+[509.7s - 510.8s] We're not going to raise the price.
+[510.8s - 512.4s] We're not going to we're not going to do anything.
+[512.6s - 517.4s] We're just going to transition from a service company to a SaaS company.
+[517.4s - 518.5s] And that is the focus.
+[518.5s - 521.9s] And it's like, all right, that might take 18 months, 24 months
+[522.2s - 524.6s] that we have to do that one thing and nothing else
+[524.6s - 526.2s] that is going to get in the way.
+[526.2s - 528.0s] I will say there's always the unspoken sixth,
+[528.0s - 530.5s] which is like keep running the business and making money
+[530.5s - 531.8s] and doing all those things.
+[531.8s - 534.2s] But priorities wise, like that's the number one priority.
+[534.2s - 536.0s] And everything revolves around that.
+[536.0s - 539.3s] And as tempting as it is to capitalize on all these other opportunities
+[539.3s - 540.8s] that keep popping up for the business,
+[540.8s - 543.0s] we just remain ruthlessly focused on that one thing.
+[543.1s - 547.0s] And to put your mind at rest as the entrepreneur, if you are like, wait,
+[547.0s - 548.8s] what are we we're not going to we're not going to tackle
+[548.8s - 551.5s] all of these other things that I see as many priorities
+[551.5s - 553.7s] or they're important, but not as important.
+[553.7s - 556.2s] The thing is, is that and I've learned this the hard way
+[556.7s - 558.4s] when I would leave a business alone,
+[558.4s - 560.4s] it would almost always just invariably do better.
+[560.9s - 564.8s] And so whenever you change stuff, you guarantee a cost of change.
+[565.0s - 567.2s] You don't guarantee the upside of improvement.
+[567.4s - 568.8s] But every time you change something,
+[568.8s - 571.7s] everyone basically has to reset it zero, relearn the new process,
+[571.7s - 573.7s] relearn the new whatever it is.
+[573.7s - 576.5s] And so the fact that you are deploying all of your new
+[576.5s - 579.4s] or discretionary effort and resources towards this one problem,
+[579.6s - 582.2s] the rest of the team that's kind of like making the sausage,
+[582.2s - 584.9s] transacting every single day, they just get better and better
+[584.9s - 587.6s] at their jobs because you're finally just like letting them breathe.
+[587.8s - 589.9s] And so some problems do end up just solving themselves.
+[589.9s - 593.6s] And so you end up making up an efficiency in the normal business.
+[593.9s - 597.2s] What you thought you were going to have to do through brute forcing it.
+[597.2s - 599.5s] This is something I've I've seen myself.
+[599.5s - 602.2s] All right. So from there, that's our that's what we have to do for product.
+[602.2s - 605.3s] So what is what are the constraints look like for marketing at this level?
+[606.0s - 610.0s] So lead flow becomes volatile because you only have one way to get customers.
+[610.0s - 613.6s] So this is usually in the one to two million a month ish range
+[614.6s - 616.5s] where you get to get to this point.
+[616.5s - 619.6s] And the you obviously know how to do so.
+[619.6s - 621.0s] You know, you know, one channel pretty well.
+[621.0s - 623.4s] When you have lots of volume, tiny changes.
+[623.6s - 625.7s] It's like, oh, you know, our lead flows down 20 percent.
+[625.8s - 627.6s] Oh, shoot. Well, that's for sales guys.
+[627.6s - 629.5s] You don't have empty calendars now.
+[629.5s - 631.7s] And so like the volatility of a couple of percentage points,
+[631.7s - 634.4s] when you're small, you barely notice when you're big.
+[634.5s - 637.3s] Those couple of percentage points make huge swings in the business.
+[638.0s - 640.8s] And so to graduate, you want to fund a second acquisition
+[640.8s - 643.8s] channel with a referral a referral process and track it,
+[643.8s - 646.0s] which I'll explain in a second.
+[646.0s - 648.8s] You would have segments of lead nurture by lead score,
+[649.1s - 650.7s] which I'll also break down.
+[650.7s - 654.0s] And then you want to pick the most similar platform or do a new core force.
+[654.0s - 656.5s] I'll walk through like, how do we prioritize what platform
+[656.6s - 659.0s] we're going to go as our second platform for acquisition?
+[659.0s - 661.8s] So one of the hardest transitions in business is adding the second channel.
+[661.8s - 662.9s] So I'm going to be really clear about this.
+[662.9s - 665.8s] It's one of the biggest risks, but it has one of the highest upside.
+[665.8s - 666.7s] So let me explain.
+[666.7s - 670.6s] So if you think about decreasing risk and increasing upside,
+[670.6s - 673.7s] then a second acquisition channel kind of checks both boxes.
+[673.9s - 675.7s] Because now, if you go from one to two,
+[675.7s - 678.0s] you're split in terms of how like where your customers go.
+[678.0s - 679.0s] You're not you don't have one idea.
+[679.0s - 680.7s] You're not reliant on one thing.
+[680.7s - 682.9s] So that decreases risk in the business. Good thing.
+[683.2s - 684.9s] But on top of that, if this stays the same,
+[684.9s - 687.8s] which I want to walk through how to do that, then all of this is just gravy.
+[687.8s - 691.7s] You just you can double the business and make it less risky at the same time.
+[691.9s - 694.1s] So it's one of the most powerful moves you can do in business.
+[694.2s - 696.2s] But there's a reason that we wait until we're a category,
+[696.2s - 698.4s] you know, category seven hurricane
+[699.2s - 701.8s] until we're at this stage to basically make this bet,
+[701.8s - 703.2s] because it will drain resources
+[703.2s - 705.5s] and it will take significantly more time than you expect.
+[705.5s - 707.6s] All right. And so I like to frame it like this,
+[707.6s - 709.4s] which is that this is an investment.
+[709.4s - 712.0s] If I were to say to you, hey, you know, give me
+[712.2s - 713.8s] give me five hundred grand.
+[713.8s - 717.1s] And in a year, you'll have a second acquisition channel
+[717.1s - 719.4s] that's profitable and equal to your current one.
+[719.4s - 721.0s] Would you make that trade at this level?
+[721.0s - 722.7s] Five hundred grand. You should absolutely do that.
+[722.7s - 725.0s] Like there's basically no way that you wouldn't do that trade.
+[725.0s - 725.9s] You say that.
+[725.9s - 729.2s] And then as soon as you spend your first month of ads on a new platform,
+[729.2s - 731.5s] you spend ten grand and then you make zero dollars back
+[731.7s - 732.9s] and then you do it a second month.
+[732.9s - 735.1s] You're like ads don't work for me.
+[735.1s - 738.1s] All right. And so I would encourage you to say, like, don't think that
+[738.3s - 740.7s] because the way it's going to feel or the way it's going to actually happen
+[740.7s - 742.2s] is like you spend ten, you lose ten.
+[742.2s - 744.4s] You spend ten, you lose ten. You spend ten, you lose ten.
+[744.4s - 747.6s] You spend ten, you lose ten. You spend ten, you make five.
+[747.8s - 750.0s] You spend ten, you make twenty five.
+[750.0s - 752.0s] You spend ten, you make fifty.
+[752.3s - 753.6s] And then you're like, holy shit.
+[753.6s - 756.5s] And then that one month, you made back all the losses you had.
+[756.5s - 759.2s] But it took you eight months to get there or nine months to get there.
+[759.2s - 760.6s] That's what the experience is.
+[760.6s - 763.4s] And so you just have to focus on moving the dial
+[763.4s - 764.9s] one at a time down the pipeline.
+[764.9s - 766.8s] Are we getting clicks or getting opt ins?
+[766.8s - 768.6s] OK, we're getting opt ins. Are they scheduling?
+[768.6s - 769.5s] No, they're not scheduling. All right.
+[769.5s - 770.4s] Let's improve this.
+[770.4s - 771.6s] Let's improve the offer on that page.
+[771.6s - 772.5s] OK, they're scheduling now.
+[772.5s - 774.0s] We're getting on the phone. They're not showing.
+[774.0s - 775.5s] OK, how do we improve our lead nurture?
+[775.5s - 777.4s] You just keep pushing it along until eventually you're like,
+[777.4s - 779.4s] we're getting on the phone with the right people. Holy cow.
+[779.6s - 781.5s] And then you've created a second channel.
+[781.5s - 785.4s] So expect a 12 month delay for the return doubles acquisition.
+[785.4s - 787.5s] It can reduce risk. The intervention story.
+[787.5s - 791.1s] This is when we started doing outbound as our second main channel
+[791.1s - 793.9s] for Jim launch to give you context on this, it took
+[794.6s - 798.6s] it took, I think, three months for us to get our first sale from outbound.
+[799.0s - 801.7s] And at month six, my entire executive team
+[802.2s - 804.8s] did like a little mini intervention and was like, hey, Alex,
+[805.0s - 806.5s] I think this might be a shiny object.
+[806.5s - 808.9s] I think we should just focus on the main thing.
+[808.9s - 811.3s] Trying to use my language against me.
+[811.3s - 814.3s] But I was like, no, because the thing is, is that they weren't close
+[814.3s - 815.7s] enough to see the progress.
+[815.7s - 817.8s] And so I was like, no, no, we figure out the list thing.
+[817.8s - 818.5s] So we're getting the list.
+[818.5s - 820.0s] You know, we're enriching the data.
+[820.0s - 822.3s] And OK, now we're you know, we figured out the pickup problem.
+[822.3s - 823.7s] So we know how the best times of day
+[823.7s - 826.1s] and how to wrap our phone number so we can come from a local area.
+[826.2s - 828.1s] OK, we did that. OK, now we're getting pickups. OK.
+[828.3s - 830.2s] And then we couldn't get the script right to get them to book a call.
+[830.2s - 831.4s] So we got the script and the offer.
+[831.4s - 833.2s] So now they're booking calls. OK, cool.
+[833.2s - 834.4s] But now they're not showing up to those calls.
+[834.4s - 835.2s] So we had to figure out.
+[835.2s - 838.3s] So like the team just saw zeros over and over and over again
+[838.3s - 839.0s] in terms of sales.
+[839.0s - 840.4s] I saw the money that was going into it.
+[840.4s - 842.2s] But they didn't see the progress along the way.
+[842.2s - 845.3s] And so as long as you can see progress, I would say keep going.
+[845.5s - 848.2s] And I would say that at this point, what you want to recognize to
+[848.2s - 851.2s] some of the dynamics that are happening, which is a lot of the team
+[851.2s - 854.5s] that you have now, they are people that are great at growing a business
+[854.5s - 856.4s] and iterating on what exists.
+[856.4s - 859.0s] But they may not be people that can go from zero to one.
+[859.3s - 861.4s] And it's really good to understand the people on your team.
+[861.4s - 864.4s] Like it's best if on a new initiative, like when you're spinning up
+[864.4s - 866.4s] a new channel, you put somebody who's a good zero to one.
+[866.4s - 869.9s] They can create something from nothing versus taking someone
+[869.9s - 873.7s] who's a five to ten who likes to iterate on an already existing idea
+[873.8s - 877.0s] and then say, hey, go do this thing, create something out of nothing.
+[877.1s - 878.3s] Those people get very anxious.
+[878.3s - 879.5s] They say, oh, it's not going to work.
+[879.5s - 880.8s] They speak a lot of doubt into it.
+[880.8s - 884.1s] And so just recognize, too, if you have people that are consistently
+[884.1s - 886.8s] doubting something new, they're probably not zero to one people.
+[887.0s - 888.2s] OK, so cash flow the transition.
+[888.2s - 890.0s] You're like, OK, well, this is going to be a big bet.
+[890.0s - 892.7s] So what we want to do at this stage is create space.
+[892.7s - 894.6s] We want to create padding for the bet.
+[894.6s - 897.4s] And so the two main thing are referrals and segmented nurture.
+[897.4s - 900.5s] All right. And so from a cash flow perspective,
+[901.5s - 904.5s] we're going to get more out of what we already have. Right.
+[904.5s - 907.9s] And so how do we put a really strong and sexy referral play?
+[907.9s - 909.0s] And I'll cover that in a second.
+[909.0s - 912.6s] And then with with our lead scoring that we should
+[912.6s - 914.9s] you should have already you should already have lead scoring at this point.
+[914.9s - 917.8s] If you don't have lead scoring, please strongly consider scoring your leads
+[917.8s - 920.0s] by who they are, what they've done and where they came from.
+[920.3s - 923.0s] But once you have that and you're feeding them to the best sales guys,
+[923.4s - 925.7s] instead of blasting your list three times a week, you can say,
+[925.7s - 927.6s] oh, we have six pockets of leads.
+[927.8s - 931.1s] We should delineate what messages go to which leads.
+[931.4s - 934.6s] All right. And so from a referral perspective,
+[934.9s - 935.9s] these are the seven plays.
+[935.9s - 938.6s] This is directly from the hundred million dollar leads book.
+[938.6s - 942.1s] But there are these are these are all plays that I have done that worked.
+[942.3s - 944.4s] So these are not these are not theory.
+[944.4s - 945.2s] These are the actual ones.
+[945.2s - 948.8s] So really simply a one sided referral benefit is that you pay your average
+[948.8s - 950.2s] CAC to the refer.
+[950.2s - 953.0s] And so what's weird is that we're really happy to pay Zuckerberg
+[953.1s - 956.1s] or Sundar or whoever, you know, Google's right.
+[956.1s - 958.2s] We're really happy to pay them like three thousand dollars
+[958.2s - 959.6s] for a new customer.
+[959.6s - 961.8s] But we're not willing to pay our customers three thousand dollars
+[961.8s - 965.3s] for a customer. And a referral is going to be way more likely to stick,
+[965.3s - 967.2s] way more likely to refer another customer.
+[967.2s - 969.4s] They say yes at higher prices.
+[969.4s - 971.2s] They convert better. They stay longer.
+[971.2s - 971.8s] All those benefits.
+[971.8s - 973.6s] And for some reason, we're not willing to do that.
+[973.6s - 976.6s] So just look at your CAC and just say, I'll give you that.
+[976.6s - 977.9s] Don't do 20 percent or 50.
+[977.9s - 980.0s] Just pay them what you would pay somebody else.
+[980.6s - 982.1s] And you'd be amazed how much that works.
+[982.1s - 983.3s] Now, the second is two sided.
+[983.3s - 984.8s] Now, this takes that concept.
+[984.8s - 988.0s] And I like this much better, which is the math is the same,
+[988.0s - 990.1s] except I split it between two people.
+[990.1s - 994.0s] And so this way, it's like I think about this as relational capital.
+[994.4s - 997.0s] If I'm going to go to Jason and say, hey, Jason,
+[997.0s - 999.8s] you should come join this thing or you should check out this software
+[999.8s - 1003.9s] or whatever, if he knows that I'm getting this big nut for doing it,
+[1003.9s - 1006.2s] he might be like, wait, are you just doing this to make money off of me?
+[1006.3s - 1007.5s] And so it doesn't look as cool.
+[1007.5s - 1009.8s] And so if I'm like, dude, if you come through me, you get 20 percent off.
+[1009.8s - 1011.4s] You can't get 20 percent off anywhere else.
+[1011.4s - 1012.7s] And it's like, oh, cool. Thanks, man.
+[1012.7s - 1014.2s] So he gets 20 percent off.
+[1014.2s - 1016.2s] I get 20 percent of the revenue overall.
+[1016.2s - 1020.0s] Everybody wins. And so I like two sided benefits for referrals.
+[1020.0s - 1022.6s] The next is just tactically.
+[1022.6s - 1025.2s] I've told the story before, but we had a sales guy who came in
+[1025.2s - 1027.4s] at one of our portfolio companies, outperformed everyone,
+[1027.4s - 1029.1s] like double the top sales guy.
+[1029.1s - 1030.6s] And he was getting the same number of leads.
+[1030.6s - 1032.4s] Everyone else were like, what is this guy doing?
+[1032.4s - 1035.7s] And so we have to I like I have to I'm like going down two levels
+[1035.7s - 1038.6s] into like the manager's meeting of a portfolio anyways.
+[1039.0s - 1044.4s] And so he was like, I just ask him if they want to bring somebody else.
+[1045.2s - 1048.0s] And just by doing that, he was able to double the sales.
+[1048.0s - 1050.1s] And so it's these basics that we forget to do.
+[1050.1s - 1052.5s] But the thing is, is at this level, you need to build some padding
+[1052.5s - 1054.7s] because you're going to be dumping cash into this new channel.
+[1054.7s - 1056.0s] It's not going to work.
+[1056.0s - 1058.3s] So it's like, all right, we're going to get some more referrals.
+[1058.5s - 1060.6s] We're going to we're going to ask for them on the sales call.
+[1061.6s - 1064.8s] If you have people who are coming in and want discounts,
+[1065.1s - 1067.2s] you can also use that as a bartering shit.
+[1067.2s - 1070.4s] So it's basically like, hey, can I get 10 percent off?
+[1070.4s - 1071.9s] It's like, well, I can't give you 10 percent off
+[1071.9s - 1073.6s] just because you've got a pretty face.
+[1073.6s - 1076.0s] But what I can do is if you bring a friend or two friends
+[1076.0s - 1079.4s] or give me three leads, I'm happy to give you that 10 percent
+[1079.6s - 1081.2s] once they transition over. Right.
+[1081.2s - 1083.0s] Or basically you look at this one side referral
+[1083.0s - 1084.8s] can say, well, I'll do you one better.
+[1084.8s - 1087.3s] You want 10 percent. I'll give you three thousand dollars off.
+[1088.0s - 1090.1s] When you bring somebody in. Right.
+[1090.1s - 1092.3s] And so both of these are sales team oriented.
+[1092.3s - 1093.9s] This is just kind of you as a business owner
+[1093.9s - 1095.1s] in terms of what you're thinking about.
+[1095.1s - 1097.0s] Number five is referral events themselves,
+[1097.4s - 1100.2s] which is just actually having a cadence for doing this.
+[1100.3s - 1101.7s] You can run one a quarter.
+[1101.7s - 1103.4s] You bring, you know, bring customers together,
+[1103.4s - 1104.2s] bring clients together.
+[1104.2s - 1106.1s] A lot of times they get value from meeting one another.
+[1106.1s - 1108.0s] And you say, bring a friend. Right.
+[1108.0s - 1110.1s] This work exceptionally well with local businesses.
+[1110.2s - 1112.6s] If you're national, then maybe it'll be two or three times a year.
+[1112.8s - 1115.1s] But same concept works exceptionally well.
+[1115.1s - 1116.6s] We did this with all the gyms.
+[1116.6s - 1119.8s] And a lot of times most people can just get their entire month of sales
+[1119.8s - 1121.1s] just from this referral event.
+[1121.1s - 1122.6s] Ongoing referral programs.
+[1122.6s - 1124.8s] This is just consistently just being consistent,
+[1124.8s - 1128.1s] just consistently talking about it and having a special time.
+[1128.1s - 1131.5s] This is if you're consumer based, special times like double Fridays,
+[1131.5s - 1133.6s] we like double the referral bonus.
+[1133.6s - 1136.0s] I think we call it fast cash Fridays in the gym world.
+[1136.1s - 1138.8s] And so you say, hey, you know, for the whole month of October,
+[1138.8s - 1139.6s] we're doing this.
+[1139.6s - 1142.3s] And if you refer them this Friday, you get double on it.
+[1142.3s - 1143.4s] So it's just like fun stuff.
+[1143.4s - 1145.7s] But that way, because if you if you do it all the time,
+[1145.7s - 1146.8s] it becomes not important.
+[1146.8s - 1149.8s] So having some sort of like mini promotional cycle for when you push
+[1149.8s - 1152.1s] referrals just gets more to actually happen.
+[1152.4s - 1156.0s] And then finally, if you have, especially if you're a national business,
+[1156.9s - 1159.6s] having some sort of unlockable referral bonus that they get some sort of
+[1159.6s - 1161.3s] status associated with it.
+[1161.3s - 1165.1s] All of these things put together can build a banger referral program.
+[1165.1s - 1167.9s] And we're doing this because we need this cash that we're going to dump
+[1167.9s - 1169.3s] into this new pipe to get it live.
+[1169.3s - 1172.0s] So let me cover segments and nurture real quick.
+[1172.0s - 1175.0s] So with segments and nurture HubSpot has this amazing statistic,
+[1175.2s - 1179.9s] which is that email marketing that is segmented
+[1180.2s - 1183.2s] gets like a seven hundred and ninety one percent increase in sales
+[1183.2s - 1185.4s] versus people who don't segment their lists.
+[1185.4s - 1187.6s] And so whatever you're currently getting on email,
+[1187.6s - 1189.9s] if you only have like one segmentation or two,
+[1190.1s - 1192.6s] you could probably at least double or triple the amount
+[1192.6s - 1194.6s] you're getting from email simply by saying, oh,
+[1194.6s - 1196.5s] we're just going to make more emails.
+[1196.5s - 1198.4s] But we're not actually emailing more.
+[1198.4s - 1199.8s] We're emailing more specifically.
+[1199.8s - 1201.7s] So don't think about it like, oh, I'm spamming my list,
+[1201.7s - 1204.4s] because if you have seven categories in the list,
+[1204.6s - 1207.0s] those people now just get far more targeted messaging
+[1207.1s - 1208.9s] and the response rates will go through the roof.
+[1208.9s - 1211.9s] And so these things and the thing is, is that ROAS on email
+[1211.9s - 1213.6s] is one of the highest across all channels.
+[1213.6s - 1215.6s] It's not one of it is the highest
+[1215.6s - 1217.8s] return advertising channel in existence right now.
+[1217.8s - 1219.7s] I think it's between thirty six and forty five,
+[1219.7s - 1221.2s] depending on the source you look at.
+[1221.2s - 1224.2s] Forty five to one in terms of dollars in versus dollars out.
+[1224.8s - 1227.2s] And so from here, we get more cash from here.
+[1227.2s - 1228.2s] We get more cash.
+[1228.2s - 1229.4s] This is from our customers.
+[1229.4s - 1230.5s] This is from our leads.
+[1230.5s - 1232.5s] And now we dump that cash in the second channel.
+[1232.8s - 1234.4s] So then you think, OK, well,
+[1234.4s - 1236.1s] what am I going to make my second channel of?
+[1236.1s - 1237.8s] Like which which there's all these
+[1237.8s - 1238.8s] from places I can advertise.
+[1238.8s - 1240.2s] Where should I go?
+[1240.2s - 1244.3s] And so this is kind of my my my framework for walking through it.
+[1244.3s - 1246.8s] And I do this in order of risk or likelihood.
+[1246.8s - 1250.1s] So the highest likelihood, the one that you'll get fastest results on
+[1250.4s - 1252.6s] will be your your let's say your advertising.
+[1252.6s - 1255.4s] So you're going to do the same core for your run and paid ads.
+[1255.6s - 1257.4s] Well, we're going to keep the thing you already know how to do
+[1257.8s - 1258.8s] in terms of platform.
+[1258.8s - 1260.8s] You're like, OK, we're going to stay on the same platform
+[1260.9s - 1262.7s] and we're going to stick with the same placement.
+[1262.7s - 1264.2s] All we're going to do is add a new audience.
+[1264.2s - 1266.1s] So it's like, let's say you do meta news feed ads
+[1266.3s - 1269.0s] and all you're doing is you just add new targeting.
+[1269.2s - 1270.0s] That's it.
+[1270.0s - 1272.2s] Now, if you're like, well, we've already maxed out our target.
+[1272.2s - 1273.6s] OK, well, cool. You've maxed out all that.
+[1273.6s - 1275.4s] Now we go to the next level. OK.
+[1276.1s - 1279.0s] Now we're going to go same core for same platform,
+[1279.2s - 1281.4s] same audience, but new placement.
+[1281.4s - 1285.5s] So it'd be like meta story ads instead of meta news feed ads.
+[1285.8s - 1287.8s] And everything else remains the same.
+[1287.9s - 1292.1s] And the reason this is a little harder is that it's a new style of it's new medium.
+[1292.2s - 1294.6s] So if you're not used to making vertical videos or in story format,
+[1294.7s - 1296.3s] things like that, or if you're on YouTube, it's like, oh,
+[1296.3s - 1299.6s] we want to have tile ads like there's all these different ad types.
+[1299.8s - 1303.3s] It's it's a bigger jump of skills to just do that than just find
+[1303.3s - 1305.1s] another audience you can hit with the same stuff.
+[1305.1s - 1309.0s] The third level beyond this is, OK, we're going to do the same core for
+[1309.0s - 1310.8s] still, but on an entirely new platform.
+[1310.8s - 1312.8s] So now we're running as we were doing meta.
+[1312.8s - 1313.9s] Now we're going to try YouTube.
+[1313.9s - 1315.4s] Well, what's the closest thing there?
+[1315.4s - 1317.8s] Well, pre-roll ads are kind of similar to news feed ads
+[1318.0s - 1320.9s] because they're both interruption based before someone's consuming something else.
+[1321.1s - 1324.2s] You're like, OK, well, we'll use that as your next target platform.
+[1324.9s - 1327.8s] And then finally, if you're like, we're on all platform,
+[1327.8s - 1330.8s] you know, all paid advertising platforms because you repeat the cycle again
+[1331.0s - 1333.6s] because, OK, let's say you have meta completely maxed out
+[1333.6s - 1334.4s] and you just started YouTube.
+[1334.4s - 1335.6s] We are going to run the same processing.
+[1335.6s - 1338.2s] OK, YouTube and we're going to do community ads
+[1338.2s - 1340.6s] or we're going to do sponsored video ads like all of these
+[1340.6s - 1343.0s] are just different versions that we can add in.
+[1343.0s - 1344.7s] Right. And once we've maxed that out,
+[1344.8s - 1347.8s] then and we go to the next platform, next platform, next platform.
+[1347.8s - 1350.0s] Right. Finally, we go to new core four.
+[1350.3s - 1353.5s] And so what we did at Jim Mons when we went from meta paid ads
+[1353.8s - 1357.9s] to outbound was actually the riskiest move you could possibly make.
+[1358.1s - 1360.6s] And it's also why it took it took us a whole year
+[1360.8s - 1363.7s] before it really got to 50 percent of revenue.
+[1364.0s - 1366.6s] And so I bring this up because hopefully you don't have to make
+[1366.6s - 1368.3s] the same mistakes I did.
+[1368.3s - 1370.9s] There's so many more levers I could have pulled
+[1371.3s - 1373.2s] that would have made us more money that would have been lower
+[1373.2s - 1374.2s] risk and faster.
+[1374.2s - 1375.8s] And so unless you want to like have your whole team
+[1375.8s - 1377.6s] trying to strangle you for a year,
+[1378.3s - 1380.5s] I would strongly recommend following this process,
+[1380.5s - 1381.4s] which is what we do now.
+[1381.4s - 1383.8s] One thing I just want to add is that a lot of times
+[1384.2s - 1387.0s] people go to start their second channel.
+[1387.0s - 1389.1s] And the biggest mistake that we see at this point
+[1389.4s - 1391.6s] is that they take the same people that are running
+[1391.6s - 1394.2s] the first channel that's working and fueling the business.
+[1394.2s - 1396.3s] And they say, great, can you go start the second one?
+[1396.6s - 1400.2s] And so one thing that you do not want to do is split resources.
+[1400.4s - 1402.4s] In fact, we have this saying that we say, which is
+[1402.4s - 1404.5s] we don't put a new on a new, right?
+[1404.5s - 1407.0s] And so we don't put a new on a new and we don't put
+[1407.0s - 1408.6s] the same person on two initiatives.
+[1408.6s - 1411.2s] And so what that looks like is if you have somebody
+[1411.2s - 1413.4s] that's really great, that's running the first channel
+[1413.8s - 1415.9s] before they go to start the second channel,
+[1415.9s - 1418.4s] you want them to backfill themselves,
+[1418.4s - 1420.1s] make sure that that person is able to run it
+[1420.1s - 1422.2s] and hit the same KPIs that they've been hitting,
+[1422.5s - 1424.2s] then put them on the new channel.
+[1424.2s - 1426.4s] The reason that we're not the biggest proponents
+[1426.4s - 1428.8s] of bringing in a new person and putting a new person
+[1428.8s - 1432.0s] on a new channel is because if the channel isn't working,
+[1432.1s - 1434.2s] how do you know if it's the channel or the person?
+[1434.4s - 1436.0s] It's very difficult to know if you've never worked
+[1436.0s - 1437.6s] with that person before because you don't know
+[1437.6s - 1438.7s] what they're proficient in.
+[1438.7s - 1441.2s] And so be very careful making sure that you're putting
+[1441.2s - 1442.9s] the right resources on that new channel.
+[1442.9s - 1446.3s] And I would say that, like all in all, you as a founder
+[1446.3s - 1448.8s] or CEO should probably be pretty involved in spinning up
+[1448.8s - 1451.7s] the second channel to make sure that it actually succeeds.
+[1451.7s - 1454.6s] And you know, if it's not working, what the actual problem is
+[1454.6s - 1455.7s] and extend the time, rise.
+[1455.7s - 1457.3s] And it's not going to happen in 30 days.
+[1457.3s - 1458.6s] It's very unlikely. All right.
+[1458.6s - 1461.6s] And so at this point, at category seven,
+[1462.7s - 1465.5s] we went from more volatile lead flow because you only had one way
+[1465.5s - 1468.0s] to get customers to funding our second channel
+[1468.0s - 1470.7s] with a better referral process, more segmented lead nurture.
+[1470.7s - 1472.7s] So we create more padding, get more customers in,
+[1472.7s - 1475.2s] get more cash flow so that we can make the investment
+[1475.2s - 1477.6s] that's going to take us six months, maybe nine months
+[1477.9s - 1480.4s] to get fully profitable and spun up to the same level
+[1480.6s - 1482.3s] as our existing lead channel.
+[1482.3s - 1485.1s] And so that leads us to the sales,
+[1485.3s - 1487.4s] which is how we get people to give us money.
+[1487.4s - 1490.7s] And so the constraint at this level is that leads are getting wasted
+[1491.0s - 1493.2s] and you're not working them consistently.
+[1493.2s - 1495.1s] See, your leads are getting wasted. Very sad.
+[1495.6s - 1499.3s] All right. And so to graduate, you get better schedule coverage
+[1499.6s - 1503.8s] and you create a lead nurture checklist and you give top kudos
+[1503.8s - 1505.0s] for top show rates.
+[1505.0s - 1507.9s] All right. And so I covered this in one of the earlier ones.
+[1507.9s - 1509.7s] If this is the only video you've watched,
+[1509.7s - 1511.2s] I'll break this down real quick.
+[1511.2s - 1514.0s] But changing your thank you page headline to things
+[1514.0s - 1515.3s] that are more compelling,
+[1515.3s - 1518.3s] moving the scheduler above the fold is going to get a higher conversion rate.
+[1518.5s - 1520.2s] Changing to 15 minute time slots.
+[1520.2s - 1521.1s] We saw this at Allen.
+[1521.1s - 1523.2s] This is one of those things that people have the perception
+[1523.2s - 1524.6s] of a more accurate time.
+[1524.6s - 1527.4s] So 315 might not might work better than three.
+[1527.6s - 1529.1s] And so you have a higher show rate from that.
+[1529.1s - 1531.4s] It also gives the perception of more appointments and more
+[1531.5s - 1533.0s] potential availability.
+[1533.0s - 1534.4s] We open up to seven days a week.
+[1534.4s - 1537.7s] So if we're noticing here like better schedule coverage is
+[1537.9s - 1540.4s] and we talked about this earlier, but like the biggest difference
+[1540.4s - 1543.0s] in throughput all the way across the funnel between two businesses
+[1543.0s - 1546.2s] and identical space is literally the amount of hours per day
+[1546.2s - 1548.2s] and days per week that they have available.
+[1548.2s - 1550.2s] And so if you think about these changes together,
+[1550.2s - 1551.4s] that's all we're maximizing.
+[1551.4s - 1554.3s] How do we basically go open every day of the week, seven days?
+[1554.5s - 1556.1s] How do we do as many hours as possible?
+[1556.1s - 1558.3s] And then within those hours, how do we have as many options
+[1558.3s - 1560.6s] for someone? Because people pick out of convenience.
+[1561.0s - 1564.1s] I had somebody ask me at a workshop, they're like, hey,
+[1564.1s - 1566.1s] but shouldn't I try and like book some of the time
+[1566.1s - 1567.5s] so it looks like we're busy?
+[1567.5s - 1569.8s] I was like, no one cares.
+[1570.2s - 1572.5s] Like if the time they want is now booked
+[1572.5s - 1576.4s] because you created a fake booking, what an idiot you are.
+[1576.6s - 1579.2s] All it shows is that you have capacity.
+[1579.2s - 1582.0s] Like if I've got 20 sales guys, that means that only one of them
+[1582.0s - 1583.7s] has to have enough availability for the whole day
+[1583.7s - 1585.7s] for me to have availability the entire day.
+[1585.7s - 1587.9s] Incentivize setters with 3% of sales.
+[1587.9s - 1590.4s] There's just like an easy thing if you're not incentivizing them.
+[1591.0s - 1593.6s] Implementing automated reminders, which you should probably have
+[1593.6s - 1596.1s] at this point. These are why we call these the basics.
+[1596.1s - 1598.0s] And then we have many reminders that are later on top.
+[1598.8s - 1601.3s] Of course, pro tip one, make sure that the automated reminders
+[1601.3s - 1604.5s] are clearly automated and that the manual reminders are clearly manual.
+[1604.5s - 1606.5s] And so, yes, that means we buy all of our guys' iPhones
+[1606.5s - 1608.4s] because we want them to have that blue message.
+[1608.4s - 1610.4s] We want someone to know it's a real person.
+[1610.4s - 1612.6s] And when we connect the setters with the closers,
+[1612.6s - 1614.4s] if you have a two-step sale, for example,
+[1614.4s - 1616.1s] or even if it's not a two-step, like you want to have
+[1616.1s - 1617.4s] some sort of three-way introduction.
+[1617.4s - 1619.7s] So it's like one shared message where there's three people on.
+[1619.7s - 1622.8s] They know one person, but then it's less like a little ghost
+[1622.8s - 1625.2s] because they're like, oh, I just talked to Sarah for an hour.
+[1625.2s - 1626.4s] OK, I'm going to meet this guy, John.
+[1626.4s - 1629.8s] But Sarah has visibility and the person knows that she's kind of watching.
+[1629.8s - 1632.8s] Daily kudos. This is just making sure that you're praising the stuff that matters.
+[1633.4s - 1637.0s] It's a lot easier to get a 20% lift in show rates than it is to get a
+[1638.2s - 1640.1s] 20% increase in close rates.
+[1640.1s - 1642.8s] All right. And so I will tell you right now,
+[1642.8s - 1644.4s] you will get significantly more.
+[1644.4s - 1647.3s] All of like this is nurture is OK once you have them scheduled.
+[1647.3s - 1649.4s] But all of this is to increase scheduling overall.
+[1649.7s - 1652.5s] And so if you put these things in place, you can often significantly more
+[1652.8s - 1656.0s] than increase your throughput by 20% bribe for show rates.
+[1656.0s - 1658.2s] This is just, you know, the T-shirt for gyms.
+[1658.2s - 1659.7s] What flavor do you want?
+[1659.8s - 1661.2s] What size shirt do you like?
+[1661.2s - 1664.8s] Like we like to have some sort of either or or you can just give straight up cash,
+[1664.8s - 1665.8s] which is like, hey, let me buy it.
+[1665.8s - 1667.6s] Let me give you a gift card to something that's relevant
+[1667.6s - 1669.0s] to this particular customer.
+[1669.0s - 1672.0s] Actually, where we got this from was we had a gym that was a kickboxing gym
+[1672.4s - 1674.8s] and they were getting insane show rates.
+[1674.8s - 1677.2s] I mean, I think it was like somewhere upwards of like 70.
+[1677.4s - 1678.6s] It was absurd.
+[1678.6s - 1681.4s] And what we found out they were doing is basically when they were booking
+[1681.4s - 1683.0s] the leads, they were saying, hey, great.
+[1683.0s - 1685.1s] So when you come in, do you want pink or black gloves?
+[1685.4s - 1686.1s] And they're like, what?
+[1686.1s - 1686.8s] And they're like, yeah.
+[1686.8s - 1688.9s] So if you show up for the appointment, we're going to give you some free gloves.
+[1688.9s - 1690.2s] Your own custom pair of gloves.
+[1690.2s - 1691.5s] And everyone's like, oh, wow.
+[1691.5s - 1693.6s] And then once someone has the gloves, they sweat in them.
+[1693.6s - 1694.9s] It's like, are you going to not?
+[1694.9s - 1695.9s] It's like, oh, let me get this.
+[1695.9s - 1696.9s] I know those are a gift to you.
+[1696.9s - 1698.1s] It's like, oh, no, I'm not going to sign.
+[1698.1s - 1699.9s] It's just like you feel horrible.
+[1699.9s - 1701.2s] Right. And so it worked.
+[1701.2s - 1701.8s] It worked great.
+[1701.8s - 1704.6s] The only other thing that we want to mention is that if you have sales
+[1704.6s - 1707.3s] team that are texting people, they are sending reminders themselves.
+[1707.6s - 1710.6s] If you're a local business, make sure this is such a small thing.
+[1710.6s - 1713.2s] Make sure that they have a local area code
+[1714.1s - 1716.6s] because people are not going to likely pick up
+[1716.6s - 1719.1s] if it's an area code from Florida and you're in New York
+[1719.1s - 1721.1s] or if you're in California, it's from Florida.
+[1721.8s - 1724.3s] And then the second piece to it is that if they're not local,
+[1724.3s - 1727.8s] you can get software that will when they call the leads,
+[1727.8s - 1730.5s] it will change their area code to match the area code
+[1730.5s - 1732.4s] of the number that they're calling or texting.
+[1732.4s - 1736.4s] And so highly suggest doing that because it also is one of those
+[1736.4s - 1739.9s] like tiny little things that affects throughput way more than you would ever imagine.
+[1739.9s - 1742.5s] You probably see this and be like, oh, well, for me to get better
+[1742.5s - 1744.6s] schedule coverage, I'm going to need to hire more guys.
+[1744.6s - 1747.3s] Now, this whole training is about just the functions of the business,
+[1747.3s - 1748.4s] not the people.
+[1748.4s - 1751.0s] But I would feel remiss not mentioning this one point,
+[1751.0s - 1753.7s] which is that, OK, well, if in order for you to do this,
+[1753.7s - 1755.7s] you have to hire three more sales guys.
+[1755.7s - 1759.0s] Well, if it increases your sales by 30 percent for your revenue
+[1759.0s - 1761.5s] and if you're at this size company, that's a no brainer.
+[1761.8s - 1763.9s] So yes, you might have to hire more people.
+[1763.9s - 1765.3s] Also, welcome to growing.
+[1765.3s - 1768.6s] And when these people come in, my recommendation is that they get low
+[1768.6s - 1772.2s] man status, meaning they don't get the like now you have all this
+[1772.2s - 1774.0s] coverage that has to get get handled.
+[1774.0s - 1775.7s] So start the new guys on the worst coverage.
+[1775.7s - 1778.3s] If your guys are working five days a week, by the way, easy way
+[1778.3s - 1780.8s] to make more money, sell the other one hundred and four days of the year.
+[1782.1s - 1783.4s] You pay rent.
+[1783.4s - 1786.9s] So so have have those guys start Saturday, Sunday
+[1787.0s - 1789.3s] and then pick their two days off in the middle of the week.
+[1789.3s - 1791.6s] Maybe they take off, you know, Tuesday, Wednesday or whatever it is.
+[1792.0s - 1794.0s] So just little easy things that you can do that way.
+[1794.0s - 1796.3s] The new guys can work their way up.
+[1796.5s - 1799.4s] And for us, we like to do like, OK, the guys who are the top
+[1799.4s - 1801.6s] closure this month, they get to pick their schedules.
+[1801.8s - 1804.5s] Something to note as well, when it comes to the availability,
+[1804.5s - 1807.9s] is that you want to think about the customer that you serve.
+[1808.2s - 1810.8s] You know, when we were running Jim launch, what we knew is that
+[1810.8s - 1815.0s] gym owners usually run sessions in the morning and in the evening.
+[1815.2s - 1818.1s] And so they actually have the most availability in the middle of the day.
+[1818.4s - 1821.8s] Whereas a lot of other customers, if you're talking to people who have jobs,
+[1821.8s - 1824.5s] they might be more available in the morning and in the evening
+[1824.5s - 1826.8s] and not available in the middle of the day because they're working nine to five.
+[1827.1s - 1831.1s] So also, you want to optimize for the times that work best for your customers.
+[1831.2s - 1834.5s] And so that is sales at this level.
+[1834.5s - 1837.6s] We started with your leads are getting wasted in the work, working them consistently.
+[1837.8s - 1839.8s] And so we put in better scheduled coverage.
+[1839.8s - 1841.3s] We do the lead nurture checklist.
+[1841.3s - 1845.0s] We create kudos and kind of a culture of show up rate
+[1845.0s - 1849.0s] being equally valued as close rates, because at the end of the day,
+[1849.0s - 1850.5s] the dollar spend the same.
+[1850.5s - 1853.7s] So with that being said, let's transition to is it customer service?
+[1854.1s - 1856.9s] All right. So customer service is how you get customers to refer,
+[1856.9s - 1858.7s] retain, review and resell.
+[1858.7s - 1860.2s] And so that is actually what we're going to talk about,
+[1860.2s - 1864.0s] because at this level, your customer service is only reactive.
+[1864.0s - 1867.1s] OK, it's all firefighting and there's no proactivity happening.
+[1867.4s - 1869.9s] And typically what you're realizing is that's probably not going to cut it.
+[1870.4s - 1873.2s] And so what you want to do to graduate is you want to create
+[1873.2s - 1876.0s] a proactive customer journey and communication
+[1876.2s - 1878.8s] so you can focus on renewals and ascensions.
+[1879.0s - 1881.2s] So here's what that looks like when you're looking at
+[1881.9s - 1883.8s] what you want to input into your customer journey.
+[1883.8s - 1886.0s] OK, we talk about this the entire way through, which is
+[1886.0s - 1889.3s] these are really the four R's of customer service and customer journey.
+[1889.4s - 1892.1s] OK, so when we think about retaining, what do we want to do to retain?
+[1892.3s - 1895.3s] We want to ensure that customers remain engaged and satisfied
+[1895.3s - 1898.9s] by delivering exceptional experiences and continuous value.
+[1899.1s - 1901.3s] OK, so that's one of the first things that we want to optimize
+[1901.3s - 1904.6s] a customer journey for is how are we consistently delivering
+[1904.6s - 1907.0s] an exceptional experience and continuous value?
+[1907.4s - 1909.9s] I'm going to talk about these more tactically after I go through all.
+[1910.3s - 1912.7s] The second one is that we want to review, right?
+[1912.7s - 1916.5s] So we want to gather feedback through surveys and reviews, right?
+[1916.7s - 1920.3s] To identify improvement opportunities or what additional products
+[1920.3s - 1922.0s] and services can we offer people?
+[1922.0s - 1924.6s] A lot of the times what you'll see is that when people are complaining
+[1924.6s - 1927.7s] about something or when people are giving like negative feedback,
+[1927.7s - 1929.3s] it's because you actually have an opportunity to create
+[1929.3s - 1930.6s] a new product or service, right?
+[1930.6s - 1932.5s] That could be an add on. It could be an upsell.
+[1932.5s - 1934.2s] It could be something else to send people to.
+[1934.2s - 1935.7s] And I'll just split this.
+[1935.7s - 1937.3s] You get feedback from the people who hate you
+[1937.3s - 1939.0s] and you get reviews from the people who love you.
+[1939.0s - 1941.0s] Third is that you want to get people to refer, right?
+[1941.0s - 1943.7s] So encouraging happy customers to recommend your business
+[1943.7s - 1946.4s] by launching referral programs and tracking advocacy.
+[1947.2s - 1949.3s] And the last piece of the customer journey is resale.
+[1949.3s - 1951.7s] So how are we going to boost revenue by upselling, cross-selling
+[1951.7s - 1954.5s] or renewing subscriptions to maximize customer lifetime value?
+[1954.5s - 1957.2s] So essentially what you want to do at this point in time
+[1957.2s - 1960.3s] is these are all the things that you want to have happen.
+[1960.3s - 1963.6s] Now you need to make sure that these things are mapped out
+[1963.6s - 1966.2s] and you know how they are happening, right?
+[1966.2s - 1968.7s] And so, exactly, so a customer journey,
+[1968.7s - 1974.0s] what I recommend doing is that you have a line for each one of the Rs, OK?
+[1974.0s - 1975.4s] And so a lot of the times that we have
+[1975.4s - 1977.9s] what I've talked about in earlier videos is you have one line
+[1977.9s - 1979.8s] that's talking about what happens for the customer
+[1979.8s - 1981.2s] and then you have one line that's talking about
+[1981.2s - 1983.1s] what's going to happen for the employee.
+[1983.1s - 1985.3s] So what's the employee going to do? What's the customer going to do?
+[1985.3s - 1988.0s] But then what you also want to have is you want to have these things
+[1988.0s - 1991.4s] segmented out because at this point, each one of these things
+[1991.4s - 1994.8s] is important enough and has enough, I would say, like meat to it
+[1994.8s - 1996.5s] that you want to have a line for each of these.
+[1996.5s - 1999.5s] So it's almost like I'm going to have this is what my customer is doing
+[1999.5s - 2000.5s] at this point in time.
+[2000.5s - 2002.1s] This is what my employee is doing at this point in time.
+[2002.1s - 2004.9s] And now what are all the things we're doing to retain?
+[2004.9s - 2006.9s] What are all the things we're doing to get reviews?
+[2006.9s - 2008.9s] What are all the things we're doing to get people to refer?
+[2008.9s - 2011.3s] And what are all the things that we're doing to get people to resell?
+[2011.3s - 2014.3s] And that needs to be clearly articulated in the customer journey.
+[2014.3s - 2015.8s] Now, here's the reason why.
+[2015.8s - 2019.4s] If you want to go from being reactive to proactive,
+[2019.4s - 2020.8s] you need a process.
+[2020.8s - 2023.7s] And so a customer journey is literally a process.
+[2023.7s - 2026.7s] Once you get the customer journey, then you can look at, OK,
+[2026.7s - 2030.1s] how do I actually train people to do things at these points and times?
+[2030.1s - 2031.8s] And that is when you take the customer journey
+[2031.8s - 2034.3s] and you're probably going to take it and configure it into your CRM,
+[2034.4s - 2036.5s] which we'll talk about in one of the next slides.
+[2036.5s - 2038.2s] And so the first thing that you want to do, though,
+[2038.2s - 2040.5s] is you want to outline where all the areas
+[2040.5s - 2043.2s] that we are attempting to retain, attempting to get reviews,
+[2043.2s - 2045.4s] attempting to refer, and attempting to resell.
+[2045.4s - 2046.9s] And what you'll see is that a lot of times,
+[2046.9s - 2049.0s] you have a lot of missed opportunity at this point.
+[2049.0s - 2051.4s] Because you've been firefighting the entire time,
+[2051.4s - 2053.3s] you haven't switched to being proactive.
+[2053.3s - 2056.0s] But the thing is, your team won't know how to be proactive
+[2056.0s - 2058.3s] unless you actually show them what the journey looks like
+[2058.3s - 2061.0s] and what to do when, at what point in time.
+[2061.0s - 2062.6s] Once you have that clearly laid out,
+[2062.7s - 2064.8s] you can create triggers within your CRM
+[2064.8s - 2066.6s] to make sure that you're hitting all these things.
+[2066.6s - 2068.2s] In terms of making these triggers,
+[2068.2s - 2071.0s] three ways to think about them, which are all programmable.
+[2071.0s - 2072.4s] Is it a time-based thing?
+[2072.4s - 2074.1s] After X period of time, we ask for review.
+[2074.1s - 2076.4s] After X period of time, we ask them to buy something else.
+[2076.4s - 2078.2s] Is it a behavior thing?
+[2078.2s - 2079.5s] Is it something that they do?
+[2079.5s - 2082.2s] Like, once they've done this, then we go through,
+[2082.2s - 2085.0s] you know, they check that box, then we ask for the review.
+[2085.0s - 2087.2s] Or is it something that occurs, right?
+[2087.2s - 2088.6s] So is it something that they do?
+[2088.6s - 2090.0s] Is it something that happens?
+[2090.0s - 2092.2s] Or is it time that elapses in the meantime?
+[2092.2s - 2094.2s] And so there's kind of like three different variables
+[2094.2s - 2096.0s] that you can consider in terms of making
+[2096.0s - 2099.0s] the customer journey and adding kind of like meat to it.
+[2099.0s - 2101.8s] And what you'll notice is these are actually in order.
+[2101.8s - 2104.7s] So in order to get people to refer,
+[2104.7s - 2106.6s] in order to get people to resell,
+[2106.6s - 2108.8s] you need to actually make sure you retain people
+[2108.8s - 2110.6s] and make sure you're getting feedback from people.
+[2110.6s - 2112.7s] And so the one thing that I do want to advocate for
+[2112.7s - 2113.9s] is if you're looking at this and you're like,
+[2113.9s - 2116.0s] I actually don't have any of this laid out,
+[2116.0s - 2118.1s] focus on these first two first.
+[2118.1s - 2120.6s] You want to make it as easy as possible
+[2120.6s - 2123.0s] to get referrals and to resell people.
+[2123.0s - 2125.2s] This should not be like you're shaking people down
+[2125.2s - 2126.4s] for the reseller ascension.
+[2126.4s - 2129.1s] This should be like customers are banging on your doors
+[2129.1s - 2131.3s] saying like, I want to buy the next product.
+[2131.3s - 2133.4s] And you've done such a good job on one and two
+[2133.4s - 2136.1s] that three and four become the obvious next step.
+[2136.1s - 2137.8s] And so that is what you want to focus on
+[2137.8s - 2141.0s] at this point in time is outlining this for your team.
+[2141.0s - 2142.2s] And then what this will help you do,
+[2142.2s - 2143.9s] which we won't talk about in depth in this video,
+[2143.9s - 2146.0s] but I would, I will allude to it,
+[2146.0s - 2149.2s] which is once you understand all the proactive measures
+[2149.2s - 2150.3s] that have to happen,
+[2150.3s - 2153.4s] you can also look at who you need to hire for that division
+[2153.4s - 2156.2s] that will focus on being proactive versus being reactive.
+[2156.2s - 2158.4s] And you can likely segment the team into two teams,
+[2158.4s - 2162.2s] which is really having reactive CS and having proactive CS.
+[2162.2s - 2164.5s] So at this point with the customer service,
+[2164.5s - 2166.6s] we are all reactive and we're firefighting.
+[2166.6s - 2168.8s] And so we want to focus on creating that customer journey
+[2168.8s - 2170.6s] with the four Rs so that we can get ahead
+[2170.6s - 2172.6s] and we can keep customers and keep them happy.
+[2172.6s - 2174.8s] I had a company come to me at this stage
+[2174.8s - 2177.1s] where every system in the business was overwhelmed
+[2177.1s - 2178.8s] and the business was disorganized.
+[2178.8s - 2180.2s] And they had stalled.
+[2180.2s - 2184.3s] And so what we did was three main things.
+[2184.3s - 2187.3s] Number one is we took their entire mess
+[2187.3s - 2189.2s] of different products that they were selling
+[2189.2s - 2191.6s] and we looked at what percentage of customers
+[2191.6s - 2193.4s] were buying which suite of products.
+[2193.4s - 2196.4s] And then we made it into a simple A and B offer.
+[2196.4s - 2199.4s] And so that streamlined offer
+[2199.4s - 2201.2s] then created three efficiencies.
+[2201.2s - 2202.8s] Number one is it was much faster
+[2202.8s - 2204.0s] to onboard new sales reps
+[2204.0s - 2204.8s] because they didn't have to learn
+[2204.8s - 2206.3s] this whole suite of products.
+[2206.3s - 2209.4s] Second, the customers were far less overwhelmed
+[2209.4s - 2211.2s] because it was much easier to make a decision
+[2211.2s - 2213.5s] because they understood exactly what the offer was.
+[2213.5s - 2216.0s] And then finally, the delivery team
+[2216.0s - 2217.3s] didn't have all these different things
+[2217.3s - 2219.4s] that they had to learn and get trained up on.
+[2219.4s - 2222.0s] So it was easier to onboard, recruit, hire, train
+[2222.0s - 2224.1s] and manage the backend team.
+[2224.1s - 2227.5s] And so the result of all that was an increase in margin
+[2227.5s - 2230.4s] as we increased revenue, which is not always typical.
+[2230.4s - 2232.9s] And so that business was able to get an offer
+[2232.9s - 2234.7s] from private equity within 18 months
+[2234.7s - 2236.3s] of cleaning all of this stuff up
+[2236.3s - 2239.4s] and was an offer worth tens of millions of dollars
+[2239.4s - 2240.7s] to the founder.
+[2240.7s - 2244.4s] And that by no means I'm saying is a typical experience
+[2244.4s - 2246.6s] or what you should expect or anything like that.
+[2246.6s - 2248.9s] But first off, if you don't have
+[2248.9s - 2250.8s] your own scaling roadmap,
+[2250.8s - 2253.0s] go ahead, click the button below and go grab it.
+[2253.0s - 2254.4s] All right, it's all customized to you
+[2254.4s - 2256.2s] and there's lots of extra text
+[2256.2s - 2258.5s] that I have inside of them to help you scale.
+[2258.5s - 2259.7s] But if you already have one
+[2259.7s - 2260.8s] and you're watching this right now
+[2260.8s - 2262.4s] because you're looking at your scaling roadmap
+[2262.4s - 2264.7s] and this video was relevant for you,
+[2265.7s - 2267.4s] then I'd love to invite you to come out
+[2267.4s - 2270.0s] to one of our scaling workshops here in Vegas
+[2270.0s - 2272.0s] where acquisition.com is based.
+[2272.0s - 2275.5s] And so what we do is my team will actually work with you.
+[2275.5s - 2276.7s] So my actual portfolio team,
+[2276.7s - 2279.5s] not like some facilitators that I hired off the street,
+[2279.5s - 2280.5s] but my actual team,
+[2280.5s - 2282.1s] because they wanna get to know your business
+[2282.1s - 2285.0s] because this is how we find our next investments.
+[2285.0s - 2287.2s] And so if that's at all interesting,
+[2287.2s - 2288.8s] you can click somewhere around here.
+[2288.8s - 2291.9s] I'm sure it's above on a banner or below this video
+[2291.9s - 2293.6s] and you can apply to see if you qualify
+[2293.9s - 2296.0s] if you do, we'd love to see you and help you scale.
+[2296.0s - 2298.0s] From there, we're gonna go into IT.
+[2298.0s - 2300.8s] IT is how you gather, store, analyze
+[2300.8s - 2302.2s] and display information.
+[2302.2s - 2304.3s] Okay, so at this level,
+[2304.3s - 2306.6s] our constraint is that everything is disorganized,
+[2306.6s - 2307.6s] it's all over the place.
+[2307.6s - 2308.9s] And so a lot of times what happens
+[2308.9s - 2310.5s] is you get to this point and you're like,
+[2310.5s - 2312.0s] what the heck, where is everything?
+[2312.0s - 2312.8s] Where's everything living?
+[2312.8s - 2313.7s] What are we doing?
+[2313.7s - 2314.5s] Where's our data?
+[2314.5s - 2316.6s] And you might have systems that exist,
+[2316.6s - 2318.4s] but like half your team doesn't even know they exist,
+[2318.4s - 2319.3s] right?
+[2319.3s - 2321.0s] And there's many times this has actually happened to me
+[2321.0s - 2322.0s] where someone's like,
+[2322.0s - 2322.8s] did you know about this thing?
+[2322.8s - 2324.8s] And I'm like, what thing, right?
+[2324.8s - 2327.0s] And so that is often what happens at this level.
+[2327.0s - 2328.9s] So what you wanna do is,
+[2328.9s - 2332.0s] this is gonna sound dry.
+[2332.0s - 2334.0s] This is gonna sound really dry right now.
+[2334.0s - 2336.4s] But you wanna look at network technology,
+[2336.4s - 2338.3s] bringing solutions to the cloud,
+[2338.3s - 2341.1s] getting a data host and centrally locating hardware.
+[2341.1s - 2342.6s] Let me explain what that means
+[2342.6s - 2344.0s] so you understand it, okay?
+[2344.0s - 2344.8s] So I'm gonna do my best.
+[2344.8s - 2347.0s] I am not a tech geek,
+[2347.0s - 2348.9s] but I do understand this well enough to explain it
+[2348.9s - 2351.0s] to you, yeah, nerd, yes, okay.
+[2351.8s - 2355.9s] Okay, so AWS, this is a tool that at this point in time
+[2355.9s - 2357.9s] is probably something similar to this
+[2357.9s - 2359.0s] you want to look into
+[2359.0s - 2360.1s] because what it allows you to do
+[2360.1s - 2362.4s] is store all of your data in one place
+[2362.4s - 2365.8s] because that adds an extra layer of security and backup.
+[2365.8s - 2367.3s] So what this means is that if people
+[2367.3s - 2368.8s] delete things off of computers,
+[2368.8s - 2370.4s] if something gets lost on Google Drive,
+[2370.4s - 2373.9s] if your film that your media team has,
+[2373.9s - 2376.4s] something happens and there's an overload or overheat,
+[2376.4s - 2379.2s] you have everything your entire business runs on
+[2379.2s - 2381.5s] and it's backed up in a tool like AWS.
+[2381.5s - 2383.4s] Let's say somebody really hates you
+[2383.4s - 2385.7s] and has access to your customer records.
+[2385.7s - 2387.0s] Wouldn't it suck if they just went in
+[2387.0s - 2388.4s] and deleted all your customers?
+[2388.4s - 2389.7s] Wouldn't it suck if they went in
+[2389.7s - 2391.2s] and deleted all of the files
+[2391.2s - 2393.5s] of all of the media that you've created for four years,
+[2393.5s - 2394.5s] all of the logo, you know,
+[2394.5s - 2396.5s] like there's people have more access
+[2396.5s - 2399.0s] and so having backup or multiple backups,
+[2399.0s - 2401.2s] it's, I mean, it's mandatory.
+[2401.2s - 2402.2s] Like you have to do it.
+[2402.2s - 2403.2s] And I will tell you guys,
+[2403.2s - 2405.2s] like I thought this was BS
+[2405.2s - 2406.9s] when I brought in an IT director
+[2406.9s - 2408.0s] and he was like, we need to AWS.
+[2408.0s - 2409.0s] I'm like, this sounds like a pain
+[2409.8s - 2410.6s] in the ass and I don't want to do it.
+[2410.6s - 2413.4s] There came a day where we had a company
+[2413.4s - 2415.9s] that built out like a custom tool for us.
+[2415.9s - 2419.0s] And that company then we had to rely on them
+[2419.0s - 2420.2s] to operate this custom tool,
+[2420.2s - 2422.0s] but we backed everything up in AWS.
+[2422.0s - 2424.2s] That company went out of business.
+[2424.2s - 2425.9s] Suddenly we had no access
+[2425.9s - 2428.0s] to like half of our customer records
+[2428.0s - 2429.3s] that were in that system,
+[2429.3s - 2431.6s] along with financial information.
+[2431.6s - 2434.2s] The only thing that saved us was having this thing
+[2434.2s - 2435.7s] that for like two years, I'd been like,
+[2435.7s - 2436.5s] this thing is a piece,
+[2436.5s - 2438.1s] why the fuck am I paying for this?
+[2438.2s - 2439.8s] And so I say that because like,
+[2439.8s - 2441.2s] you don't need it until you're like,
+[2441.2s - 2442.1s] thank God I have it.
+[2442.1s - 2443.9s] It's basically insurance.
+[2443.9s - 2445.4s] Yes, it's basically insurance.
+[2445.4s - 2447.1s] Now going with that is just making sure
+[2447.1s - 2449.2s] that you're gonna centrally localize,
+[2449.2s - 2451.0s] that you're gonna be able to centrally locate
+[2451.0s - 2452.4s] all of your hardware.
+[2452.4s - 2454.0s] An easy way to do this is if you use something
+[2454.0s - 2456.6s] like Mac, Apple can actually store the computers
+[2456.6s - 2458.8s] for you and track them on your behalf.
+[2458.8s - 2460.5s] But in general, it's also great
+[2460.5s - 2462.3s] if you can keep them with one person in the company,
+[2462.3s - 2464.6s] this could be HR, this could be an admin,
+[2464.6s - 2465.8s] this could be you.
+[2465.8s - 2467.1s] It just depends on who you're comfortable with.
+[2467.1s - 2468.0s] But at this point,
+[2468.0s - 2469.9s] you wanna make sure that all the extra computers,
+[2469.9s - 2471.9s] all the new computers are centrally located
+[2471.9s - 2473.4s] as well as the phones and anything else
+[2473.4s - 2475.3s] at one person's house, if you are remote.
+[2475.3s - 2476.5s] And if you are not remote,
+[2476.5s - 2478.6s] then it is easy to have them in a place in the office.
+[2478.6s - 2480.2s] Great, so at this point,
+[2480.2s - 2482.1s] everything was all over the place and disorganized.
+[2482.1s - 2485.5s] You get a network solution to centrally locate everything
+[2485.5s - 2487.5s] and you want to get all of your hardware on site
+[2487.5s - 2489.7s] or at somebody's house if you're remote.
+[2489.7s - 2490.8s] And I'll just add this in,
+[2490.8s - 2493.2s] which is like having some sort of organization process
+[2493.2s - 2496.9s] for how departments name things.
+[2497.2s - 2498.6s] That sounds like really silly,
+[2498.6s - 2501.4s] but how do we store?
+[2501.4s - 2502.9s] Because someone knew it was gonna come in
+[2502.9s - 2505.6s] and if they have to remember something that happened
+[2505.6s - 2507.1s] before that they were here,
+[2507.1s - 2508.6s] that's not gonna happen, right?
+[2508.6s - 2509.7s] And so then it basically means
+[2509.7s - 2511.4s] that you have longer and longer ramp up periods
+[2511.4s - 2513.4s] for new employees the longer you're in business,
+[2513.4s - 2516.4s] which means that you have a compounding disadvantage
+[2516.4s - 2519.1s] working against you at all times, which sucks.
+[2519.1s - 2521.3s] And so taking that little bit of friction
+[2521.3s - 2522.8s] is something that's called a local cost
+[2522.8s - 2523.9s] with a global benefit.
+[2523.9s - 2526.4s] And so naming things a certain way,
+[2526.4s - 2529.7s] organizing folders a certain way by department,
+[2529.7s - 2530.9s] those types of things,
+[2530.9s - 2532.9s] everyone in the moment's like, oh, I don't wanna do it.
+[2532.9s - 2534.2s] But as soon as someone new comes in,
+[2534.2s - 2535.7s] and this is like how I would do this,
+[2535.7s - 2537.8s] someone who comes in and you have a really messy thing,
+[2537.8s - 2540.6s] you're like, hey, look around, do you understand this?
+[2540.6s - 2541.7s] And you have in front of the whole team,
+[2541.7s - 2542.8s] they're like, no, I have no idea.
+[2542.8s - 2545.1s] And you're like, guys, this is all of our fault.
+[2545.1s - 2546.8s] And sometimes you have to do these data projects
+[2546.8s - 2547.7s] where you're like, we gotta go back,
+[2547.7s - 2549.1s] we gotta clean all these things up
+[2549.1s - 2550.3s] and name them properly
+[2550.3s - 2552.5s] so that going forward we can expand this team.
+[2552.5s - 2554.0s] So next we have recruiting,
+[2554.0s - 2556.1s] which is how we find and hire people
+[2556.1s - 2557.9s] to work for our company.
+[2557.9s - 2560.9s] So at this level, what happens is that it takes too long
+[2560.9s - 2562.9s] to find good people and they get hired somewhere else
+[2562.9s - 2564.6s] because you take forever.
+[2564.6s - 2565.8s] You have too many roles open
+[2565.8s - 2567.3s] and you do not have anywhere to keep track
+[2567.3s - 2568.4s] of all the candidates and where they're at
+[2568.4s - 2569.3s] in the process.
+[2569.3s - 2570.9s] So it just feels like this giant mess.
+[2570.9s - 2573.0s] And you're like, why is everything taking so long?
+[2573.0s - 2574.1s] This is so annoying.
+[2574.1s - 2576.1s] At this point, you should already have this in place.
+[2576.1s - 2579.7s] We surely have a multiple step interview process.
+[2579.7s - 2581.1s] But now at this point, think about it.
+[2581.1s - 2582.9s] It's like you've got six roles that are open
+[2582.9s - 2584.9s] or 15 roles that are open.
+[2584.9s - 2588.4s] And you have some people, like role one is at interview two,
+[2588.4s - 2590.3s] role two is at interview three,
+[2590.3s - 2591.7s] role three is at screening.
+[2591.7s - 2592.9s] And you're like, wait,
+[2592.9s - 2595.3s] but you've got four guys in this one
+[2595.3s - 2596.9s] and one guy's at interview two,
+[2596.9s - 2599.0s] one guy's at interview one across all this.
+[2599.0s - 2600.6s] It becomes an absolute nightmare
+[2600.6s - 2601.9s] to try and get this all organized.
+[2601.9s - 2603.0s] And meanwhile, this is happening,
+[2603.0s - 2604.7s] all the good people are going to the companies
+[2604.7s - 2605.5s] who know how to run it.
+[2605.5s - 2607.5s] So you start to notice things like,
+[2607.5s - 2608.6s] you're like, where's this candidate?
+[2608.6s - 2610.1s] They're like, oh, they had an interview on Monday.
+[2610.1s - 2611.7s] And you're like, it's Friday, what's happening?
+[2611.7s - 2612.5s] And people are like,
+[2612.5s - 2613.5s] oh, they've got an interview scheduled on Monday.
+[2613.5s - 2615.7s] And you're like, seven days we're waiting.
+[2615.7s - 2617.5s] And so you start to notice things like that
+[2617.5s - 2618.5s] start to slip through the cracks.
+[2618.5s - 2620.1s] And so to graduate from this,
+[2620.1s - 2622.7s] you want to install an applicant tracking system,
+[2622.7s - 2623.9s] it's called an ATS,
+[2623.9s - 2625.4s] to keep track of all the open roles
+[2625.4s - 2627.3s] and where everyone's at in the process.
+[2627.3s - 2630.0s] And you want to pay specialized recruiting firms
+[2630.0s - 2630.8s] to keep up.
+[2630.8s - 2632.8s] So let me explain why these two things are important.
+[2632.8s - 2635.1s] So I think Alex just covered why an ATS is important
+[2635.1s - 2637.7s] because a lot of the times, and we've tried this,
+[2637.7s - 2641.3s] you can configure a CRM to also be your ATS,
+[2641.3s - 2643.2s] but it's never going to be as good as an ATS
+[2643.2s - 2644.3s] that's out of the box.
+[2644.3s - 2645.3s] Is there a perfect ATS?
+[2645.3s - 2646.2s] No.
+[2646.2s - 2647.0s] Is there a perfect CRM?
+[2647.0s - 2647.9s] No.
+[2647.9s - 2648.7s] None of these systems are perfect.
+[2648.7s - 2650.2s] So there are no perfect solutions in business.
+[2650.2s - 2651.5s] Just remember that with literally everything,
+[2651.5s - 2653.0s] including people you hire.
+[2653.0s - 2654.6s] But at the same time,
+[2654.6s - 2656.7s] we can at least be better than what we are right now.
+[2656.7s - 2658.7s] And what an applicant tracking system will be
+[2658.7s - 2661.5s] is like, think of it like a sales pipeline is
+[2661.5s - 2662.9s] for your sales team.
+[2662.9s - 2664.7s] When we talked about a few stages back
+[2664.7s - 2666.2s] where we're going to get a pipeline in place,
+[2666.2s - 2668.0s] it's the same for an applicant tracking system.
+[2668.0s - 2669.7s] It's literally a pipeline for talent.
+[2669.7s - 2671.1s] And so just like you have,
+[2671.9s - 2672.8s] your lead generation funnel,
+[2672.8s - 2674.3s] you now have your talent generation funnel.
+[2674.3s - 2676.6s] And so you need to formalize it by having software
+[2676.6s - 2678.3s] that helps make it easier.
+[2678.3s - 2680.2s] The second piece to that is that we're going to notice
+[2680.2s - 2682.4s] at this point in time when you're at this size business
+[2682.4s - 2683.8s] is you're going to have a lot of roles
+[2683.8s - 2685.7s] that your team sucks at finding.
+[2685.7s - 2686.5s] That's it.
+[2686.5s - 2688.2s] It's like you have maybe a recruiter on the team,
+[2688.2s - 2690.3s] maybe uses a general recruiting firm.
+[2690.3s - 2693.3s] As you move into 50 to 99 people,
+[2693.3s - 2694.7s] you go from a lot of generalists
+[2694.7s - 2696.6s] to having way more specialists.
+[2696.6s - 2698.7s] Well, to find specialists, right?
+[2698.7s - 2700.7s] People have very specific roles.
+[2700.7s - 2701.9s] They are harder to find
+[2701.9s - 2704.5s] because they have a specific skillset you're looking for
+[2704.5s - 2705.6s] and they're not as general
+[2705.6s - 2707.2s] as the other people you've been hiring.
+[2707.2s - 2708.8s] And so what a lot of people do at this point in time
+[2708.8s - 2709.7s] is they say, you know what?
+[2709.7s - 2711.8s] I'm going to hire some more recruiters
+[2711.8s - 2712.7s] to help with these.
+[2712.7s - 2714.1s] And it's like, no, no, no, no.
+[2714.1s - 2715.8s] There are specialized recruiting firms
+[2715.8s - 2718.1s] that only find financial controllers
+[2718.1s - 2719.0s] for healthcare companies.
+[2719.0s - 2720.1s] There are specialized recruiters
+[2720.1s - 2722.5s] that only find sales reps
+[2722.5s - 2726.2s] that are selling things between five and $10,000.
+[2726.2s - 2727.3s] There are specialized firms
+[2727.3s - 2729.0s] that find very specific roles.
+[2729.1s - 2731.7s] And it makes no sense to bring people into your team
+[2731.7s - 2733.0s] to recruit for something that's going
+[2733.0s - 2736.2s] to probably resolve itself in two years.
+[2736.2s - 2739.3s] So let's talk about how to select an ATS, okay?
+[2739.3s - 2740.6s] Because a lot of people,
+[2740.6s - 2742.1s] this is like selecting a CRM.
+[2742.1s - 2744.6s] If you get this wrong, it will fuck up your business.
+[2744.6s - 2745.4s] And so I just-
+[2745.4s - 2746.5s] And we have done that.
+[2746.5s - 2747.3s] We have done that.
+[2747.3s - 2748.5s] Yeah, don't get it wrong.
+[2748.5s - 2750.9s] I've just banged my head against the wall too many times.
+[2750.9s - 2752.9s] Okay, so the first thing that you want to look for,
+[2752.9s - 2755.0s] and this is me as a founder saying this,
+[2755.0s - 2757.1s] like not as like, oh, I love HR and recruiting.
+[2757.1s - 2759.3s] Like people that love HR and recruiting, forget this.
+[2759.3s - 2760.4s] This is the most important one.
+[2760.4s - 2762.5s] It needs an easy user experience.
+[2762.5s - 2765.1s] Okay, if it's not easy for other people
+[2765.1s - 2766.1s] in the company to use,
+[2766.1s - 2767.5s] if it's only good for recruiters
+[2767.5s - 2768.7s] or for people that are techie,
+[2768.7s - 2769.7s] it's not going to get used.
+[2769.7s - 2770.6s] And so it doesn't matter.
+[2770.6s - 2771.6s] It's just like a CRM.
+[2771.6s - 2774.5s] If you go into a CRM and it looks incredibly complicated,
+[2774.5s - 2776.4s] you're like, how's my 19 year old sales guy
+[2776.4s - 2777.3s] going to use this?
+[2777.3s - 2778.3s] He's not, he's going to use something else
+[2778.3s - 2779.5s] or he's not going to use it.
+[2779.5s - 2781.1s] And so the same goes for an ATS.
+[2781.1s - 2783.9s] You want to find one that makes it simple, right?
+[2783.9s - 2785.6s] And it simplifies the workflow
+[2785.6s - 2787.7s] for the recruiters and the candidates
+[2787.7s - 2789.7s] and the people that are interviewing.
+[2789.7s - 2791.0s] Basically within an ATS,
+[2791.0s - 2791.9s] you're going to have the people
+[2791.9s - 2793.1s] doing interviews using it.
+[2793.1s - 2795.0s] You're going to have the hiring managers using it.
+[2795.0s - 2796.3s] You're going to have the recruiters using it.
+[2796.3s - 2798.5s] And sometimes you even have the candidates using it.
+[2798.5s - 2800.7s] And so if we talked a few stages back,
+[2800.7s - 2803.3s] like Indeed has a built-in ATS.
+[2803.3s - 2805.3s] So if you use something like Indeed right now,
+[2805.3s - 2806.9s] you already are using an ATS.
+[2806.9s - 2808.8s] It's just built into the platform itself.
+[2808.8s - 2809.7s] But at this point,
+[2809.7s - 2811.8s] because you are finding more specialized roles,
+[2811.8s - 2813.0s] you're looking for people on LinkedIn,
+[2813.0s - 2814.1s] you're head hunting people,
+[2814.1s - 2815.8s] you can't just use an Indeed one
+[2815.8s - 2817.7s] because it's only finding candidates off Indeed.
+[2817.7s - 2819.1s] When you have specialized firms,
+[2819.1s - 2820.1s] they're not dropping them.
+[2820.1s - 2821.7s] Like you have to enter them somewhere,
+[2821.7s - 2823.0s] otherwise they'll get lost.
+[2823.0s - 2824.3s] The second piece is you want to make sure
+[2824.3s - 2825.9s] that it integrates really well
+[2825.9s - 2827.1s] with everything else you have.
+[2827.1s - 2829.4s] So I always try to find an ATS
+[2829.4s - 2832.2s] that's going to integrate with my payroll system,
+[2832.2s - 2835.1s] my HRIS, any other CRM that I use.
+[2835.1s - 2836.7s] The more that this can integrate with things
+[2836.7s - 2838.7s] that you already have and tools that you're already using,
+[2838.7s - 2840.5s] the better it will be for you.
+[2840.5s - 2841.6s] The third is automation.
+[2841.6s - 2844.3s] So you want to find one that can do resume parsing.
+[2844.3s - 2846.6s] So a lot of them now have AI capabilities
+[2846.6s - 2848.1s] where they can parse the resumes for you
+[2848.1s - 2850.3s] so you don't have to worry about doing it yourself.
+[2850.3s - 2851.4s] They can do interview scheduling.
+[2851.4s - 2853.3s] So they can prompt you to schedule.
+[2853.3s - 2855.8s] They can also provide open time slots to candidates.
+[2855.8s - 2856.7s] It's really cool.
+[2856.7s - 2859.0s] And then they also have AI driven candidate matching.
+[2859.0s - 2861.6s] So they will basically save you a ton of time
+[2861.6s - 2862.9s] by going through all the candidates
+[2862.9s - 2864.2s] and saying these are the top five
+[2864.2s - 2866.5s] that meet your needs the most that we think.
+[2866.5s - 2868.1s] And so if you can find one
+[2868.1s - 2870.6s] that has automation and AI built in like that,
+[2870.6s - 2874.0s] please do it because it will also like having more process
+[2874.0s - 2874.8s] at this point in time
+[2874.8s - 2877.1s] with the amount of people you have on your team and get in,
+[2877.1s - 2879.3s] it's gonna protect you from people making mistakes.
+[2879.3s - 2880.2s] Because at this point,
+[2880.2s - 2882.2s] your recruiters are probably taking a ton of time
+[2882.2s - 2884.2s] reviewing resumes because you have a lot of open roles
+[2884.2s - 2886.9s] and that is not the most valuable thing for them to do.
+[2886.9s - 2890.3s] So if you can use the automation, then that's ideal.
+[2890.3s - 2891.9s] The fourth thing is analytics and reporting.
+[2891.9s - 2894.5s] So you want a system that gives you actionable data
+[2894.5s - 2897.3s] on the hiring metrics and the recruiting performance.
+[2897.3s - 2899.8s] So you want to understand how many resumes do you have?
+[2899.8s - 2901.9s] How many resumes are you taking to a screen call?
+[2901.9s - 2903.6s] How many people are passing the screening call?
+[2903.6s - 2905.5s] How many people are going from screening to first interview?
+[2905.5s - 2907.2s] How many people pass the first interview?
+[2907.2s - 2908.8s] Because just like a sales pipeline,
+[2908.8s - 2911.1s] you want to like dial in every step of the way,
+[2911.1s - 2913.2s] you want to be able to do the same with your recruiting
+[2913.2s - 2914.1s] because you want us to find out like,
+[2914.1s - 2915.9s] oh, do we suck at interviewing?
+[2915.9s - 2917.1s] Does nobody pass our interviews
+[2917.1s - 2919.4s] because like my team actually sucks at interviewing?
+[2919.4s - 2921.0s] Or are we passing people
+[2921.0s - 2922.9s] and then everyone gets nixed at the final interview
+[2922.9s - 2924.6s] because nobody's doing a skill fit.
+[2924.6s - 2926.4s] And then at the end, the hiring manager is like,
+[2926.4s - 2928.1s] what the hell, this person can't do this role.
+[2928.1s - 2930.7s] So it's like, you're constantly working through that pipeline
+[2930.7s - 2932.6s] like you would work through a sales pipeline
+[2932.6s - 2934.1s] until you have it in a system.
+[2934.1s - 2935.2s] It's really hard to do that.
+[2935.2s - 2936.8s] And then lastly, is scalability and support.
+[2936.8s - 2939.7s] So you want one that grows with your business, okay?
+[2939.7s - 2942.6s] And has really good customer support and training
+[2942.6s - 2944.2s] because that will save you from again,
+[2944.2s - 2946.2s] having to hire somebody to manage
+[2946.2s - 2949.3s] a platform does not grow revenue for your business.
+[2949.3s - 2950.9s] And so I always prefer to get
+[2950.9s - 2952.7s] the most amounts of work possible.
+[2952.7s - 2954.6s] And the last thing I'll say is like,
+[2954.6s - 2957.2s] you need to pick a system when it comes to people systems
+[2957.2s - 2959.2s] that scale with the amount of people you're gonna be hiring.
+[2959.2s - 2962.3s] So picking HR systems, picking recruiting systems
+[2962.3s - 2964.3s] and not thinking how many people are gonna have
+[2964.3s - 2967.1s] in the next 18 to 24 to 36 months,
+[2967.1s - 2968.7s] you're gonna have to trade up again.
+[2968.7s - 2970.5s] And so you would like to pick one
+[2970.5s - 2972.1s] that can grow as you grow.
+[2972.1s - 2974.3s] Sometimes what I see people do is they pick a tool
+[2974.3s - 2976.1s] that's really good for small businesses
+[2976.1s - 2978.3s] or businesses that are below a hundred people.
+[2978.3s - 2979.8s] And then within a year, they've outgrown it
+[2979.8s - 2981.2s] and they're like, well, what the heck, this doesn't work.
+[2981.2s - 2983.4s] And I'm like, yeah, it's just the wrong tool for you.
+[2983.4s - 2985.0s] So make sure that you pick one
+[2985.0s - 2986.7s] that you have room to grow with.
+[2986.7s - 2987.9s] The second piece that goes with this
+[2987.9s - 2990.1s] is we need to pick specialized recruiters.
+[2990.1s - 2992.9s] So this is something that I have gotten really skilled at
+[2992.9s - 2994.3s] and I think it has been the reason
+[2994.3s - 2996.4s] that I've been able to grow teams quickly
+[2996.4s - 2998.1s] is I establish a lot of relationships
+[2998.1s - 2999.9s] with a lot of different recruiters.
+[2999.9s - 3001.2s] Like we have a roll call up and I'm like,
+[3001.2s - 3002.7s] ah, Jimmy can take that one
+[3002.7s - 3004.5s] or oh yeah, Ryan's really good at that one.
+[3004.5s - 3006.6s] And so I have a suite of recruiters
+[3006.6s - 3007.5s] that I can pick from.
+[3007.5s - 3009.5s] We have our own recruiters on our teams
+[3009.5s - 3011.7s] and we always have, but it's really nice
+[3011.7s - 3012.9s] when you have special hiring needs
+[3012.9s - 3013.7s] to know who to go to
+[3013.7s - 3015.4s] and who can give you great candidates.
+[3015.4s - 3016.3s] So the first thing you wanna do
+[3016.3s - 3019.3s] is identify the highest job concentration hiring needs.
+[3019.3s - 3022.3s] Like what do you continuously hire for, okay?
+[3022.3s - 3023.7s] For you it might be like, you know what?
+[3023.7s - 3025.5s] I'm always hiring for sales reps.
+[3025.5s - 3027.2s] I'm always hiring for SDRs.
+[3027.2s - 3028.3s] Or it might be, you know what?
+[3028.3s - 3030.0s] I'm always hiring for customer service.
+[3030.0s - 3032.1s] Or it might be like, I'm always hiring for coaches.
+[3032.1s - 3033.9s] Whatever it might be, you wanna figure out
+[3033.9s - 3036.0s] what do I hire for the most
+[3036.0s - 3037.2s] and does it make sense
+[3037.2s - 3039.4s] that I use a specialized recruiting firm for them?
+[3039.4s - 3041.2s] Now why am I asking does it make sense?
+[3041.2s - 3044.6s] Because there's one thing that's a caveat.
+[3044.6s - 3046.3s] If the role that you're hiring for
+[3046.3s - 3048.9s] is incredibly specific to your business,
+[3048.9s - 3052.6s] meaning it's not a role that other businesses demand.
+[3052.6s - 3053.9s] So let's give an example.
+[3053.9s - 3056.8s] Say you're a fitness and nutrition coach
+[3056.8s - 3059.9s] and you are looking for nutritional coaches
+[3059.9s - 3061.4s] that know keto.
+[3061.4s - 3063.9s] No recruiter is gonna be able to find that for you.
+[3063.9s - 3064.8s] That's gonna be something that you're gonna
+[3064.8s - 3065.7s] have to find yourself.
+[3065.7s - 3067.7s] However, if you're like, I need sales reps,
+[3067.7s - 3070.4s] I need CS reps, I need IT people,
+[3070.4s - 3072.3s] then recruiters can help with roles like that.
+[3072.3s - 3076.6s] But when it's company-specific, not job-specific,
+[3076.6s - 3077.5s] that's when you have to say,
+[3077.5s - 3078.9s] okay, we might have to take this in-house
+[3078.9s - 3080.1s] and figure this out on our own.
+[3080.1s - 3081.2s] The second thing you wanna do
+[3081.2s - 3082.8s] is you wanna kick off the recruiter search.
+[3082.8s - 3086.2s] So before you can work with a recruiter,
+[3086.2s - 3087.5s] you've gotta find a recruiter.
+[3087.5s - 3089.0s] And if you're not good at finding people,
+[3089.0s - 3090.9s] you might have a hard time finding recruiters.
+[3090.9s - 3091.9s] So the first thing you wanna do
+[3091.9s - 3093.9s] is you wanna search around and ask,
+[3093.9s - 3096.3s] honestly, for referrals for recruiters
+[3096.3s - 3098.4s] that are in the job market that you're looking for.
+[3098.4s - 3099.8s] And so the best way that I found this
+[3099.8s - 3102.5s] is I look for, I ask friends of mine,
+[3102.5s - 3104.3s] I'm like, what recruiters do you use?
+[3104.3s - 3105.1s] How do you use firms?
+[3105.1s - 3106.0s] Do you have any guys?
+[3106.0s - 3106.8s] Do you have any specialists?
+[3106.8s - 3108.5s] Do you have anyone that's helped you with event roles,
+[3108.5s - 3109.8s] CS roles, sales roles?
+[3109.8s - 3111.9s] So your network is the best place to start.
+[3111.9s - 3114.9s] The second best place to start is actually LinkedIn.
+[3114.9s - 3117.2s] LinkedIn is like the best place to find recruiters,
+[3117.2s - 3118.1s] I swear to you.
+[3118.1s - 3120.8s] If I post or look on LinkedIn for recruiters,
+[3120.8s - 3122.1s] you don't have to have a following.
+[3122.1s - 3123.3s] They will find you.
+[3123.3s - 3126.1s] Because especially most of the time,
+[3126.1s - 3127.3s] think about this, right?
+[3127.3s - 3128.9s] When a company isn't growing,
+[3128.9s - 3131.3s] the first role to get let go is recruiters.
+[3131.3s - 3134.5s] And so there are, like recruiters are a dime a dozen
+[3134.5s - 3135.8s] in terms of contract recruiters
+[3135.8s - 3138.0s] because they hate the fact they get fired all the time.
+[3138.0s - 3139.5s] And so they end up just working for themselves
+[3139.5s - 3141.3s] and just being like a gun for hire.
+[3141.3s - 3142.7s] And so you can post,
+[3142.7s - 3144.1s] you can look for recruiters on LinkedIn,
+[3144.1s - 3145.5s] it's the best place to find them.
+[3145.5s - 3147.2s] The third piece is you want to
+[3147.2s - 3148.5s] look at their track recruiting results.
+[3148.5s - 3150.1s] So what you want to see
+[3150.1s - 3152.7s] is what is their placement success rate?
+[3152.7s - 3156.8s] Meaning when they receive a requisite for a job,
+[3156.8s - 3159.3s] what's their rate of filling that job?
+[3159.3s - 3160.7s] This is very important to ask for.
+[3160.7s - 3162.6s] It's the one metric, if you ask for nothing else,
+[3162.6s - 3164.8s] ask what their placement success rate is.
+[3164.8s - 3166.0s] Because you want to find somebody
+[3166.0s - 3167.7s] who has a high placement success rate.
+[3167.7s - 3169.1s] I mean, the best ones have a hundred.
+[3169.1s - 3170.4s] They're like, I literally don't,
+[3170.4s - 3171.7s] because they don't take jobs,
+[3171.7s - 3173.2s] they know they can't fill.
+[3173.2s - 3175.0s] So the best people will have a hundred.
+[3175.0s - 3176.3s] That is absolutely possible
+[3176.3s - 3178.3s] because they know what jobs they're good at filling
+[3178.3s - 3179.9s] and they will be able to fill those jobs.
+[3179.9s - 3182.4s] The second way is to also ask for, you know,
+[3182.4s - 3183.9s] ratings and client testimonials.
+[3183.9s - 3185.5s] So a lot of times before I work with somebody
+[3185.5s - 3186.5s] that's a recruiter,
+[3186.5s - 3188.0s] I'm going to ask if I can talk to somebody
+[3188.0s - 3189.8s] that's worked with them before and ask,
+[3189.8s - 3191.6s] you know, how are the people that they recruited for you?
+[3191.6s - 3192.6s] How are they working out now?
+[3192.6s - 3194.4s] Can you tell me about your experience with them?
+[3194.4s - 3195.8s] Because not only do I want people
+[3195.8s - 3197.2s] that can find the right candidate,
+[3197.2s - 3198.6s] but I want people that are going to be
+[3198.6s - 3200.4s] communicating along the way.
+[3200.4s - 3202.0s] Because recruiting is not,
+[3202.0s - 3203.8s] oh, I just give them all that what I need
+[3203.8s - 3205.5s] and then they bring it back to me.
+[3205.5s - 3207.6s] It's a constant conversation.
+[3207.6s - 3209.0s] You're consistently making sure
+[3209.0s - 3210.0s] that you're on the same page
+[3210.0s - 3211.4s] of what you need in a candidate,
+[3211.4s - 3212.7s] just like you would with an internal team.
+[3212.7s - 3213.6s] Lastly, you want to ask
+[3213.6s - 3215.2s] about the process and expectations.
+[3215.2s - 3217.3s] The main thing I want to hone in on here
+[3217.3s - 3219.1s] is you want people who are fast.
+[3219.1s - 3222.3s] Okay, the best candidates are gone like in nine days.
+[3222.3s - 3223.7s] And so you need to make sure
+[3223.7s - 3225.1s] that your recruiter is fast.
+[3225.1s - 3227.1s] I will tell you that I pick recruiters most of the time
+[3227.1s - 3229.2s] based on how quick they are to respond to me.
+[3229.2s - 3231.3s] If they're not fast in terms of their communication,
+[3231.3s - 3233.2s] there's no way they're going to be fast with candidates.
+[3233.2s - 3234.3s] And so why am I going to use them?
+[3234.3s - 3235.8s] Because the best candidates are going to be gone.
+[3235.8s - 3236.6s] And because think of it,
+[3236.6s - 3240.2s] so Layla said earlier that they will find you, right?
+[3240.2s - 3242.6s] Well, that's because you're a lead to them.
+[3242.6s - 3244.8s] And so how they work you like a lead
+[3244.8s - 3246.4s] and how they converse with you
+[3246.4s - 3247.8s] and organize the calls that you have
+[3247.8s - 3249.6s] is exactly how they're going to work somebody else
+[3249.6s - 3252.3s] who's a lead to sell you that person later
+[3252.3s - 3253.5s] and how they're going to organize those calls
+[3253.5s - 3254.3s] and set them up.
+[3254.3s - 3255.9s] And so it's just a really good, easy litmus test
+[3255.9s - 3259.0s] is what they do with you is how they will act for you.
+[3259.0s - 3259.9s] 100%.
+[3259.9s - 3261.0s] And the last thing that you can do,
+[3261.0s - 3264.6s] which I am a huge fan of is try before you buy.
+[3264.6s - 3265.9s] Do a trial with them.
+[3265.9s - 3266.9s] Take on, say, you know what?
+[3266.9s - 3268.3s] Hey, I'm going to give you one role
+[3268.3s - 3270.5s] before you commit to a contract with them
+[3270.5s - 3272.1s] or before you sign anything.
+[3272.1s - 3274.1s] Just say, I want you to find this one role for me,
+[3274.1s - 3275.2s] make it a low role,
+[3275.2s - 3276.6s] not one that's like very important
+[3276.6s - 3278.5s] that you need for the business to survive.
+[3278.5s - 3279.7s] So you can kind of test them out.
+[3279.7s - 3280.9s] And that is recruiting.
+[3280.9s - 3284.3s] So first we had, it took too long to hire good people.
+[3284.3s - 3285.5s] So they were getting hired other places
+[3285.5s - 3286.7s] and you had too many open roles
+[3286.7s - 3289.2s] and not an ability to track the candidates.
+[3289.2s - 3290.8s] And so we install an ATS
+[3290.8s - 3293.7s] and we get specialized recruiters to speed things up.
+[3293.7s - 3295.5s] Which brings us to HR,
+[3295.5s - 3297.5s] which is how do we reduce the likelihood
+[3297.5s - 3299.7s] that employees and regulators sue us?
+[3299.7s - 3300.5s] Yay.
+[3300.5s - 3301.8s] So at this level,
+[3301.8s - 3303.2s] the constraint is that there are too many
+[3303.2s - 3305.0s] different places for employee information
+[3305.0s - 3306.3s] and you have no data.
+[3306.3s - 3307.9s] So you have all these employees now, right?
+[3307.9s - 3309.5s] You're like 50 to 99 people.
+[3309.5s - 3311.5s] Like you have a lot of team,
+[3311.5s - 3313.7s] but you don't know how's everybody doing?
+[3313.7s - 3315.2s] How's everybody performing?
+[3315.2s - 3316.5s] Where'd this person come from?
+[3316.5s - 3317.9s] Did we hire that person yet?
+[3317.9s - 3319.2s] Is that person onboarded?
+[3319.2s - 3320.6s] When's that person starting?
+[3320.6s - 3321.7s] You have all these questions, right?
+[3321.7s - 3323.3s] And so you're constantly pinging your team saying,
+[3323.3s - 3324.6s] what the fuck is going on here?
+[3324.6s - 3325.7s] When's John's birthday?
+[3325.7s - 3327.1s] Does this person get a raise yet?
+[3327.1s - 3328.5s] What's going on, right?
+[3328.5s - 3329.7s] And so to graduate,
+[3329.7s - 3332.1s] we want to set up an HRIS.
+[3332.1s - 3334.4s] That is a human resource information system.
+[3334.4s - 3337.1s] So think about it like a CRM for your team.
+[3337.1s - 3338.3s] So just like you have the ATS,
+[3338.3s - 3339.5s] which is the pipeline,
+[3339.5s - 3340.7s] then you get a CRM,
+[3340.7s - 3342.3s] which is the long-term nurture, right?
+[3342.3s - 3343.5s] And that is an HRIS.
+[3343.5s - 3344.4s] I just want to highlight this
+[3344.4s - 3346.1s] in terms of thematics, right?
+[3346.1s - 3349.5s] So we talked like we put in ATS.
+[3349.5s - 3351.1s] So we're categorizing people
+[3351.1s - 3352.5s] in terms of applications.
+[3352.5s - 3355.7s] We put in an HRIS so that we can categorize
+[3355.7s - 3357.5s] the people that we have internal business.
+[3357.5s - 3358.4s] In terms of the IT,
+[3358.4s - 3360.5s] we had to put basically categorization
+[3360.6s - 3362.4s] for the information that we have within the business.
+[3362.4s - 3363.5s] And so at this point,
+[3363.5s - 3364.7s] just everything's disorganized.
+[3364.7s - 3365.6s] Everything's everywhere.
+[3365.6s - 3367.0s] Everyone is everywhere.
+[3367.0s - 3369.8s] And so all of these are basically putting in systems
+[3369.8s - 3372.3s] that we have to categorize all the stuff
+[3372.3s - 3373.8s] that's already happening in the business.
+[3373.8s - 3375.7s] So in order to remain efficient,
+[3375.7s - 3378.3s] we have to make things easy for people.
+[3378.3s - 3379.9s] So what is an HRIS?
+[3379.9s - 3380.9s] What does it have, right?
+[3380.9s - 3382.7s] So it's gonna store things like your employee records.
+[3382.7s - 3383.6s] That's the basic stuff.
+[3383.6s - 3385.6s] That's their titles, their salaries, their benefits,
+[3385.6s - 3387.2s] their performance reviews, right?
+[3387.2s - 3388.4s] It's also gonna include
+[3388.4s - 3390.2s] your payroll and benefits administration.
+[3390.2s - 3391.6s] So most of the time,
+[3391.6s - 3394.0s] the HRIS will integrate with your benefits
+[3394.0s - 3396.7s] or it actually comes with a benefits platform.
+[3396.7s - 3399.0s] So you can have the two in one and that is the ideal
+[3399.0s - 3400.9s] and that is what I suggest.
+[3400.9s - 3403.1s] So it'll automate things like payroll,
+[3403.1s - 3405.3s] tax calculations, and benefits enrollment.
+[3405.3s - 3406.8s] All of that in one place.
+[3406.8s - 3408.5s] It also will have time and attendance management.
+[3408.5s - 3410.3s] So for people that are hourly
+[3410.3s - 3412.4s] and people who when they wanna take PTO
+[3412.4s - 3413.4s] and they've got sick time,
+[3413.4s - 3415.5s] has all of that in the system.
+[3415.5s - 3418.8s] It will integrate a lot of the time with an ATS
+[3418.8s - 3420.1s] where it will have its own built in
+[3420.1s - 3421.7s] for recruitment onboarding.
+[3421.7s - 3423.9s] And it will support all the onboarding
+[3423.9s - 3426.9s] and hiring workflows after you get a candidate in as well.
+[3426.9s - 3428.0s] And then performance management.
+[3428.0s - 3429.0s] This is my favorite.
+[3429.0s - 3430.9s] So this is actually the main reason
+[3430.9s - 3432.3s] that I ever got an HRIS,
+[3432.3s - 3434.3s] which was to monitor employee goals,
+[3434.3s - 3435.9s] performance reviews, and KPIs.
+[3435.9s - 3438.9s] So all this other stuff is important
+[3438.9s - 3439.9s] and you need somebody to do it
+[3439.9s - 3441.6s] like a CFO or a controller.
+[3441.6s - 3443.1s] The last piece is the one that I think
+[3443.1s - 3445.0s] you pay attention to as the CEO
+[3445.0s - 3446.4s] or as the founder of the company,
+[3446.4s - 3449.9s] which is an HRIS usually you can deploy things
+[3449.9s - 3452.3s] like you can monitor and see performance
+[3452.3s - 3454.0s] of every single department.
+[3454.0s - 3456.9s] You can have performance reviews in the HRIS.
+[3456.9s - 3457.8s] People will fill them out.
+[3457.8s - 3458.9s] You can see who's filled them out,
+[3458.9s - 3461.3s] who hasn't filled them out, how everyone is rated.
+[3461.3s - 3464.1s] You can run employee engagement surveys.
+[3464.1s - 3466.0s] You can run performance review surveys.
+[3466.0s - 3469.3s] You can have everyone track their KPIs in one place.
+[3469.3s - 3472.1s] And so when you think about picking an HRIS,
+[3472.1s - 3475.5s] I always over index on this piece.
+[3475.5s - 3476.8s] Because if you think about what's gonna make
+[3476.8s - 3478.0s] the company more money,
+[3478.0s - 3480.0s] what's gonna drive growth for the company,
+[3480.0s - 3482.2s] knowing the performance of people on the team.
+[3482.2s - 3483.8s] Because at this point in time,
+[3483.8s - 3485.2s] I remember when I didn't have one of these,
+[3485.2s - 3487.4s] what it felt like was I'm just guessing
+[3487.4s - 3489.1s] and going by what other people say.
+[3489.1s - 3491.4s] I don't have any data to support anything they're saying.
+[3491.4s - 3492.7s] And I also don't have anything to measure
+[3492.7s - 3493.9s] if things are improving.
+[3493.9s - 3495.4s] So like if one team's underperforming,
+[3495.4s - 3498.0s] I have no way to measure if their performance improves.
+[3498.0s - 3500.3s] And so getting this in place is really fantastic
+[3500.3s - 3502.0s] because you can have like a holistic view.
+[3502.0s - 3503.4s] Most of the time what this ends up with
+[3503.4s - 3506.2s] is you have a dashboard of your team's performance.
+[3506.2s - 3508.4s] You have a dashboard of how many sick days
+[3508.4s - 3509.4s] do we have this month?
+[3509.4s - 3511.2s] What's our performance looking like this month?
+[3511.2s - 3512.9s] What's our employee engagement this month?
+[3512.9s - 3514.4s] How many new people do we bring this month?
+[3514.4s - 3516.3s] How much are we spending on payroll this month?
+[3516.3s - 3518.8s] All of the information about your team is in one place
+[3518.8s - 3520.3s] and is life-changing.
+[3520.3s - 3521.3s] So how do you select one?
+[3521.3s - 3523.7s] Really quick gonna run through this.
+[3523.7s - 3525.1s] Think about your business needs, right?
+[3525.1s - 3527.4s] And so I just talked about what I think your business
+[3527.4s - 3529.6s] needs because if you're at this point with your company,
+[3529.6s - 3531.4s] that is likely what is the hardest thing.
+[3531.4s - 3533.5s] But you want to define any specific requirements
+[3533.5s - 3535.2s] based on your company's growth rate
+[3535.2s - 3537.2s] and just the type of business you are.
+[3537.2s - 3539.0s] Are you in-person or are you remote?
+[3539.0s - 3540.1s] It's gonna be a little bit different
+[3540.1s - 3541.8s] if you're either one of those things
+[3541.8s - 3543.5s] because remote companies,
+[3543.5s - 3544.4s] it's gonna look a little different
+[3544.4s - 3545.6s] because you have people all over the board
+[3545.6s - 3547.7s] in terms of where they live versus in-person.
+[3547.7s - 3550.0s] They're all in one centralized location.
+[3550.0s - 3550.8s] Next piece you're gonna do
+[3550.8s - 3552.1s] is you're gonna look at your options.
+[3552.1s - 3555.3s] So you wanna find HRS solutions
+[3555.3s - 3557.8s] based on their reputation,
+[3557.8s - 3559.6s] the features they have, user reviews,
+[3559.6s - 3561.4s] and whether they align with your growth needs.
+[3562.3s - 3563.3s] Again, just like an ATS,
+[3563.3s - 3565.4s] you wanna select a system that you can grow with.
+[3565.4s - 3567.7s] So you don't wanna be the biggest customer to somebody
+[3567.7s - 3569.6s] because you're gonna outgrow that tool really fast.
+[3569.6s - 3571.2s] That's the mistake that I've made in the past
+[3571.2s - 3572.3s] is I've come on and been like,
+[3572.3s - 3573.6s] I love the fact that they're gonna give me
+[3573.6s - 3575.2s] all this specialized support
+[3575.2s - 3577.0s] because I'm one of the biggest customers.
+[3577.0s - 3578.6s] Yeah, and then I realized that the tool
+[3578.6s - 3581.0s] is for small companies and so when my company grows,
+[3581.0s - 3583.3s] I get punished because it doesn't work.
+[3583.3s - 3586.0s] And so be very careful that you can grow into it.
+[3586.0s - 3587.6s] Make sure it integrates with the current tools
+[3587.6s - 3589.5s] you're using, again, your payroll,
+[3589.5s - 3591.9s] your accounting, your ATS,
+[3591.9s - 3593.6s] and then involve key stakeholders.
+[3593.6s - 3595.0s] Here's where everyone fucks us up,
+[3595.0s - 3597.1s] is that they're like in the dark
+[3597.1s - 3600.2s] selecting platforms without bringing anybody in.
+[3600.2s - 3603.5s] The thing is, is that most platforms work.
+[3603.5s - 3605.7s] It's that most people don't work with them.
+[3605.7s - 3607.2s] And the reason they don't work with them
+[3607.2s - 3609.4s] is because you don't loop the proper stakeholders
+[3609.4s - 3611.9s] into the decision so that they can give you
+[3611.9s - 3614.6s] feedback early so that you can use that feedback
+[3614.6s - 3616.0s] to make the right decision
+[3616.0s - 3617.5s] because at the end of the day,
+[3617.5s - 3619.3s] any kind of platform like this,
+[3620.0s - 3622.1s] you're getting it so that the team will use it too.
+[3622.1s - 3623.7s] And you won't get proper data
+[3623.7s - 3625.8s] unless you get proper input from the team.
+[3625.8s - 3628.1s] And so make sure that you're involving key stakeholders.
+[3628.1s - 3629.8s] I would say like your executives
+[3629.8s - 3631.3s] and some of your directors,
+[3631.3s - 3633.1s] have them test it out, have them try it,
+[3633.1s - 3634.2s] have them use a demo.
+[3634.2s - 3635.8s] Now I'm not saying that you should do
+[3635.8s - 3637.5s] decision by committee, we don't do that.
+[3637.5s - 3640.2s] But you wanna see like if 85% of them
+[3640.2s - 3641.4s] say this thing sucks,
+[3641.4s - 3642.5s] it's gonna be tough for them to use it.
+[3642.5s - 3644.4s] But if only 30% of them say it sucks,
+[3644.4s - 3646.3s] then it probably means it's a good platform.
+[3646.3s - 3649.1s] And lastly you wanna do is you want to test the system.
+[3649.9s - 3651.1s] So a lot of the times people will pick a system
+[3651.1s - 3651.9s] and they're gonna be like,
+[3651.9s - 3653.5s] okay, I hope it works when we sign up with it.
+[3653.5s - 3656.4s] No, you can do trial runs, you can run pilot tests,
+[3656.4s - 3658.3s] you can also get trials for these things.
+[3658.3s - 3660.2s] And so do that before you sign up
+[3660.2s - 3662.9s] for something like this and you commit to a year long,
+[3662.9s - 3664.4s] something like this could be anywhere between
+[3664.4s - 3666.6s] like 50 and $100,000 a year even.
+[3666.6s - 3667.5s] And so you have to understand
+[3667.5s - 3669.2s] this is a big commitment for the business.
+[3669.2s - 3671.7s] It's also going to either help you grow
+[3671.7s - 3672.9s] and make it easy to grow
+[3672.9s - 3674.3s] or make it really hard to grow.
+[3674.3s - 3675.9s] So I'll just add in here,
+[3675.9s - 3679.5s] the CFO, and if it's not, you don't have one,
+[3679.5s - 3681.7s] you absolutely can negotiate with these companies.
+[3681.7s - 3683.9s] So you're now becoming enterprise.
+[3683.9s - 3686.0s] You're becoming an enterprise customer,
+[3686.0s - 3687.9s] you're on the low end of that right now.
+[3687.9s - 3690.2s] And so it is very standard
+[3690.2s - 3692.3s] to not take their initial offer.
+[3692.3s - 3694.2s] You can go back and forth multiple times
+[3694.2s - 3696.2s] to negotiate how the rates are being charged,
+[3696.2s - 3697.6s] when they start, are there escalations,
+[3697.6s - 3699.2s] what are the fixed increases,
+[3699.2s - 3700.6s] all that stuff you can negotiate.
+[3700.6s - 3702.6s] And so maybe just this one thing right now
+[3702.6s - 3705.2s] will save you $25,000 a year.
+[3705.2s - 3706.7s] So there you go.
+[3706.7s - 3708.5s] But it's just like, please do that.
+[3708.5s - 3710.5s] So you'll notice the theme for HR right now
+[3710.5s - 3712.2s] is when it comes to people overall,
+[3712.2s - 3713.5s] we need to get the right tools
+[3713.5s - 3716.0s] that enable us to operationalize the culture.
+[3716.0s - 3718.6s] This sounds lame, but the reason a lot of people's
+[3718.6s - 3722.4s] cultures start to collapse around 50 to 100 people
+[3722.4s - 3725.5s] is because they have a culture accidentally,
+[3725.5s - 3726.6s] not intentionally.
+[3726.6s - 3727.5s] And so what you have to do
+[3727.5s - 3728.8s] is you have to operationalize
+[3728.8s - 3730.3s] what's already working for you.
+[3730.3s - 3732.1s] Why are you already getting great candidates?
+[3732.1s - 3733.8s] Why are you already performing well?
+[3733.9s - 3735.8s] And if you measure it and you can see
+[3735.8s - 3738.4s] what actions affect the results,
+[3738.4s - 3740.1s] then you can keep doing that as you grow.
+[3740.1s - 3741.4s] And so that is HR.
+[3741.4s - 3742.8s] So there were too many different places
+[3742.8s - 3743.8s] for employee information
+[3743.8s - 3745.7s] and you had no data to work off of.
+[3745.7s - 3747.2s] So you're gonna get an HR IS
+[3747.2s - 3749.0s] to make sure that you organize all of that.
+[3749.0s - 3750.6s] Which brings us to finance.
+[3750.6s - 3753.5s] Finance, how you report and manage your money.
+[3753.5s - 3755.4s] So at this level, the constraint is your team
+[3755.4s - 3757.5s] starts spending your money stupidly
+[3757.5s - 3758.9s] because you've kind of delegated
+[3758.9s - 3759.8s] a certain level of spending
+[3759.8s - 3761.3s] because you can't approve every single thing
+[3761.3s - 3762.5s] that gets spent every day
+[3762.5s - 3764.0s] because you're spending money all over the place
+[3764.0s - 3765.2s] because you're growing, right?
+[3765.2s - 3767.0s] And so to graduate,
+[3767.0s - 3769.1s] we put in quarterly expense management.
+[3769.1s - 3771.5s] You start creating budgets by department.
+[3771.5s - 3774.1s] You have cards with limits that the leaders can have.
+[3774.1s - 3776.8s] Sometimes even managers will have cards
+[3776.8s - 3778.6s] that they get specific with,
+[3778.6s - 3781.0s] specific things they can spend money on.
+[3781.0s - 3782.1s] You can have pre-approved,
+[3782.1s - 3783.4s] like you're allowed to spend
+[3783.4s - 3787.1s] on a regular basis for this stuff up to here, right?
+[3787.1s - 3789.4s] And then I also like to throw this in,
+[3789.4s - 3791.5s] add insurance coverage and get fancier projections.
+[3791.5s - 3792.7s] All right, so let's break this down.
+[3792.7s - 3793.5s] SOPs.
+[3793.5s - 3795.0s] So at this point in time,
+[3795.0s - 3796.9s] this is just an example of something that we have,
+[3796.9s - 3798.9s] but we need to start putting in processes
+[3798.9s - 3801.5s] to protect us from risk.
+[3801.5s - 3802.3s] And so at this point,
+[3802.3s - 3803.3s] because you have so many people
+[3803.3s - 3804.5s] with their hands in the pot
+[3804.5s - 3806.9s] in terms of like, you've got now executives,
+[3806.9s - 3808.1s] you then have directors,
+[3808.1s - 3809.6s] they're all needing to spend money
+[3809.6s - 3810.9s] to grow their departments in some way.
+[3810.9s - 3814.1s] Whether it's technology, it's stuff for their team,
+[3814.1s - 3816.8s] it's employee swag, it's flights and hotels,
+[3816.8s - 3818.2s] it's equipment.
+[3818.2s - 3819.0s] And the thing is,
+[3819.0s - 3820.5s] is that you don't wanna be the bottleneck
+[3820.5s - 3822.9s] by saying, oh, I approve and deny every single expense.
+[3822.9s - 3825.7s] Instead, you need to take everything from your brain
+[3825.7s - 3827.7s] around how you make financial decisions
+[3827.7s - 3829.4s] and you need to take it out of your brain
+[3829.4s - 3830.7s] and into an SOP.
+[3830.7s - 3833.5s] And so when SOP is a standard operating procedure,
+[3833.5s - 3836.3s] so this is an example of what I've created
+[3836.3s - 3839.2s] so that I know these people in these positions
+[3839.2s - 3841.4s] with these names that you will not know,
+[3841.4s - 3843.6s] have these areas of oversight
+[3843.6s - 3845.4s] that they can make financial decisions
+[3845.4s - 3847.8s] so they can spend up to $10,000
+[3847.8s - 3850.1s] without my approval on these things.
+[3850.1s - 3851.8s] In these categories, right?
+[3851.8s - 3853.7s] And so they all have credit cards
+[3853.7s - 3854.9s] and they can use those credit cards
+[3854.9s - 3857.1s] to spend up to $10,000, right?
+[3857.1s - 3858.2s] Which then has a document
+[3858.2s - 3861.1s] explaining what you can spend that $10,000 on.
+[3861.1s - 3862.2s] And then there's a process
+[3862.2s - 3865.1s] that if you wanna spend money on over $10,000,
+[3865.1s - 3866.0s] here's what you've gotta do
+[3866.0s - 3867.3s] to get it approved by Lela.
+[3867.3s - 3869.4s] That's how you will manage expenses
+[3869.4s - 3871.1s] so then their credit cards can tie
+[3871.1s - 3873.4s] to the standard operating procedure.
+[3873.4s - 3874.9s] And on the other side of that,
+[3874.9s - 3875.8s] you want to use that
+[3875.8s - 3877.9s] to also create a budget for each department.
+[3877.9s - 3880.0s] So it's hard to create a budget
+[3880.9s - 3881.8s] when you don't know what people spent.
+[3881.8s - 3884.2s] And so oftentimes people try to create a budget
+[3884.2s - 3887.2s] before they see how much is needed to run the department.
+[3887.2s - 3888.2s] What I will say is this,
+[3888.2s - 3890.9s] is that I will get the departments in place
+[3890.9s - 3893.1s] and then I will look at what is being spent.
+[3893.1s - 3894.9s] I will prune to make sure
+[3894.9s - 3896.6s] that we're not spending on the wrong things
+[3896.6s - 3898.1s] and we are spending on the right things.
+[3898.1s - 3900.6s] And then I will use that to help inform other budget.
+[3900.6s - 3902.1s] You doing this, by the way,
+[3902.1s - 3902.9s] just like actually,
+[3902.9s - 3904.8s] and this is like a couple of days project.
+[3904.8s - 3906.5s] Like this is not a huge lift,
+[3906.5s - 3909.0s] but you will almost invariably save yourself
+[3909.0s - 3912.3s] a ton of money because you'll find out when you go in,
+[3912.3s - 3914.4s] how much stuff is being spent yet again.
+[3914.4s - 3916.2s] And so there are some problems that are just recurring
+[3916.2s - 3917.0s] that never get solved.
+[3917.0s - 3918.6s] Like you will always have to manage expenses
+[3918.6s - 3919.5s] because they tend to grow.
+[3919.5s - 3920.9s] You will always have to manage focus
+[3920.9s - 3924.1s] because like opportunities sprout like weeds, right?
+[3924.1s - 3925.4s] You have to weed them out
+[3925.4s - 3927.0s] so you can keep all the water
+[3927.0s - 3929.2s] and all the nutrition on the one tree that matters, right?
+[3929.2s - 3932.3s] And so this is not a problem that will ever get solved.
+[3932.3s - 3933.7s] It's just that you have to manage it.
+[3933.7s - 3934.6s] Right off the top,
+[3934.6s - 3935.9s] you're going to assign your people managers
+[3935.9s - 3938.4s] or wherever the leader is in the department
+[3938.4s - 3939.7s] with a specific budget.
+[3939.7s - 3940.8s] And because long-term,
+[3940.8s - 3942.1s] because we'll see where this gets to,
+[3942.1s - 3944.3s] all the leaders of these departments in a level or two
+[3944.3s - 3946.3s] are basically gonna be running their own mini company
+[3946.3s - 3947.1s] at that point.
+[3947.1s - 3947.9s] And so it's like,
+[3947.9s - 3950.2s] they have basically their own little mini P&L.
+[3950.2s - 3952.3s] We're not there yet, but we're getting there.
+[3952.3s - 3953.8s] All right, so that's that.
+[3953.8s - 3955.3s] Letting market, this is me putting this in,
+[3955.3s - 3958.5s] which is let marketing spend as much money as they want
+[3958.5s - 3961.0s] as long as it's within these KPI,
+[3961.0s - 3963.0s] these metrics of profitability.
+[3963.0s - 3965.1s] So one of the things that always drove me nuts is like,
+[3965.1s - 3966.8s] I would have like CFOs come in,
+[3966.8s - 3967.7s] like when we're interviewing,
+[3968.4s - 3969.5s] how do you think about marketing budgets?
+[3969.5s - 3971.7s] I was like, oh, as long as when we put $1 in,
+[3971.7s - 3973.8s] more than $1 comes back.
+[3973.8s - 3975.6s] The limit is spend as much money as we can
+[3975.6s - 3977.1s] until something else breaks.
+[3977.1s - 3978.5s] And so typically I never,
+[3978.5s - 3979.4s] I don't think in our career
+[3979.4s - 3981.1s] we've ever been limited by marketing.
+[3981.1s - 3982.6s] We've always had to basically throttle it
+[3982.6s - 3983.9s] based on other demands of the business
+[3983.9s - 3985.4s] that were constraining us.
+[3985.4s - 3987.0s] Next one, just having card limits,
+[3987.0s - 3988.8s] just limits your downside as a business owner.
+[3988.8s - 3990.4s] So obviously you give them the budget,
+[3990.4s - 3992.2s] but I also like having the hard budget there.
+[3992.2s - 3993.6s] Doesn't necessarily need to be the same thing
+[3993.6s - 3995.1s] because you won't have to like,
+[3995.1s - 3997.5s] okay, now this person asked for this higher spend,
+[3998.3s - 3999.2s] now I have to like call the company, increase the,
+[3999.2s - 4001.6s] it's just like kind of a pain.
+[4001.6s - 4003.5s] So I mean, there's a level of trust that has to be there.
+[4003.5s - 4004.7s] Yeah, you can get like,
+[4004.7s - 4006.0s] you should really look into getting
+[4006.0s - 4007.6s] a really good credit card program
+[4007.6s - 4009.4s] because a good credit card program,
+[4009.4s - 4012.8s] you can individually select how much each person
+[4012.8s - 4015.1s] on your team is able to spend on a credit card.
+[4015.1s - 4016.7s] So departments like marketing,
+[4016.7s - 4019.0s] you can make it millions of dollars a month,
+[4019.0s - 4020.0s] depending on your P&L
+[4020.0s - 4021.3s] and if your business can support it.
+[4021.3s - 4023.8s] Other departments where somebody only needs to spend
+[4023.8s - 4025.7s] $15,000 a month, you can limit it to that.
+[4025.7s - 4026.5s] And so, you know,
+[4026.5s - 4028.3s] don't just go with the credit card program
+[4028.3s - 4030.7s] that your bank has because oftentimes they are shit.
+[4030.7s - 4032.6s] Go with a custom credit card program,
+[4032.6s - 4035.2s] look at flexibility as one of the main things.
+[4035.2s - 4036.4s] I would say that most of the time,
+[4036.4s - 4037.6s] what business owners are frustrated with
+[4037.6s - 4039.8s] with these programs is that they're not flexible enough.
+[4039.8s - 4040.8s] And so it's like,
+[4040.8s - 4043.8s] you cannot raise the limit of the marketing department
+[4043.8s - 4045.7s] without raising it of all the rest of the departments
+[4045.7s - 4047.2s] or they require a ton of, you know,
+[4047.2s - 4049.4s] manual approvals to get things raised
+[4049.4s - 4051.4s] or money transferred to one card or another.
+[4051.4s - 4052.3s] And looking at,
+[4052.3s - 4054.1s] cause now we're kind of in the expense side, right?
+[4054.1s - 4056.2s] Like if you look at where all your money goes,
+[4056.2s - 4057.6s] you'll be able to match credit cards
+[4057.6s - 4059.6s] that give points or rewards for that.
+[4059.6s - 4060.8s] So if you do a lot of travel,
+[4060.8s - 4063.3s] then there's probably a lot of like entertainment
+[4063.3s - 4064.8s] and travel that will be covered
+[4064.8s - 4066.7s] and then you get double points or triple points on.
+[4066.7s - 4067.5s] That sounds small,
+[4067.5s - 4069.0s] but when you're spending millions of dollars a year,
+[4069.0s - 4069.9s] 3% adds up.
+[4069.9s - 4071.4s] Sometimes it's a full-time role.
+[4071.4s - 4072.5s] So, I mean,
+[4072.5s - 4074.9s] I'm all for like one decision that pays me forever.
+[4074.9s - 4075.8s] And so I like,
+[4075.8s - 4077.0s] I kind of put this in one of those buckets.
+[4077.0s - 4078.2s] Like it's not a lot, but it's like,
+[4078.2s - 4079.8s] you make it once and then you get dividends
+[4079.8s - 4081.3s] kind of ongoing because of that.
+[4081.3s - 4083.6s] Next point here, fancy projections.
+[4083.6s - 4085.8s] So typically to get fancy projections,
+[4085.8s - 4086.8s] we have to kind of have to graduate.
+[4086.8s - 4088.4s] You've got to be a little bit more professional
+[4088.4s - 4090.2s] and getting a full-time person
+[4090.2s - 4092.1s] is usually required at this point in order to do that.
+[4092.1s - 4093.7s] We're not talking too much about people here,
+[4093.7s - 4095.8s] but that usually tends to happen at this point.
+[4095.8s - 4097.3s] Yeah, and so what projections look like
+[4097.3s - 4099.6s] is not just what's the business going to grow into,
+[4099.6s - 4101.6s] but also what are our operating expenses
+[4101.6s - 4103.1s] going to be over the next 12 months?
+[4103.1s - 4104.0s] At this point,
+[4104.0s - 4104.8s] people need to know like,
+[4104.8s - 4106.2s] how much can I spend in my department?
+[4106.2s - 4108.3s] And some people you find spend too much,
+[4108.3s - 4110.1s] but a lot of people actually don't spend enough.
+[4110.1s - 4111.6s] They don't invest in their departments
+[4111.6s - 4112.8s] because there's no budget.
+[4112.8s - 4115.0s] So I actually see a budget at this point,
+[4115.0s - 4116.9s] having an operating plan with projections
+[4116.9s - 4118.2s] that leads to a budget
+[4118.2s - 4120.3s] as being how you can give your team autonomy
+[4120.3s - 4122.6s] to help invest in their teams
+[4122.6s - 4124.0s] if you give them a certain amount of money
+[4124.0s - 4125.4s] that they have to spend.
+[4125.4s - 4127.5s] And so as much as we say,
+[4127.5s - 4128.6s] sometimes people spend too much.
+[4128.6s - 4130.0s] Actually, a lot of people don't spend enough
+[4130.0s - 4131.3s] because they're so afraid of spending money.
+[4131.3s - 4132.3s] At least the best teammates
+[4132.3s - 4133.7s] tend to fall into that category.
+[4133.7s - 4135.7s] You have people who just spend way too much money
+[4135.7s - 4136.9s] who are like, oh, this is free.
+[4136.9s - 4138.5s] It's not like company money.
+[4138.5s - 4139.8s] It's like, no, it's dude, it's still my money.
+[4139.8s - 4140.8s] It's me.
+[4140.8s - 4142.5s] I buy you dinner, same money.
+[4142.9s - 4144.2s] Don't act that way.
+[4144.2s - 4145.8s] And then you've got the other people who are like,
+[4145.8s - 4148.9s] oh, I didn't want to spend it because it was $500.
+[4148.9s - 4149.7s] And you're like,
+[4149.7s - 4152.4s] dude, you're spending 10 hours a week on this thing
+[4152.4s - 4153.8s] and we could solve this for 500 bucks.
+[4153.8s - 4155.0s] This is ridiculous, right?
+[4155.0s - 4157.7s] And so there's very rarely people in the middle.
+[4157.7s - 4159.8s] And so you have to rein these people in
+[4159.8s - 4161.3s] and these ones you have to encourage and be like,
+[4161.3s - 4162.1s] we need to think about this
+[4162.1s - 4163.5s] in terms of how much dollars
+[4163.5s - 4165.4s] is it costing us to not have this thing
+[4165.4s - 4168.0s] and then just do a dollars and cents opinion on it.
+[4168.0s - 4169.3s] And the next thing you want to think about
+[4169.3s - 4170.2s] is that a lot of the people
+[4170.2s - 4171.9s] that you're recruiting at this point in time,
+[4172.0s - 4173.9s] especially for directors and executives,
+[4173.9s - 4176.1s] they come from companies where they're given a budget.
+[4176.1s - 4177.4s] And so when they don't have one,
+[4177.4s - 4179.1s] they don't really know how to spend money,
+[4179.1s - 4180.8s] which is how do I,
+[4180.8s - 4182.0s] which when you think about money,
+[4182.0s - 4183.2s] it's a resource for them.
+[4183.2s - 4184.8s] And so if they don't know how much of a resource
+[4184.8s - 4186.6s] they have, it's really hard for them to make decisions.
+[4186.6s - 4188.8s] And they'll solve problems relative to that budget.
+[4188.8s - 4190.8s] So it's like, if you have a $50,000 budget,
+[4190.8s - 4191.7s] you might be able to solve
+[4191.7s - 4192.5s] something significantly better.
+[4192.5s - 4193.7s] But if you only have 10,
+[4193.7s - 4195.4s] now I'm all for being creative with constraints,
+[4195.4s - 4197.5s] but you do think of different solutions
+[4197.5s - 4199.0s] and sometimes some solutions are better.
+[4199.0s - 4201.4s] It's buy nicer, buy twice oftentimes.
+[4201.7s - 4203.8s] And the last point is that as you get bigger,
+[4203.8s - 4205.7s] you will have more exposure.
+[4205.7s - 4208.8s] We talked about cyber in some of the past stages,
+[4208.8s - 4210.8s] but you will probably have unique exposures
+[4210.8s - 4214.3s] to your business that you will want to ensure around.
+[4214.3s - 4216.8s] And so as exposure increases,
+[4216.8s - 4218.8s] for me, I like to limit downside.
+[4218.8s - 4220.1s] And so with that being said,
+[4220.1s - 4222.1s] we started with your team spends your money
+[4222.1s - 4223.2s] really stupidly.
+[4223.2s - 4224.8s] And then so then you get into quarterly
+[4224.8s - 4225.7s] expense management,
+[4225.7s - 4226.9s] you start doing budgets by department,
+[4226.9s - 4228.6s] you book cards with limits
+[4228.6s - 4230.4s] for all the kind of the directors and managers,
+[4230.5s - 4232.0s] and then you have an expense approval process
+[4232.0s - 4232.8s] with Layla went over,
+[4232.8s - 4234.7s] and then you add coverage to your insurance
+[4234.7s - 4235.9s] and get fancier projections.
+[4235.9s - 4237.1s] Notice how these are getting longer
+[4237.1s - 4239.0s] as the company gets bigger.
+[4239.0s - 4240.3s] And so at this thing,
+[4240.3s - 4242.2s] bottom line is that your constraint
+[4242.2s - 4244.1s] is that everything is disorganized.
+[4244.1s - 4244.9s] And to graduate,
+[4244.9s - 4247.5s] you have to start triaging everything
+[4247.5s - 4249.7s] and basically putting them into buckets.
+[4249.7s - 4251.0s] That's all we're doing is we're just like,
+[4251.0s - 4252.6s] okay, let's just organize this stuff.
+[4252.6s - 4255.3s] Now we're getting into the hundred employee range.
+[4255.3s - 4258.1s] So we go from categorizing slash organizing everything
+[4258.1s - 4259.4s] into specializing.
+[4259.4s - 4261.3s] And so that is what we begin in the next one.
+[4261.3s - 4264.6s] And if this was a video that you some randomly got to
+[4264.6s - 4266.2s] because you clicked around on the page,
+[4266.2s - 4267.3s] which is fine,
+[4267.3s - 4270.9s] we have custom $100 million scaling roadmaps
+[4270.9s - 4273.6s] that we will make for you for free
+[4273.6s - 4275.6s] for your business to walk you through this.
+[4275.6s - 4276.8s] All right, and so inside,
+[4276.8s - 4279.7s] you'll have more details about that stage,
+[4279.7s - 4280.6s] what to expect,
+[4280.6s - 4281.9s] what to prepare for.
+[4281.9s - 4283.8s] And we'll also give you both stages
+[4283.8s - 4285.3s] kind of one before and one after.
+[4285.3s - 4286.2s] So the one before is like,
+[4286.2s - 4287.0s] all right, I definitely want to make sure
+[4287.0s - 4288.3s] I checked all this stuff off
+[4288.3s - 4289.9s] and the stuff that's after is like,
+[4289.9s - 4290.9s] okay, I have a line of sight
+[4290.9s - 4292.4s] to what's going to happen next.
+[4292.4s - 4294.7s] And so big picture, these are themes.
+[4294.7s - 4297.0s] You might notice that your advertising is ahead
+[4297.0s - 4298.3s] or it's behind.
+[4298.3s - 4300.7s] And so it's just that the further behind
+[4300.7s - 4301.6s] a department is,
+[4301.6s - 4303.9s] the more likely something bad could happen.
+[4303.9s - 4305.0s] And so think of these, again,
+[4305.0s - 4306.6s] as they're not absolutes.
+[4306.6s - 4308.0s] They're continuums that exist
+[4308.0s - 4309.8s] in all of these departments across all functions.
+[4309.8s - 4310.7s] So if you want this,
+[4310.7s - 4312.1s] it's free, you can click the button below.
+[4312.1s - 4314.1s] Otherwise, let's get to the next stage.

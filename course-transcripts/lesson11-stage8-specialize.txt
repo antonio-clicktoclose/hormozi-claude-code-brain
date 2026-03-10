@@ -1,0 +1,1792 @@
+[0.0s - 5.8s] All right, so we just graduated from 50 to 99 employees, and now we're over 100.
+[5.8s - 8.3s] So we're in the 100 to 250 range.
+[8.3s - 10.3s] And so the theme here is specialized.
+[10.3s - 13.1s] So earlier we're like, okay, there's too much stuff, it's super disorganized.
+[13.1s - 15.9s] So then you have an accurate idea of how much stuff's coming in.
+[15.9s - 20.4s] But now that you have all this stuff going in these buckets, we have to start specializing.
+[20.4s - 25.7s] And so at this point, again, 100 to 250, your role is that you're now president.
+[25.7s - 28.0s] So now you do have that full executive team.
+[28.0s - 29.7s] And so this is the leadership structure.
+[29.7s - 32.1s] So at this point, you really have four layers.
+[32.1s - 37.2s] So you don't actually add a top layer at this point, you actually add more bottom layers.
+[37.2s - 41.9s] So you're going to have at this point really like a fully built out executive team, a
+[41.9s - 47.0s] fully built out director team, a fully built out suite of managers, and then even managers
+[47.0s - 49.0s] below them or leads, whatever you want to call it.
+[49.0s - 53.6s] So you almost have like junior, senior management, directors, executives, again,
+[53.6s - 55.5s] everyone calls this something different in their own business.
+[55.5s - 58.9s] So please just like, I'm using the most common terminology, but at this point,
+[58.9s - 63.2s] especially when we talk about your role as president, you are now the leader of an entire
+[63.2s - 64.2s] community.
+[64.2s - 67.8s] And this is really the shift that you go through right now, is it goes from leading
+[67.8s - 72.1s] a business, leading a team, to leading a community, to leading a team of teams,
+[72.1s - 77.3s] and having to be the one that is directing multiple very robust teams that all come
+[77.3s - 78.3s] together.
+[78.3s - 81.3s] And I'll just speak to the fact like we've gone through this phase three times.
+[81.3s - 85.4s] And so this is just our experience of the three times we've gone from 100 to 250
+[85.4s - 88.6s] in terms of like getting into this specialization line.
+[88.6s - 90.8s] And so the number of companies here is 900,000.
+[90.8s - 94.1s] So it's less than a million companies in the United States or even at this level.
+[94.1s - 97.8s] Out of the 30 million we started with, that was already only 9% of people.
+[97.8s - 98.8s] All right.
+[98.8s - 102.0s] So, you know, kudos to you if you get to this level, like it's very, very rare.
+[102.0s - 103.0s] All right.
+[103.0s - 104.0s] So let's start with product.
+[104.0s - 106.9s] So good services and results that you deliver.
+[106.9s - 110.4s] The constraint at this level is that your product now has too many features and
+[110.4s - 111.4s] overwhelms customers.
+[111.4s - 112.4s] All right.
+[112.4s - 114.4s] And so this is because it's kind of become this Frankenstein thing.
+[114.4s - 116.4s] You keep adding, keep adding, keep adding.
+[116.6s - 117.6s] You know, keep trying to solve these problems.
+[117.6s - 121.3s] But now you've got this thing that's just like, just got so much stuff attached to it.
+[121.3s - 122.3s] Right.
+[122.3s - 126.7s] And so to graduate, you want to survey, prune, and improve through deletion.
+[126.7s - 129.8s] And one of the cool parts about improving through deletion is that pruned items can
+[129.8s - 132.3s] actually become cross-cells, which I'll explain later.
+[132.3s - 135.2s] So here's our delete everything but essentials.
+[135.2s - 137.7s] And then pruned items can become cross-cells using that.
+[137.7s - 140.7s] That I like to call it sawdust, but you take the extra branches and then you put
+[140.7s - 142.2s] them in and they become something else.
+[142.2s - 143.2s] All right.
+[143.2s - 144.2s] So this is what this looks like.
+[144.5s - 148.7s] I know this also from school, is that the number one reason for cancellation, if you
+[148.7s - 152.6s] have a recurring business, but even any really business, cancellation might not be that
+[152.6s - 153.6s] they cancel subscription.
+[153.6s - 154.6s] They just stop coming back.
+[154.6s - 155.6s] It's just overwhelmed.
+[155.6s - 157.0s] It's just too many choices.
+[157.0s - 158.5s] There's too much stuff going on.
+[158.5s - 160.6s] And so they're like, ah, it's too much effort.
+[160.6s - 161.6s] I'm good.
+[161.6s - 162.6s] Right.
+[162.6s - 166.7s] And so instead of thinking like, I need to add more, we have to think, okay,
+[166.7s - 171.2s] how do we make each feature of our service or product good enough to be worth the investment
+[171.2s - 172.3s] on its own?
+[172.4s - 175.6s] And so I like to think about it like that, which is like, instead of saying, oh, there's
+[175.6s - 176.7s] 14 things.
+[176.7s - 180.3s] But if you ever listen to customers, a lot of times they're like, oh, yeah, it's
+[180.3s - 182.3s] worth it just for this.
+[182.3s - 185.3s] That just for this thing is the core value.
+[185.3s - 188.6s] And then the rest of it, believe it or not, actually detracts from the value
+[188.6s - 195.0s] because they're justifying why they don't use the rest because of how much more
+[195.0s - 196.3s] valuable this is.
+[196.3s - 199.5s] And so you would in a very real way have a more valuable service if you didn't
+[199.5s - 201.6s] give them something that they didn't use.
+[201.6s - 204.6s] The piece that I like to think about this is also like magical product creation.
+[204.6s - 209.2s] So is there a way that we can make our product work without them doing anything
+[209.2s - 210.2s] at all?
+[210.2s - 212.4s] And so there's classic products like this, like I mentioned earlier, like
+[212.4s - 213.7s] alarm systems.
+[213.7s - 217.6s] You've got the energy in your house, Wi-Fi, your phone.
+[217.6s - 220.2s] These are all systems that just work without them.
+[220.2s - 224.1s] And so the magic is how can I get people to do basically nothing and provide
+[224.1s - 225.1s] them value?
+[225.1s - 228.0s] When you get to that point, it's like you've won.
+[228.0s - 229.0s] Right.
+[229.0s - 232.4s] When we're thinking about that, like, what feature do I want from Internet?
+[232.4s - 234.9s] I want it to work and I want to be fast.
+[234.9s - 235.9s] Right.
+[235.9s - 236.9s] What's the feature I want it to work?
+[236.9s - 238.9s] A lot of times it's like, what is that?
+[238.9s - 239.9s] Just get it to work.
+[239.9s - 241.8s] Look like for your service.
+[241.8s - 244.9s] And usually if you ask your customers, it's one or two things.
+[244.9s - 245.9s] That's it.
+[245.9s - 248.5s] And a lot of times what happens at this point is that you get here
+[248.5s - 252.5s] because you're constantly looking at what new things your customers would want
+[252.5s - 255.6s] rather than how do I make the current things I have better.
+[255.6s - 256.6s] Right.
+[256.6s - 259.4s] And to support Alex's point that he just said, there's a study done by McKinsey
+[259.4s - 264.7s] that I thought was really compelling which talks about how the companies that prune
+[264.7s - 269.5s] six times as much are three times more profitable than companies that don't.
+[269.5s - 273.0s] And actually the best CEOs out of it, this is an entire study that McKinsey just
+[273.0s - 274.4s] did, they wrote a whole book about it.
+[274.4s - 278.9s] The best CEOs that are in the top 10 percentile, they are the ones who prune six times
+[278.9s - 279.9s] more.
+[279.9s - 283.2s] So they're not adding six times more things, they are pruning six times more.
+[283.2s - 285.8s] Because people, especially when you start getting bigger and bigger, like people
+[285.8s - 288.4s] have time on their hands and they start just doing stuff.
+[288.4s - 292.0s] And so like uncontrolled growth is cancer.
+[292.0s - 294.8s] And so we want to make sure that we cut that cancer out and make sure that we're
+[294.8s - 296.9s] growing only in the right direction.
+[296.9s - 299.3s] And so I love this quote from Elon, but he said, you need to delete until
+[299.3s - 300.6s] you have to add 10 percent back.
+[300.6s - 304.1s] He said, you keep deleting, you keep deleting, you keep deleting until you're
+[304.1s - 307.2s] like, oops, I deleted too far because until you add something back, you didn't
+[307.2s - 308.6s] delete enough.
+[308.6s - 311.5s] And this is kind of where you start to have to think with this hat is like growth
+[311.5s - 313.8s] is no longer about just addition.
+[313.8s - 316.1s] And so there's this story from years and years ago.
+[316.1s - 317.3s] So this will date me.
+[317.3s - 319.2s] But there's something called Dragon Dictation.
+[319.2s - 322.7s] This is back in the PC like some people might remember it.
+[322.7s - 326.1s] Anyways, they came out with a 2.0 version of Dragon Dictation.
+[326.1s - 329.9s] And the new version, two years later, had zero new features.
+[329.9s - 331.9s] It just had better dictation.
+[331.9s - 335.5s] So it just had a higher comprehension per word that people spoke.
+[335.5s - 339.5s] And so when I hear that, I think about that, I just think, what's the job
+[339.5s - 342.8s] that your product does or that your service is going to do for them?
+[342.8s - 343.8s] And how do I just make it better?
+[343.8s - 346.1s] And the reason that most people don't want to confront that is that that's
+[346.1s - 349.3s] harder to figure out than just adding something new.
+[349.3s - 351.4s] And so this is the discipline of the product team.
+[351.4s - 355.1s] This is the discipline of the founder of the CEO being like, you know what?
+[355.1s - 356.5s] We just got to get better.
+[356.5s - 357.6s] We just got to keep getting better.
+[357.6s - 358.7s] Like, what are all the details?
+[358.7s - 360.6s] This is where you go deep on stuff.
+[360.6s - 364.1s] That's where better really crystallizes.
+[364.1s - 366.7s] And I would say like to go deep, you repeat.
+[366.7s - 368.4s] You know, it's something that I say all the time.
+[368.4s - 370.7s] But like at this point in the business where you're at is you're going to
+[370.7s - 373.9s] notice through all of the different functions that we're going to walk
+[373.9s - 377.3s] through, there's a lot of repetition, you know, because it's really fun to
+[377.3s - 381.0s] make a new product, but to repeat and redo the old one over and over and
+[381.0s - 382.6s] over again, nobody likes doing that.
+[382.6s - 384.6s] And so I just give this quote that a lot of people in the school
+[384.6s - 387.2s] community have like kind of quoted me over and over again.
+[387.2s - 389.2s] And this is a little bit more for media business, but I think it's
+[389.2s - 392.9s] still a good perspective is that you want to think value per second, not
+[392.9s - 394.4s] seconds of value.
+[394.4s - 397.8s] And so that seems obvious for media, but really for anything, the amount
+[397.8s - 399.8s] of consumption that the customer is going to go through.
+[399.8s - 403.6s] It's like, how do I make every experience they have more distilled,
+[403.6s - 408.0s] more value packed rather than more value, right?
+[408.0s - 409.5s] Value per second, not seconds of value.
+[409.5s - 411.2s] It's about density, value density.
+[411.2s - 416.5s] And so there's this fancy graph here where you've got, OK, high value,
+[416.5s - 420.5s] high willingness to pay, high value, but low willingness to pay, low
+[420.5s - 423.8s] value, high willingness to pay, and then low value, low willingness to pay.
+[423.8s - 425.0s] And so you've got your trash.
+[425.0s - 427.8s] So obviously, if some people don't value it's not valuable and people
+[427.9s - 429.7s] don't want to pay for it, that's just trash.
+[429.7s - 431.1s] Like no one wants to build that.
+[431.1s - 433.9s] Table stakes is stuff that everybody in your industry does.
+[433.9s - 434.9s] So it's high value.
+[434.9s - 437.3s] But because everyone else does it, it's like they're not willing to
+[437.3s - 437.9s] spend a lot for it.
+[437.9s - 440.9s] It's not differentiated, which then kind of leads to, OK, well,
+[440.9s - 442.1s] then what is differentiated?
+[442.1s - 443.0s] Well, it's high value.
+[443.0s - 445.6s] And because no one else can do it like you can do it, there's
+[445.6s - 446.6s] high willingness to pay.
+[446.6s - 448.3s] Think about that as pricing power.
+[448.3s - 451.1s] And then finally, we're talking about pruning things.
+[451.1s - 453.3s] Now, you might have something that you added that you're like, no,
+[453.3s - 454.2s] this thing's really good.
+[454.2s - 457.0s] But you really just have to be honest with yourself and see not a lot
+[457.0s - 458.3s] of our customers are using it.
+[458.3s - 461.4s] So those things no longer are part of the core offering.
+[461.4s - 464.6s] You carve that out and then you can have that as an add on or an
+[464.6s - 466.9s] upsell for specific types of customers.
+[466.9s - 469.2s] And I will just note one thing, which is like if we look at our
+[469.2s - 472.8s] best performing portfolio companies, the table stakes, the things
+[472.8s - 475.5s] that are high value but low willingness to pay, the things
+[475.5s - 478.1s] that most of their competitors are doing, they're not looking at that.
+[478.1s - 479.9s] I think that that's actually saying that we've done really well
+[479.9s - 482.6s] and we encourage all of our best companies is don't look at your
+[482.6s - 485.5s] competitors, look to your customers, look to what they want more of.
+[485.5s - 487.3s] Most of the time they want to improve the current thing.
+[487.3s - 490.1s] They don't need you to build a competing product with the one that
+[490.1s - 491.3s] came out from your competitor.
+[491.3s - 494.9s] And so this purple line represents the pruned items can become
+[494.9s - 495.4s] cross-sells.
+[495.4s - 499.1s] So you can carve out stuff here that isn't as high value,
+[499.1s - 501.9s] put it over here for some people that might be high value.
+[501.9s - 505.5s] And for them, they'll be able and willing to pay more for it.
+[505.5s - 505.8s] All right.
+[505.8s - 509.8s] And so this was from a survey that ProfitWell did that I just
+[509.8s - 510.6s] loved this.
+[510.6s - 512.9s] This is for creators.
+[513.0s - 516.8s] But I just thought this was pretty cool to see how using that exact
+[516.8s - 519.7s] same thing, it's like, OK, what are the table stakes?
+[519.7s - 522.5s] Well, they felt, and this is obviously passive fans and super
+[522.5s - 524.5s] fans, so they did it across two audiences, which, by the way,
+[524.5s - 527.2s] this is how you would kind of look at this for your own
+[527.2s - 527.9s] customer base.
+[527.9s - 529.3s] But it's like, OK, so newsletters.
+[529.3s - 532.2s] Well, a lot of them just see that as par for course for
+[532.2s - 533.3s] kind of a creator type business.
+[533.3s - 535.3s] So they're not like, oh, that's the most valuable thing.
+[535.3s - 537.3s] But it's table stakes.
+[537.3s - 539.1s] Now, what are the things that they really value?
+[539.1s - 542.2s] So they value access, they value exclusive content, and
+[542.2s - 543.1s] subscriber only events.
+[543.1s - 545.7s] So almost all of this is exclusivity.
+[545.7s - 547.5s] If you look at it, it's almost all of these are exclusive
+[547.5s - 548.2s] things.
+[548.2s - 550.4s] Now, what are the things that only some people value?
+[550.4s - 555.0s] Well, badges, credits, deals and discounts, things like
+[555.0s - 557.9s] that, like those are things that some people value a lot,
+[557.9s - 558.7s] but not everyone.
+[558.7s - 560.4s] So if you want to make that the core thing, it's like
+[560.4s - 562.1s] you're going to lose out because we're like, well, they
+[562.1s - 562.9s] would be justifying.
+[562.9s - 565.1s] They'd be like, well, it's worth it for only this, even
+[565.1s - 566.9s] if I even if I have to pay for this stuff.
+[566.9s - 568.8s] Right now, for some people, the discounts don't matter at
+[568.8s - 569.6s] all to them.
+[569.6s - 569.8s] Right.
+[569.8s - 572.9s] And then subscriber only merch, not as like I'm not going
+[572.9s - 574.7s] to get a subscription just so I can get merch to there.
+[574.7s - 574.9s] Right.
+[574.9s - 576.6s] Or at least it's not a core value driver.
+[576.6s - 578.5s] And so you should be able to look at your own product
+[578.5s - 579.0s] with this map.
+[579.0s - 581.1s] It's less about what this map says, more about
+[581.1s - 583.8s] thinking through your own product in this manner.
+[583.8s - 584.3s] All right.
+[584.3s - 586.9s] And so at this level, it's all about deletion.
+[586.9s - 588.3s] Pruning, pruning, pruning, pruning.
+[588.3s - 589.9s] And so we started with too many features.
+[589.9s - 591.1s] We're overwhelming customers.
+[591.1s - 592.1s] So we survey them.
+[592.1s - 592.7s] We prune.
+[592.7s - 593.9s] We improve through deletion.
+[593.9s - 595.7s] And then the prune items, if you're absolutely hell
+[595.7s - 598.1s] bent on it and people are screaming, it's like, OK,
+[598.1s - 600.0s] the few screamers, you guys can pay more for it.
+[600.0s - 602.2s] But the core thing, we're going to keep simple.
+[602.2s - 603.8s] And so with that, we then transition
+[603.8s - 605.9s] to Zim marketing, which is how you tell the people
+[605.9s - 607.4s] about your amazing stuff.
+[607.4s - 608.9s] And so the constraint at this level
+[608.9s - 611.5s] is that broader creative brings in lower quality leads
+[611.5s - 612.8s] and dilutes the brand.
+[612.8s - 614.7s] And cat goes up yet again.
+[614.7s - 617.8s] And so this is my visual for dilution.
+[617.8s - 619.5s] It should be darker here and lighter here.
+[619.5s - 621.3s] So more people are coming in, more hands in the pot.
+[621.3s - 622.9s] People don't understand the messaging that you want.
+[622.9s - 624.9s] And so to graduate, you grow the brand
+[624.9s - 626.7s] with standardized messaging, free value,
+[626.7s - 629.3s] and big positive brand associations.
+[629.3s - 630.8s] So these are the big moves.
+[630.8s - 634.3s] And these are the four pieces, as I see it, for this level.
+[634.3s - 635.4s] What's the big free value?
+[635.4s - 636.8s] What's our simplified mission?
+[636.8s - 638.0s] What's the standardized messaging
+[638.0s - 639.1s] that aligns with that mission?
+[639.1s - 640.6s] And what are the big associations
+[640.6s - 643.6s] we can make with our brand that our customers love?
+[643.6s - 646.9s] And so standardized messaging is, I really
+[646.9s - 648.6s] like to simplify this to, you really
+[648.6s - 650.4s] only get one to three words.
+[650.4s - 651.8s] That's it.
+[651.8s - 653.4s] What's the key word association
+[653.4s - 655.3s] that people are going to think about with you?
+[655.4s - 658.1s] So for me, there's a reason I wear acquisition,
+[658.1s - 659.7s] because both it's the name of my company,
+[659.7s - 660.9s] but it's also what we're really good at.
+[660.9s - 662.6s] And it has a double entendre in and of itself,
+[662.6s - 665.2s] which is, for the right level of business owner,
+[665.2s - 667.0s] the reason that we're not marketing.com,
+[667.0s - 668.5s] that we're acquisition.com,
+[668.5s - 669.9s] is that higher level businesses
+[669.9s - 671.2s] think in cost of acquisition.
+[671.2s - 673.3s] They think in acquisition, or they're thinking M&A
+[673.3s - 674.6s] in terms of mergers and acquisitions.
+[674.6s - 675.9s] They're either acquiring customers,
+[675.9s - 677.8s] or they're thinking about acquiring businesses.
+[677.8s - 679.2s] But that's the level of entrepreneur
+[679.2s - 681.0s] that I ultimately want to attract.
+[681.0s - 683.0s] And so if people think one word about me,
+[683.0s - 685.1s] I would want them to think that, or business.
+[686.0s - 687.3s] And I would say third, if I survey my people,
+[687.3s - 688.6s] they say value.
+[688.6s - 690.2s] There's kind of like the one to three words
+[690.2s - 691.7s] that people will typically associate me
+[691.7s - 692.7s] when I look at surveys.
+[692.7s - 694.5s] And so you just have to know,
+[694.5s - 695.3s] what are those three words?
+[695.3s - 697.4s] People are like, this is my mission statement
+[697.4s - 698.2s] and my tagline.
+[698.2s - 700.3s] It's like, you're not going to get that.
+[700.3s - 701.9s] The whole audience isn't going to know that.
+[701.9s - 704.6s] They're just going to know, he's that X guy, right?
+[704.6s - 706.1s] And whatever that X is,
+[706.1s - 709.0s] that's what is what we have to be hammering
+[709.0s - 710.7s] over and over and over again.
+[710.7s - 712.0s] What we want to do is we want to make sure
+[712.0s - 713.1s] that the look and feel,
+[713.1s - 715.1s] so people get really obsessed with colors
+[715.1s - 716.5s] and fonts and all that stuff.
+[716.5s - 718.3s] And I think it's hogwash.
+[718.3s - 720.4s] The only reason that you have that stuff
+[720.4s - 723.1s] is just to further reinforce the association
+[723.1s - 724.7s] that this is the same company.
+[724.7s - 727.9s] Not because this font somehow holds power
+[727.9s - 730.3s] or this particular blue means something.
+[730.3s - 732.3s] It's just that when you made the associations
+[732.3s - 734.3s] many other times in the past or as you continue to,
+[734.3s - 736.3s] you want to make sure that when you do it again,
+[736.3s - 737.7s] that they associate them.
+[737.7s - 740.0s] At this point in time, why this is difficult
+[740.0s - 742.9s] is that the team and the founder
+[743.7s - 744.6s] typically don't want to repeat themselves.
+[744.6s - 746.2s] And so it's kind of like just like in product,
+[746.2s - 747.8s] like we kind of have to do the boring stuff.
+[747.8s - 750.3s] Like business at a certain size,
+[750.3s - 752.0s] all of the returns that you're getting
+[752.0s - 753.6s] do come from a lot of boring work.
+[753.6s - 754.7s] And so at this point,
+[754.7s - 756.3s] like how do you build a brand?
+[756.3s - 757.4s] Yes, through associations,
+[757.4s - 760.1s] but repeating the same associations.
+[760.1s - 762.9s] And so if you look at brands, for example,
+[762.9s - 764.4s] it's not like you have to continuously
+[764.4s - 766.4s] make new novel concept ideas.
+[766.4s - 768.9s] It's how are we repackaging the current message,
+[768.9s - 769.8s] the current content?
+[769.8s - 771.1s] You know, when I'm speaking to my team
+[771.1s - 773.6s] and I'm thinking because brand externally
+[773.6s - 776.0s] and brand internally, brand internally is culture,
+[776.0s - 778.1s] you're thinking, okay, I'm gonna keep talking
+[778.1s - 781.2s] about how competitive greatness is our core value.
+[781.2s - 782.7s] It's not like I'm making up a new word.
+[782.7s - 783.7s] It's not like I'm making up a new,
+[783.7s - 785.5s] it's as I'm constantly repeating it.
+[785.5s - 789.5s] And so I think being okay with different packaging,
+[789.5s - 790.7s] to repeat the same thing
+[790.7s - 792.5s] is what you want to focus at at this point in time
+[792.5s - 794.1s] because it's just like Nike.
+[794.1s - 795.9s] They've been saying just do it for how long?
+[795.9s - 797.7s] I was literally gonna use that exact example.
+[797.7s - 799.5s] Like they're not, their creative team isn't like,
+[799.5s - 801.6s] you know what, we did just do it last year.
+[801.6s - 803.6s] Like let's, you know, we wanna freshen it up.
+[803.6s - 806.3s] It's like, once you find the message that hits
+[806.3s - 808.8s] for your audience that people are like, I love this,
+[808.8s - 811.9s] you just say it over and over and over again,
+[811.9s - 814.3s] and you let them know in new and creative ways
+[814.3s - 815.6s] the same message.
+[815.6s - 816.8s] So the variety is think of it
+[816.8s - 818.9s] as a hundred different ways to say one thing,
+[818.9s - 820.9s] not one way to say a hundred things.
+[820.9s - 822.7s] The next thing here is free value, all right?
+[822.7s - 824.8s] I differentiate this between B2B and B2C.
+[824.8s - 828.8s] So B2B, typically this is gonna be actual value.
+[828.8s - 830.7s] So it's usually gonna be some sort of monetary value
+[830.7s - 831.8s] that you give to people.
+[831.8s - 833.9s] This is why we make these kind of extensive trainings
+[833.9s - 835.0s] and courses and things like that,
+[835.0s - 836.9s] why we put the content out, write the books.
+[836.9s - 839.3s] All of this is actual value that someone's like,
+[839.3s - 842.2s] I made more from this than I have paid this person,
+[842.2s - 843.8s] and I would like to give them more money
+[843.8s - 845.6s] so that I can get even more value.
+[845.6s - 846.4s] Like that's the idea.
+[846.4s - 848.4s] It's like get them to try it before they buy it
+[848.4s - 849.7s] and feel really good about the purchase.
+[849.7s - 850.8s] My favorite thing in the entire world
+[850.8s - 851.7s] is when a customer says,
+[851.7s - 854.0s] you've literally paid for yourself a hundred times over
+[854.0s - 855.5s] before I've even given you anything.
+[855.5s - 857.1s] Because it's like, I've already paid for myself.
+[857.1s - 858.4s] It's one of my favorite ways to do business.
+[858.4s - 860.2s] And I recommend doing it that way.
+[860.2s - 861.9s] And so if you're B2B thinking like,
+[861.9s - 864.0s] what would be insane for me to give away?
+[864.0s - 865.9s] What, how much work would,
+[865.9s - 867.5s] am I willing to do that my competitors
+[867.5s - 868.4s] aren't willing to do
+[868.4s - 870.5s] in order to just over deliver to my customers
+[870.5s - 872.3s] and realizing that 99% of people
+[872.3s - 873.3s] will never become a customer.
+[873.3s - 874.6s] And that's okay.
+[874.6s - 876.5s] And so the next piece here is,
+[876.5s - 878.2s] okay, well, how does that apply to B2C?
+[878.2s - 881.5s] So B2C, if you look at the big, like overall,
+[881.5s - 883.6s] is oftentimes it's entertainment
+[883.6s - 885.9s] in terms of like the value that they provide.
+[885.9s - 887.6s] And that is, and I use that
+[887.6s - 889.1s] in the formal definition of entertainment,
+[889.1s - 892.2s] which is just anything that the purpose is to consume it.
+[892.2s - 894.6s] So sports, for example, they are entertainment.
+[894.6s - 897.0s] The whole point of sports is for people to watch it.
+[897.0s - 897.8s] That's it.
+[897.8s - 899.2s] When people, dancers, singers,
+[899.2s - 902.1s] and there's a reason that big direct-to-consumer brands
+[902.1s - 905.6s] find the entertainers that are in that space
+[905.6s - 908.4s] that resonate most closely
+[908.4s - 909.9s] with the core values of their brand
+[909.9s - 911.7s] and their business and their audience
+[911.7s - 914.0s] so that they can continue to pair themselves
+[914.0s - 916.9s] with the values that matter most to their customers.
+[916.9s - 918.8s] And so this is how I think about it.
+[918.8s - 920.9s] Because B2B, it's like, well, wouldn't it be great
+[920.9s - 923.0s] if Elon Musk would do an ad for me?
+[923.0s - 925.2s] It's like, yeah, he's not gonna do that, right?
+[925.2s - 927.4s] And so it's like, you have to create the value directly,
+[927.4s - 929.1s] whereas here it's almost by proxy.
+[929.1s - 931.6s] Now, in both of these situations, long-term,
+[931.6s - 933.2s] it's still gonna come down to the product.
+[933.2s - 936.8s] But this is just about how do we get ourselves out there?
+[936.8s - 938.6s] How do we get more people to find out about our stuff?
+[938.6s - 939.8s] These are the ways that we do it.
+[939.8s - 941.2s] In terms of big associations,
+[941.2s - 943.1s] it's taking these free value components and saying,
+[943.1s - 944.5s] okay, what does that look like?
+[944.5s - 945.3s] What are the endorsements?
+[945.3s - 947.3s] What are the sponsors that would make the most sense
+[947.3s - 949.0s] for our business right now?
+[949.0s - 951.6s] And so at this level, we started with,
+[951.6s - 953.5s] we had broader creative, brings in lower quality leads
+[953.5s - 955.5s] and dilutes the brand, cat goes up again.
+[955.5s - 956.4s] So to solve this, we say,
+[956.4s - 958.3s] okay, this is the core messaging.
+[958.3s - 959.5s] These are the one to three words
+[959.5s - 961.7s] we want people to know about us, all right?
+[961.7s - 964.1s] This is how we're gonna deliver free value
+[964.1s - 965.7s] to our base at scale.
+[965.7s - 967.2s] There's a reason that some of the best ads
+[967.2s - 969.8s] of all times for direct to consumer brands are funny,
+[969.8s - 970.9s] right, they're entertaining.
+[970.9s - 973.3s] And they have people that those people recognize
+[973.3s - 974.8s] and like in those ads.
+[974.8s - 976.2s] And then B2B, we have to think, okay,
+[976.2s - 978.6s] we should be willing to invest actual money
+[978.6s - 980.1s] in the free value that we're giving.
+[980.1s - 982.5s] Like real money, not just like,
+[982.5s - 984.7s] oh, we'll just make some content, sure, that's something.
+[984.7s - 987.4s] But like, how do we give real value to people?
+[987.4s - 988.6s] Is there tools that we can give away?
+[988.6s - 989.9s] Are there calculators that we can give away?
+[989.9s - 992.4s] Are there even low levels of service that we can give
+[992.4s - 994.5s] to prospective customers
+[994.5s - 997.2s] that would reinforce our position in the marketplace?
+[997.2s - 998.7s] That's why McKinsey and Bain
+[998.7s - 1000.2s] and some of these big consulting firms,
+[1000.2s - 1001.8s] they put out massive white papers
+[1001.8s - 1004.1s] that you'd have to pay tens of thousands of dollars
+[1004.1s - 1005.3s] to get that level of information
+[1005.3s - 1006.3s] and they give it away for free
+[1006.3s - 1007.8s] so that they can position themselves
+[1007.8s - 1010.3s] as thought leaders and authorities in the space.
+[1010.3s - 1011.9s] All right, and so at this point,
+[1011.9s - 1014.8s] we're like, okay, our product, we've pruned it down,
+[1014.8s - 1016.7s] we've let more people know about our new product,
+[1016.7s - 1018.7s] and now we transition to sales.
+[1018.7s - 1019.7s] All right, so how are we gonna get these people
+[1019.7s - 1020.5s] to give us money?
+[1020.5s - 1022.1s] And so the constraint at this level
+[1022.1s - 1025.6s] is that closing efficiency on the premium product drops.
+[1025.6s - 1027.9s] Like you got more people, it's just,
+[1027.9s - 1029.1s] I mean, you got a bigger team now,
+[1029.1s - 1029.9s] and then all of a sudden you're like,
+[1030.4s - 1032.4s] my three superstars get overshadowed
+[1032.4s - 1035.4s] by the 30 non superstars that I have in that role.
+[1035.4s - 1037.7s] And so to graduate, what we do is we route the best leads
+[1037.7s - 1040.7s] to the best closers for front end and ascensions,
+[1040.7s - 1043.0s] and you create automated metrics tracking, all right?
+[1043.0s - 1045.4s] So up to this point, you should have metrics tracking,
+[1045.4s - 1046.3s] and if it's not automated,
+[1046.3s - 1047.3s] it absolutely has to be automated,
+[1047.3s - 1049.2s] but this is at a more granular level.
+[1049.2s - 1052.7s] This is to the rep by basically across everything,
+[1052.7s - 1057.2s] attribution by platform, by rep, by product, okay?
+[1057.2s - 1059.4s] And so if you see these kind of leads coming in,
+[1059.4s - 1061.8s] you then have to have these assignment rules
+[1061.8s - 1063.2s] that then push them to it.
+[1063.2s - 1067.4s] And so last level, we talked about categorizing, organizing.
+[1067.4s - 1069.1s] We can't get into the specialization
+[1069.1s - 1070.7s] until we do the categorization first.
+[1070.7s - 1072.2s] So we categorize and organize first,
+[1072.2s - 1075.3s] and then that sets us up for this stage where we say,
+[1075.3s - 1076.9s] okay, what are we gonna do about these categories?
+[1076.9s - 1078.1s] What are we gonna do about that?
+[1078.1s - 1079.8s] Well, we're gonna specialize.
+[1079.8s - 1081.2s] All right, so this is what this looks like,
+[1081.2s - 1082.9s] is that the best salespeople
+[1082.9s - 1085.2s] get the best hours and leads.
+[1085.2s - 1088.8s] And so this is like crazy stats,
+[1088.8s - 1090.2s] but you can forex revenue
+[1090.2s - 1092.9s] by making sure that you contact leads within 60 seconds.
+[1092.9s - 1094.1s] Well, if you have a gazillion leads,
+[1094.1s - 1095.3s] it's very hard to do that.
+[1095.3s - 1097.5s] So if you've categorized your leads
+[1097.5s - 1098.6s] as these are the best leads,
+[1098.6s - 1099.8s] and then you put those best leads
+[1099.8s - 1101.4s] with the best closers exclusively,
+[1101.4s - 1103.4s] guess what those best closers now have time to do?
+[1103.4s - 1105.2s] Call the best leads and forex revenue
+[1105.2s - 1106.6s] because of their speed to contact
+[1106.6s - 1108.0s] compared to them trying to call everybody,
+[1108.0s - 1109.0s] which they couldn't do.
+[1109.0s - 1111.1s] But before this, they might've been doing.
+[1111.1s - 1112.8s] The same lead, to the same degree,
+[1112.8s - 1116.2s] there was a guy who lived in our building,
+[1116.2s - 1118.5s] and he was the number one timeshare sales rep
+[1119.3s - 1121.5s] in the whole nation for the largest timeshare company
+[1121.5s - 1122.3s] in the U.S.
+[1122.3s - 1124.3s] At the time, they were doing $200 million a year.
+[1124.3s - 1126.8s] And he won the sales competition between 3,000 reps.
+[1126.8s - 1128.8s] All right, he told me it was 3,000, however many it was.
+[1128.8s - 1130.2s] And so he was number one.
+[1130.2s - 1132.0s] And so he got one hour with the CEO
+[1132.0s - 1135.4s] as his prize for winning the sales for that year.
+[1135.4s - 1136.6s] And when he went to the CEO,
+[1136.6s - 1139.4s] he said he went straight into the sale.
+[1139.4s - 1141.3s] He said, listen, right now,
+[1141.3s - 1143.9s] you're giving away amazing leads to guys who are brand new
+[1143.9s - 1145.2s] and they're just flopping on them.
+[1145.2s - 1146.4s] And then sometimes I get people
+[1146.4s - 1147.8s] who've got a 400 credit score
+[1147.8s - 1148.7s] and there's nothing I can do.
+[1148.7s - 1150.3s] I can't sell them anything, right?
+[1150.3s - 1152.4s] If you gave me all the guys who have the best credit scores
+[1152.4s - 1153.3s] and they're most qualified,
+[1153.3s - 1154.5s] I will make you so much more money.
+[1154.5s - 1156.7s] And so after an hour, the guy finally said,
+[1156.7s - 1159.5s] fine, I'll test it at just your location.
+[1159.5s - 1161.2s] He tested it at that location.
+[1161.2s - 1165.4s] And that guy five X'd the productivity
+[1165.4s - 1167.0s] of that one division.
+[1167.0s - 1168.6s] And then they rolled it out nationwide
+[1168.6s - 1170.3s] and they were able to five X the company.
+[1170.3s - 1172.4s] And they went from 200 or 250 million
+[1172.4s - 1175.8s] to 1.2 billion in sales over the next three years.
+[1175.8s - 1178.3s] Four X from speed, best leads to best closers.
+[1178.3s - 1180.8s] That can all only happen once you start assigning
+[1180.8s - 1183.5s] scores to leads, which we should already have had happen.
+[1183.5s - 1184.6s] Now, if you're like, well,
+[1184.6s - 1186.3s] if all the best leads are going to the best guys,
+[1186.3s - 1188.1s] what's left for the junior dudes?
+[1188.1s - 1189.4s] Well, I'll tell you this.
+[1189.4s - 1191.4s] There's this amazing thing called survivorship bias.
+[1191.4s - 1194.0s] It's the same reason that people play the lottery
+[1194.0s - 1195.7s] is that they think they're gonna be the winner.
+[1195.7s - 1198.8s] And so there's some of the most competitive
+[1198.8s - 1200.6s] sales roles in the world.
+[1200.6s - 1202.4s] I mean, if you look at MLMs, for example,
+[1202.4s - 1203.2s] it's the same idea.
+[1203.2s - 1204.0s] One guy makes a lot of money
+[1204.0s - 1205.1s] and then a whole bunch of people
+[1205.1s - 1206.4s] work basically for free
+[1206.4s - 1208.4s] with the hope that someday they'll be that person.
+[1208.4s - 1209.8s] And you're like, oh, I can't believe it.
+[1209.8s - 1210.6s] Well, guess what?
+[1210.6s - 1211.6s] The same thing works in insurance.
+[1211.6s - 1213.6s] Same thing works in private wealth management.
+[1213.6s - 1215.1s] They bring tons of people in
+[1215.1s - 1217.9s] and they will work for years
+[1217.9s - 1219.6s] because they know they've got a shot
+[1219.6s - 1221.5s] at becoming a guy who can make a million bucks a year
+[1221.5s - 1222.8s] or 500 grand a year.
+[1222.8s - 1224.4s] And so the rich do get richer.
+[1224.4s - 1225.5s] The best closers all of a sudden
+[1225.5s - 1227.1s] start making a ton of money.
+[1227.1s - 1230.4s] And that then attracts way more also studs
+[1230.4s - 1231.3s] to come in the bottom.
+[1231.3s - 1234.3s] And then they sharpen their teeth on these bad leads.
+[1234.3s - 1236.8s] And so it's actually the most efficient for the business
+[1236.8s - 1239.8s] because when you bring someone who's not experienced,
+[1239.8s - 1243.7s] they then flub on flubbable leads.
+[1243.7s - 1246.1s] And then the absolute pristine, amazing leads
+[1246.1s - 1248.5s] only go to the guys who are absolute murderers
+[1248.5s - 1250.2s] and have been doing this for such a long time
+[1250.2s - 1252.0s] that they know how to close this person in their sleep.
+[1252.0s - 1254.3s] And then if that person who's a junior guy
+[1254.3s - 1255.3s] and he sharpened his teeth
+[1255.3s - 1257.9s] and he was able to close the 500 credit scores,
+[1257.9s - 1259.9s] the Tom, Dick, and Harry's who walk in the door
+[1259.9s - 1260.8s] with the tire kickers,
+[1260.8s - 1262.3s] they learn how to close those people.
+[1262.3s - 1263.9s] Once they start getting better and better leads,
+[1263.9s - 1264.8s] they just get even better.
+[1264.8s - 1266.0s] The beautiful thing about this
+[1266.0s - 1267.6s] is that it's still the most efficient way
+[1267.6s - 1269.4s] for the business to allocate resources.
+[1269.4s - 1271.0s] And so that is the big shift
+[1271.0s - 1273.2s] that has to happen at that point
+[1273.2s - 1274.6s] in order to get to the next level.
+[1274.6s - 1275.4s] Because fundamentally,
+[1275.4s - 1277.5s] like basically the salespeople have to specialize.
+[1277.5s - 1280.2s] And I said this on front-end and ascensions.
+[1280.2s - 1283.4s] So you will probably have front-end salespeople,
+[1283.4s - 1285.5s] but you also now have backend products
+[1285.5s - 1286.6s] that have to happen.
+[1286.6s - 1288.3s] And so if that backend sale
+[1288.3s - 1289.8s] is worth even more than the front-end sale,
+[1289.8s - 1291.8s] then the even best guy goes there
+[1291.8s - 1295.0s] and then everything floods to that one or two guys.
+[1295.0s - 1296.3s] And so it's almost like this pyramid
+[1296.3s - 1298.1s] where you've got these massive amounts at the bottom,
+[1298.1s - 1300.3s] but the very top guys just make a killing.
+[1300.3s - 1302.5s] And you just apply this all the way through the business
+[1302.5s - 1304.8s] across every sale that has to occur.
+[1304.8s - 1306.4s] So from there, we went from closing efficiency
+[1306.4s - 1307.7s] on the premium product drops
+[1307.7s - 1309.4s] to routing the best leads to the best closers.
+[1309.4s - 1311.2s] Now this is across the entire business,
+[1311.2s - 1312.6s] front-end and backend,
+[1312.6s - 1315.6s] and all of this stuff should be automatically tracked
+[1315.6s - 1319.7s] and scored by the person, by the platform, by rep,
+[1319.7s - 1321.1s] so that you can actually know
+[1321.1s - 1323.4s] where we can put these leads to get the best return.
+[1323.4s - 1325.8s] And from there, we go to the servicing of customers.
+[1325.8s - 1328.3s] So customer service is how you get more customers
+[1328.3s - 1331.4s] to refer, to retain, review, and resell, okay?
+[1331.4s - 1332.6s] And so at this level,
+[1332.6s - 1335.4s] the issue is that multiple customer journeys conflict
+[1335.4s - 1337.4s] or poorly timed with one another, right?
+[1337.4s - 1338.2s] So you think about it,
+[1338.2s - 1339.6s] just like Alex was just talking about,
+[1339.6s - 1341.6s] we have multiple products at this point in time.
+[1341.6s - 1342.5s] And so what we're seeing
+[1342.5s - 1344.6s] is that they conflict with each other.
+[1344.6s - 1345.7s] And so to graduate,
+[1345.7s - 1348.1s] we wanna create proactive recommendations
+[1348.1s - 1350.1s] to cross-sell other stuff
+[1350.1s - 1352.3s] and create a blended customer journey.
+[1352.3s - 1353.5s] Okay, and so what that looks like
+[1353.5s - 1355.3s] is making sure that the products
+[1355.3s - 1356.7s] are not like butting heads with each other,
+[1356.7s - 1358.2s] but they're swimming in their own swimlings
+[1358.2s - 1359.3s] alongside of each other, okay?
+[1359.3s - 1360.5s] And so what does that mean
+[1360.5s - 1362.6s] when it comes to a blended customer journey?
+[1362.6s - 1363.5s] What this looks like
+[1363.5s - 1365.8s] is you wanna lay out every contingency.
+[1365.8s - 1368.1s] So what happens if person A,
+[1368.1s - 1370.4s] who buys product A, wants to buy product B?
+[1370.4s - 1371.8s] What if someone comes in on product B
+[1371.8s - 1373.4s] but wants to buy product A?
+[1373.4s - 1376.2s] What if A buys C and then buys B, right?
+[1376.2s - 1377.1s] Is that we wanna make sure
+[1377.1s - 1379.4s] that each of these journeys don't contradict one another
+[1379.4s - 1381.0s] or that there's not messaging,
+[1381.0s - 1381.9s] which often happens,
+[1381.9s - 1383.5s] that says, oh, this has to be done in this sequence,
+[1383.5s - 1385.7s] or these are the level.
+[1385.7s - 1387.1s] You wanna make sure that the messaging
+[1387.1s - 1388.9s] across any of these hypothetical journeys
+[1388.9s - 1390.9s] when you have more products in the product suite
+[1390.9s - 1392.3s] all makes sense.
+[1392.3s - 1394.0s] If you're laying out all these contingencies
+[1394.0s - 1395.8s] and you're making sure that they don't conflict,
+[1395.8s - 1397.0s] right, then that means that
+[1397.0s - 1398.8s] you're probably gonna have a different onboarding
+[1398.8s - 1399.9s] for each of these paths.
+[1399.9s - 1401.9s] You're probably gonna have different email sequencing
+[1401.9s - 1402.9s] for each of these paths.
+[1402.9s - 1404.6s] You're probably gonna have to segment
+[1404.6s - 1406.3s] your customer service teams
+[1406.3s - 1407.6s] to service each of these paths,
+[1407.6s - 1410.1s] and you're probably going to have to tag your customers
+[1410.1s - 1413.9s] so that your team knows what path each customer is in.
+[1413.9s - 1415.1s] Now, that brings us to one thing,
+[1415.1s - 1416.2s] which is we also wanna make sure
+[1416.2s - 1417.8s] that we're eliminating conflict
+[1417.8s - 1419.5s] and we're solving for the highest LTV.
+[1419.5s - 1420.8s] What you wanna look for
+[1420.8s - 1422.7s] once you've laid out every contingency
+[1422.7s - 1425.0s] that could exist in terms of your customer base
+[1425.0s - 1426.0s] is you wanna figure out,
+[1426.0s - 1428.5s] is there, you know, what are the bottom
+[1428.5s - 1430.3s] that are taking up the most time,
+[1430.3s - 1431.4s] they're taking up the most effort,
+[1431.4s - 1434.3s] and they create no ROI for the business or very low.
+[1434.3s - 1435.4s] And so you wanna figure out, like,
+[1435.4s - 1437.5s] which customer journeys that currently exist,
+[1438.2s - 1439.9s] within the mix of products that we have,
+[1439.9s - 1441.6s] actually are not the best for the business
+[1441.6s - 1443.7s] because they're not creating good customer experience,
+[1443.7s - 1445.2s] which means these people aren't referring,
+[1445.2s - 1447.0s] they're not reselling, they're not ascending,
+[1447.0s - 1449.3s] and they're taking a lot of resources from the team.
+[1449.3s - 1451.2s] And so once you've laid all these out,
+[1451.2s - 1453.4s] then you can go back to one of the levels
+[1453.4s - 1455.0s] we talked about with customer segmentation
+[1455.0s - 1456.9s] because you're segmenting your customers by now.
+[1456.9s - 1458.8s] And you wanna look at that segment and say,
+[1458.8s - 1461.2s] okay, if I eliminated that segment,
+[1461.2s - 1463.1s] look at the resources that would open up,
+[1463.1s - 1465.1s] could I put more effort into getting customers
+[1465.1s - 1467.0s] in these three pathways instead?
+[1467.1s - 1468.6s] And so you're really trying to figure out, again,
+[1468.6s - 1471.4s] if you notice the theme here, it's resource allocation.
+[1471.4s - 1473.2s] We're pruning to make sure that we're gonna solve
+[1473.2s - 1475.3s] for the highest LTV customers.
+[1475.3s - 1476.6s] And that's what we wanna continue to do
+[1476.6s - 1477.8s] over and over and over again.
+[1477.8s - 1479.1s] It just gets more complicated
+[1479.1s - 1480.8s] when you have multiple products
+[1480.8s - 1483.3s] with multiple entry points and upsell points.
+[1483.3s - 1484.5s] What you wanna be able to do
+[1484.5s - 1486.4s] after you've figured all of this out
+[1486.4s - 1489.1s] is you wanna be able to automate as much as possible.
+[1489.1s - 1491.2s] The issue here is that if you do not have
+[1491.2s - 1493.0s] the technology and you don't have the automation
+[1493.0s - 1495.5s] to properly tag and segment your customers,
+[1495.5s - 1497.2s] then people are gonna be getting on the phone
+[1497.2s - 1498.3s] and they're gonna be like,
+[1498.3s - 1499.7s] yeah, you know, you gotta get on your onboard.
+[1499.7s - 1502.0s] They're like, I already onboarded with the other product.
+[1502.0s - 1503.4s] What are you talking about?
+[1503.4s - 1504.5s] And you're like, oh shit.
+[1504.5s - 1505.4s] And then you're like, wait,
+[1505.4s - 1507.1s] he just had an onboarding call last week.
+[1507.1s - 1508.2s] What are we doing with him now?
+[1508.2s - 1509.5s] And it's like, you just noticed
+[1509.5s - 1511.9s] that it starts to get very disconjointed.
+[1511.9s - 1513.6s] And so by eliminating the ones
+[1513.6s - 1516.8s] that create the lowest ROI or have the lowest LTV,
+[1516.8s - 1518.4s] you make room for the ones that have the highest
+[1518.4s - 1520.0s] and it also simplifies the business
+[1520.0s - 1522.4s] so you don't have 17 customer journeys
+[1522.4s - 1523.9s] and they're all hitting each other in the face.
+[1523.9s - 1524.9s] You've got like three
+[1524.9s - 1528.1s] and they're all swimming nicely alongside each other.
+[1528.1s - 1529.4s] And so for example, at GymLaunch,
+[1529.4s - 1531.3s] we had our sister company Prestige Labs.
+[1531.3s - 1533.4s] And so we tested a while, we were like,
+[1533.4s - 1536.4s] okay, can we get people to buy Prestige Labs as a gym
+[1536.4s - 1539.5s] and then upsell them GymLaunch.
+[1539.5s - 1541.6s] And we tried that for a while and then we tried,
+[1541.6s - 1542.8s] okay, can GymLaunch customers,
+[1542.8s - 1544.1s] can we get people to buy GymLaunch
+[1544.1s - 1545.8s] and then upsell them Prestige Labs.
+[1545.8s - 1547.3s] And it turned out when we actually tested
+[1547.3s - 1549.4s] these side by side, the LTV of this pathway
+[1549.4s - 1552.0s] was significantly higher than the LTV of this pathway.
+[1552.0s - 1553.6s] And the cost of our customers here
+[1553.6s - 1555.4s] was the same as it was to acquire here.
+[1555.4s - 1557.9s] So we're like, okay, so this is a more optimal path
+[1557.9s - 1559.2s] for people to go in.
+[1559.2s - 1560.0s] We also then we're like,
+[1560.0s - 1561.6s] can we get people to buy A and B together?
+[1561.6s - 1562.8s] That didn't work either.
+[1562.8s - 1564.5s] And so as you have these different product suites,
+[1564.5s - 1566.5s] you'll find out that there will be times
+[1566.5s - 1567.5s] that are the best moment
+[1567.5s - 1569.9s] to upsell these other things or cross sell them.
+[1569.9s - 1571.4s] That's right for that specific customer
+[1571.4s - 1572.6s] that does eliminate conflict,
+[1572.6s - 1574.3s] that makes the most natural sense.
+[1574.3s - 1575.9s] And that's, I mean, fundamentally,
+[1575.9s - 1577.7s] this is why GymLaunch has continued to be
+[1577.7s - 1578.7s] a powerhouse in that industry
+[1578.7s - 1581.1s] and there's really no one else who's at that scale
+[1581.1s - 1583.3s] is because we just simply have a higher LTV
+[1583.9s - 1584.7s] than everyone else does.
+[1584.7s - 1586.4s] And so we're able to continue to outlast everyone.
+[1586.4s - 1588.0s] Another example that's really common
+[1588.0s - 1589.5s] is that what you start to experiment with
+[1589.5s - 1591.2s] is when you have two products,
+[1591.2s - 1594.0s] you say, why don't we make everyone buy the first product
+[1594.0s - 1595.5s] to get to the second product, right?
+[1595.5s - 1597.7s] Why do they have to qualify by buying the first?
+[1597.7s - 1599.6s] And that's actually something that we've tested
+[1599.6s - 1601.1s] in not just our own companies,
+[1601.1s - 1603.0s] but in multiple portfolio companies.
+[1603.0s - 1605.0s] And we actually found that those customers
+[1605.0s - 1607.6s] who came in to only buy the higher level product
+[1607.6s - 1609.7s] and didn't go through the lower level product,
+[1609.7s - 1613.3s] oftentimes created the highest churn
+[1613.3s - 1614.6s] and they had the lowest LTV.
+[1614.6s - 1616.4s] And the reason for that was because
+[1616.4s - 1618.6s] a lot of companies at this point,
+[1618.6s - 1621.4s] you're optimizing what currently exists,
+[1621.4s - 1624.0s] but to create an entirely new
+[1624.0s - 1625.6s] onboarding customer journey, et cetera,
+[1625.6s - 1627.9s] for a product and actually a new way
+[1627.9s - 1629.0s] of acquiring customers,
+[1629.0s - 1630.0s] because essentially what you have to do,
+[1630.0s - 1632.4s] you have to have a new front end as well
+[1632.4s - 1634.4s] to set expectations properly.
+[1634.4s - 1636.9s] It just isn't something that you can do
+[1636.9s - 1638.0s] like in the snap of your fingers.
+[1638.0s - 1639.3s] It might take 12 months to build that out.
+[1639.3s - 1641.1s] So what we found in Gym Launch is that,
+[1641.1s - 1643.4s] when people came in through our front end program
+[1643.4s - 1645.0s] and they ascended into the backend program,
+[1645.0s - 1646.2s] they had the highest LTV.
+[1646.2s - 1647.8s] When we brought them in and said,
+[1647.8s - 1649.7s] they really just wanna go to the backend program,
+[1649.7s - 1651.5s] those people actually ended up churning pretty early,
+[1651.5s - 1652.8s] like in the first quarter.
+[1652.8s - 1653.7s] And so we said, you know what?
+[1653.7s - 1655.1s] This doesn't create the best experience.
+[1655.1s - 1656.8s] So maybe we suck and we don't have the skills yet,
+[1656.8s - 1658.7s] but we also recognize that the marketing
+[1658.7s - 1660.1s] that brought those people in
+[1660.1s - 1662.2s] set them up to succeed in the first program,
+[1662.2s - 1663.2s] not the backend.
+[1663.2s - 1664.2s] And so that's something, again,
+[1664.2s - 1665.1s] if you are looking like,
+[1665.1s - 1667.0s] hey, I wanna get people just straight into the backend,
+[1667.0s - 1667.9s] that's not impossible,
+[1667.9s - 1669.7s] but it requires a completely new customer journey
+[1669.7s - 1671.9s] where you're probably gonna also have to alter the marketing
+[1671.9s - 1673.5s] because the marketing sets the expectations.
+[1673.5s - 1675.8s] We tried to flip this front back thing
+[1675.8s - 1677.3s] and that never worked for us.
+[1677.3s - 1679.2s] But when we created an entirely new product line
+[1679.2s - 1680.7s] for a higher level customer,
+[1680.7s - 1682.4s] we had a different acquisition channel for them,
+[1682.4s - 1684.7s] a different sales process, a different sales team,
+[1684.7s - 1686.1s] a different onboarding process.
+[1686.1s - 1688.9s] And once we accomplished that, then it worked.
+[1688.9s - 1690.9s] And so just putting this into context,
+[1690.9s - 1692.7s] it's like, okay, we wanna make sure,
+[1692.7s - 1694.5s] fundamentally we're just solving for the highest LTV
+[1694.5s - 1695.8s] and the lowest operational complexity.
+[1695.8s - 1698.1s] It's just that things just grow arms and legs
+[1698.1s - 1699.5s] and extra eyeballs.
+[1699.5s - 1701.6s] And so we wanna keep running it down.
+[1701.6s - 1703.1s] So for customer service,
+[1703.1s - 1705.9s] we had multiple customer journeys with conflict, right?
+[1705.9s - 1706.8s] Or poorly timed.
+[1706.8s - 1708.7s] And so we wanna create proactive recommendations
+[1708.7s - 1709.9s] to cross all upsell,
+[1709.9s - 1711.2s] having a blended customer journey
+[1711.2s - 1712.1s] and getting rid of the ones
+[1712.1s - 1713.3s] that don't make sense anymore.
+[1713.3s - 1714.7s] So at this level of scale,
+[1714.7s - 1716.1s] you should have already categorized
+[1716.1s - 1717.3s] everything that's kind of coming in.
+[1717.3s - 1718.7s] But as soon as you do categorize,
+[1718.7s - 1720.7s] you're like, shoot, I need to specialize my team
+[1720.7s - 1722.3s] so that I have a stack of people
+[1722.3s - 1723.7s] who can respond to this type of customer.
+[1723.7s - 1725.0s] And I can have a stack of salesmen
+[1725.0s - 1726.8s] who can respond to this type of prospect.
+[1726.8s - 1728.9s] And I can have a stack of developers
+[1728.9s - 1730.5s] or a stack of delivery people
+[1730.5s - 1732.9s] who can help service this level of product.
+[1732.9s - 1734.1s] And so the thing is,
+[1734.1s - 1736.5s] is that everything's about going hyper deep
+[1736.5s - 1737.9s] and specialized at the scale.
+[1737.9s - 1741.4s] And it can be harder to recruit and find those people.
+[1741.4s - 1743.0s] And at acquisition.com,
+[1743.0s - 1744.7s] one of the core competencies we have
+[1744.7s - 1745.9s] is finding the who.
+[1745.9s - 1748.5s] Because fundamentally the who is what builds the business.
+[1748.5s - 1749.5s] One of the things that we do,
+[1749.5s - 1751.6s] if this is you watching this for the first time
+[1751.6s - 1753.5s] and you don't have your own custom scaling roadmap,
+[1753.5s - 1754.8s] then I would encourage you to go below,
+[1755.6s - 1756.4s] click the button, it's absolutely free.
+[1756.4s - 1758.4s] And we'll help you make an automated roadmap
+[1758.4s - 1760.0s] based on where you're at and where you want to go.
+[1760.0s - 1761.8s] So we'll show you the stage before, the stage after,
+[1761.8s - 1764.2s] and then give you a lot of more in-depth details
+[1764.2s - 1766.8s] about what you can do to get to the next level.
+[1766.8s - 1769.3s] If you already have that scaling roadmap
+[1769.3s - 1772.2s] and you'd like my team, my actual portfolio team,
+[1772.2s - 1774.4s] to meet with you in person,
+[1774.4s - 1775.9s] then we'd love to invite you out
+[1775.9s - 1778.1s] to one of our scaling workshops here in Vegas
+[1778.1s - 1779.4s] where we're based.
+[1779.4s - 1780.9s] And at that workshop,
+[1780.9s - 1782.7s] we'll help take your scaling roadmap
+[1782.8s - 1785.6s] and specifically tailor it to your business
+[1785.6s - 1787.1s] and your industry right now.
+[1787.1s - 1789.0s] So you know exactly what's prioritized
+[1789.0s - 1790.2s] so you can get the highest return
+[1790.2s - 1792.8s] and pull your future towards you faster.
+[1792.8s - 1794.2s] And so if that's at all interesting,
+[1794.2s - 1796.1s] you can click, I think the banner above this video
+[1796.1s - 1797.0s] or somewhere along here.
+[1797.0s - 1799.9s] I'm sure if you're at this level, you can figure it out.
+[1799.9s - 1802.0s] But you can apply and we'd love to have you out here
+[1802.0s - 1802.8s] and help you scale.
+[1802.8s - 1803.6s] Because transparently,
+[1803.6s - 1805.5s] this is how we find future portfolio companies.
+[1805.5s - 1806.5s] And at the end of the day,
+[1806.5s - 1807.6s] us helping other business owners
+[1807.6s - 1808.8s] is kind of why we do what we do.
+[1808.8s - 1809.8s] So that sounds cool.
+[1809.8s - 1811.8s] Click the button and otherwise enjoy the video.
+[1811.8s - 1813.4s] Which brings us to IT.
+[1813.4s - 1815.3s] So IT is how you gather, store, analyze,
+[1815.3s - 1817.2s] and display information, okay?
+[1817.2s - 1818.0s] And so at this level,
+[1818.0s - 1820.0s] the constraint is that departments outgrow
+[1820.0s - 1822.9s] general software, it needs specific solutions.
+[1822.9s - 1824.5s] This is something that you may notice
+[1824.5s - 1825.8s] along the theme here.
+[1825.8s - 1828.7s] Too many internal inquiries and no inquiry process,
+[1828.7s - 1830.1s] so we need departmental policies.
+[1830.1s - 1831.5s] These are all the things that happen.
+[1831.5s - 1833.1s] Okay, and so to graduate,
+[1833.1s - 1835.5s] you wanna get specialized stacks for each department.
+[1835.5s - 1838.0s] So what happens is you'll notice that in the beginning,
+[1838.0s - 1839.3s] you get general tools
+[1839.3s - 1840.9s] that can be used across all departments.
+[1841.0s - 1842.1s] Because in the beginning,
+[1842.1s - 1844.7s] it's not like we should have a specific platform for sales
+[1844.7s - 1846.7s] and for CS, because there's like two people there.
+[1846.7s - 1847.7s] So it's like, no,
+[1847.7s - 1849.7s] you will deal with the one that works for everybody,
+[1849.7s - 1850.6s] right?
+[1850.6s - 1851.4s] But then once you get big enough,
+[1851.4s - 1852.9s] you start to notice, you know what?
+[1852.9s - 1855.3s] This communication tool or this email platform
+[1855.3s - 1857.8s] actually doesn't really work well for this team.
+[1857.8s - 1859.8s] And so you have to get specialized stacks
+[1859.8s - 1861.2s] for each department.
+[1861.2s - 1862.7s] That's the first thing that we wanna focus on.
+[1862.7s - 1863.9s] The second thing is that we're gonna need
+[1863.9s - 1865.5s] an internal inquiry process.
+[1865.5s - 1868.4s] So at this point, IT becomes a really big demand
+[1868.4s - 1869.7s] because if you think about it, right,
+[1869.7s - 1870.9s] it's starting to look like this.
+[1871.9s - 1872.7s] Which is, you have your departments.
+[1872.7s - 1875.6s] You've got product, marketing, sales, CS, IT, recruiting.
+[1875.6s - 1877.3s] Because IT needs IT.
+[1877.3s - 1878.9s] Human resources and finance.
+[1878.9s - 1881.1s] Each of them now have their own technology.
+[1881.1s - 1882.6s] And then each of them now are gonna need
+[1882.6s - 1886.5s] to also have a way to send tickets to the IT team
+[1886.5s - 1888.6s] and have essentially service level agreements
+[1888.6s - 1891.4s] with the IT team about how long things are gonna take,
+[1891.4s - 1893.1s] what we should expect for turnaround times.
+[1893.1s - 1894.1s] And so basically at this point,
+[1894.1s - 1896.8s] what we're doing is we have to take IT
+[1896.8s - 1900.0s] from being just centralized to decentralizing IT.
+[1900.0s - 1901.7s] This is the process that occurs right now.
+[1901.7s - 1902.5s] And so what does that mean?
+[1902.5s - 1904.5s] It means that IT was its own department
+[1904.5s - 1906.8s] that was servicing all these other departments
+[1906.8s - 1907.9s] and it was spread out equally.
+[1907.9s - 1911.9s] Now IT has to almost become decentralized
+[1911.9s - 1913.0s] that you have an IT department
+[1913.0s - 1916.3s] and you have many IT departments in each of the departments
+[1916.3s - 1918.0s] because it doesn't make sense
+[1918.0s - 1919.6s] if sales has their own product.
+[1919.6s - 1921.3s] If sales has their own platform
+[1921.3s - 1922.5s] and they have five platforms
+[1922.5s - 1924.1s] that make the entire thing work
+[1924.1s - 1926.6s] that they have to wait a week on the IT team
+[1926.6s - 1929.0s] because the IT team is working on the recruiting team.
+[1929.0s - 1930.9s] All of these things are going to be needed
+[1930.9s - 1933.0s] to make each function work properly.
+[1933.0s - 1934.6s] And so what you're gonna wanna look at
+[1934.6s - 1938.4s] is having staff to help service each department
+[1938.4s - 1940.0s] to their specific needs, right?
+[1940.0s - 1941.6s] So you have specific technology
+[1941.6s - 1942.9s] and you have specific staff.
+[1942.9s - 1944.3s] So this might look like in the beginning,
+[1944.3s - 1946.1s] like you have an IT director
+[1946.1s - 1947.7s] and then you've got a generalist or two.
+[1947.7s - 1949.4s] Now it's like you're gonna get a MarTech guy
+[1949.4s - 1950.3s] who's gonna do marketing.
+[1950.3s - 1951.7s] You're gonna get a sales ops guy
+[1951.7s - 1952.8s] who's gonna do sales ops.
+[1952.8s - 1954.6s] You're gonna get a CS ops.
+[1954.6s - 1956.3s] You're gonna get a rev ops.
+[1956.3s - 1958.2s] And so you start notice financial ops.
+[1958.2s - 1959.0s] You're starting to notice
+[1959.0s - 1960.5s] that you're getting all these people
+[1960.5s - 1963.5s] that are gonna specialize in that one function, right?
+[1963.5s - 1964.6s] And then with that,
+[1964.6s - 1966.6s] those people are gonna create ticketing systems
+[1966.6s - 1967.9s] for each of those functions.
+[1967.9s - 1969.3s] So what you had prior
+[1969.3s - 1972.3s] is probably one centralized ticketing system for IT.
+[1972.3s - 1973.1s] And now it's like,
+[1973.1s - 1975.5s] you're gonna have to create an IT ticketing system
+[1975.5s - 1977.9s] for each specific person that owns the function.
+[1977.9s - 1979.1s] The reason that we wanna do this
+[1979.1s - 1980.6s] is because at this point,
+[1980.6s - 1983.0s] IT is essentially part of the product
+[1983.0s - 1985.0s] and the product being the department.
+[1985.0s - 1987.2s] And so in order for it to improve properly,
+[1987.2s - 1989.5s] they need to almost create a product like pipeline,
+[1989.5s - 1991.1s] just like you would for software.
+[1991.1s - 1992.9s] And so at this point,
+[1992.9s - 1995.3s] this is where a lot of things break
+[1995.3s - 1997.7s] because people start to hate the fact.
+[1997.7s - 1999.4s] It's like first people hate the fact
+[1999.4s - 2000.9s] that they rely on the IT department
+[2000.9s - 2001.7s] because they're like,
+[2001.7s - 2002.6s] oh my gosh, you guys are so slow.
+[2002.6s - 2003.8s] And then now they hate the fact
+[2003.8s - 2005.4s] that they have to send inquiries to people
+[2005.4s - 2006.7s] and they have SLAs they're creating.
+[2006.7s - 2008.8s] They're like, what is all this communication?
+[2008.8s - 2010.3s] Can you just make this shit I want
+[2010.3s - 2011.4s] and do what I tell you to do?
+[2011.4s - 2012.2s] But at this point,
+[2012.2s - 2013.1s] what we have to realize is that
+[2013.1s - 2015.0s] we need to have technology to enable us
+[2015.0s - 2016.9s] to create the processes the right way.
+[2017.5s - 2019.1s] Each department really starts
+[2019.1s - 2020.9s] to become its own piece of tech.
+[2020.9s - 2022.9s] And sometimes you may end up finding yourself
+[2022.9s - 2025.3s] with some custom developers that you bring in house
+[2025.3s - 2026.9s] or that you contract in order to build
+[2026.9s - 2029.7s] specialized tools or patches or integrations.
+[2029.7s - 2032.1s] And this is a big cautionary tale for you.
+[2032.1s - 2033.5s] You may end up building something
+[2033.5s - 2035.0s] and it works really well for you.
+[2035.0s - 2036.1s] And the amount of times
+[2036.1s - 2038.0s] that I actually have companies of this size
+[2038.0s - 2040.3s] that then reach out to us like at acquisition.com
+[2040.3s - 2041.4s] and they're like, hey,
+[2041.4s - 2043.7s] we built this tool that makes our sales guys
+[2043.8s - 2047.1s] way more proficient in our specific industry.
+[2047.1s - 2048.7s] And I've got friends in this industry
+[2048.7s - 2050.3s] who want to pay me for that tool.
+[2050.3s - 2052.5s] Should I spin this off as a SaaS company?
+[2052.5s - 2054.6s] And then, or could I get valued as a SaaS company
+[2054.6s - 2057.5s] because I have this and I just like, stop.
+[2057.5s - 2059.3s] You built these things for yourself.
+[2059.3s - 2060.7s] You didn't like, well, what about Slack?
+[2060.7s - 2062.3s] Slack didn't have revenue.
+[2062.3s - 2064.9s] Slack was losing money and threw a hail Mary.
+[2064.9s - 2065.7s] Is that or nothing?
+[2065.7s - 2068.0s] Yeah, and so they were from day one
+[2068.0s - 2069.2s] a software company, right?
+[2069.2s - 2070.8s] Now the type of software changed,
+[2070.8s - 2072.9s] but that's what they were built for, right?
+[2073.7s - 2075.3s] If you're a solar sales business
+[2075.3s - 2077.0s] and you figure out a way to get your reps
+[2077.0s - 2079.0s] to be significantly more productive,
+[2079.0s - 2080.9s] great, that's called a competitive mode.
+[2080.9s - 2081.9s] And that's what you do
+[2081.9s - 2083.7s] to continue to crush your competition.
+[2083.7s - 2085.7s] So no, and the thing is like,
+[2085.7s - 2087.4s] in order for, like the person who's gonna write you
+[2087.4s - 2089.9s] a 500 million dollar check or a billion dollar check
+[2089.9s - 2091.3s] or whatever it is that your goal is,
+[2091.3s - 2092.5s] that guy's not dumb.
+[2092.5s - 2094.5s] He's got the money to write the check, all right?
+[2094.5s - 2096.1s] He knows that your solar sales company
+[2096.1s - 2097.9s] is in a SaaS platform, all right?
+[2097.9s - 2099.8s] So just don't try and be like, will I get,
+[2099.8s - 2101.7s] you're not, you're not gonna get categorized that way.
+[2101.7s - 2104.6s] That's just called internal, those are just internal tools.
+[2104.6s - 2106.7s] And longterm, what you may end up doing
+[2106.7s - 2107.6s] if you're in a service business,
+[2107.6s - 2109.3s] unlike that solar sales example,
+[2109.3s - 2110.9s] then that just becomes a tech enabled service.
+[2110.9s - 2112.5s] If you figure out a way that you can deliver
+[2112.5s - 2114.4s] to customers faster and you've automated
+[2114.4s - 2115.5s] a huge portion of the work
+[2115.5s - 2116.9s] and that just drives more margin,
+[2116.9s - 2118.8s] well, are you gonna kill that company
+[2118.8s - 2119.9s] and then start a software company
+[2119.9s - 2120.8s] for other people in that space,
+[2120.8s - 2122.2s] even though your niche is really small?
+[2122.2s - 2123.1s] Probably not.
+[2123.1s - 2124.9s] Just run on the fact that you have an advantage.
+[2124.9s - 2125.8s] That's the point.
+[2125.8s - 2128.6s] And so the last piece of that is understanding
+[2128.6s - 2131.4s] having service level agreements with the tech teams,
+[2132.3s - 2133.4s] this is really at the point
+[2133.4s - 2135.1s] where you're starting to measure utilization
+[2135.1s - 2137.3s] and you want to understand standards
+[2137.3s - 2139.4s] for how long tasks that you repeat
+[2139.4s - 2140.7s] over and over again take.
+[2140.7s - 2141.9s] So what that might look like
+[2141.9s - 2145.1s] is how long does it take to fix a broken,
+[2145.1s - 2146.4s] fix a server when it's down?
+[2146.4s - 2149.9s] How long does it take to onboard a new rep
+[2149.9s - 2152.1s] for the sales department onto this specific tool?
+[2152.1s - 2154.5s] How long does it take to build a funnel for marketing?
+[2154.5s - 2156.0s] Those are all things that in order for you
+[2156.0s - 2158.3s] to know how big your team needs to get
+[2158.3s - 2159.6s] and how efficient they can be,
+[2159.6s - 2161.2s] you wanna have SLAs so that you know
+[2161.2s - 2163.6s] how long things take, what kind of the workload is,
+[2163.6s - 2165.0s] and if you need to hire more people.
+[2165.0s - 2166.5s] That is IT, right?
+[2166.5s - 2169.2s] So we start the department's outgrow general software,
+[2169.2s - 2171.0s] they need specific solutions,
+[2171.0s - 2172.7s] and then we have no inquiry process
+[2172.7s - 2175.1s] and so we need to create one with SLAs
+[2175.1s - 2177.6s] and get specialized stacks for each department,
+[2177.6s - 2179.5s] which brings us to recruiting.
+[2179.5s - 2181.2s] All right, recruiting is how you find
+[2181.2s - 2182.7s] and hire people for your company.
+[2182.7s - 2184.2s] So the constraint at this level
+[2184.2s - 2186.6s] is that recruiters hold inconsistent standards
+[2186.6s - 2188.4s] and your culture suffers, okay?
+[2188.4s - 2190.2s] The wrong candidates are getting way too far
+[2190.2s - 2191.0s] in the process.
+[2191.8s - 2192.6s] And so to graduate, what we wanna do
+[2192.6s - 2195.0s] is have standardized selection process
+[2195.0s - 2196.7s] for all incoming talent
+[2196.7s - 2199.7s] and we wanna have a founder fit final check, okay?
+[2199.7s - 2202.9s] This is something that like I can't hammer in this enough
+[2202.9s - 2205.3s] the amount of times the founder gets uninvolved
+[2205.3s - 2207.2s] with recruiting too soon.
+[2207.2s - 2209.4s] And if you look at some of the best companies
+[2209.4s - 2211.2s] that are out there that were built,
+[2211.2s - 2213.3s] the founder did the final check.
+[2213.3s - 2215.3s] Even if it's 15 minutes, you know,
+[2215.3s - 2216.9s] it's like they're still doing the final check
+[2216.9s - 2217.7s] for people on the team,
+[2217.7s - 2220.1s] especially anyone in a management position.
+[2220.1s - 2221.1s] What does this look like
+[2221.1s - 2223.8s] when we have standardized selection, okay?
+[2223.8s - 2226.0s] The first is having structured interviews.
+[2226.0s - 2227.9s] So we wanna use the same questions
+[2227.9s - 2230.6s] for all of the candidates for a specific role
+[2230.6s - 2232.6s] so we can assess the key competencies.
+[2232.6s - 2234.7s] So you know, we talked about the four-way fit.
+[2234.7s - 2237.6s] For each of those pieces of the four-way fit,
+[2237.6s - 2240.4s] we wanna understand is every person asking
+[2240.4s - 2243.1s] the same five to 10 questions?
+[2243.1s - 2244.9s] Because if not every person is asking
+[2244.9s - 2246.1s] the same five to 10 questions
+[2246.1s - 2248.0s] to every person that they're interviewing,
+[2248.0s - 2250.5s] they're going to be biased based on different answers
+[2250.5s - 2251.7s] to different questions.
+[2251.7s - 2253.7s] And so we need to have process
+[2253.7s - 2256.3s] that protects us from our emotions, okay?
+[2256.3s - 2259.5s] And so the first thing is having standard questions
+[2259.5s - 2262.9s] for each type of interview for each role that exists.
+[2262.9s - 2265.4s] So that's the first thing we wanna do.
+[2265.4s - 2267.0s] The second thing we wanna do
+[2267.0s - 2269.1s] to mitigate risk and uphold standards
+[2269.1s - 2270.9s] is have interview panels, okay?
+[2270.9s - 2273.6s] So we wanna have multiple interviewers with assigned roles.
+[2273.6s - 2275.1s] So what does this look like, okay?
+[2275.1s - 2277.4s] This would look like you have two or three people
+[2277.4s - 2279.9s] that conduct a culture interview together.
+[2279.9s - 2281.4s] This would look like you have two people
+[2281.4s - 2284.0s] that conduct a technical interview together.
+[2284.0s - 2286.9s] The reason for this is that we want to eliminate
+[2286.9s - 2288.8s] so much individual bias.
+[2288.8s - 2291.5s] A lot of people like to hire people like themselves.
+[2291.5s - 2293.8s] What you wanna do is stack up your interviews
+[2293.8s - 2295.5s] with panelists who have incentive
+[2295.5s - 2297.6s] to hire people who are competent, right?
+[2297.6s - 2299.9s] And so if you have somebody that you're hiring
+[2299.9s - 2302.0s] into a sales manager role,
+[2302.0s - 2303.8s] you wanna bring in the CS manager,
+[2303.8s - 2305.5s] you wanna bring in the IT manager
+[2305.5s - 2307.3s] because those people also want somebody
+[2308.1s - 2309.3s] who's very proficient at their role in there,
+[2309.3s - 2311.0s] but they might not be as desperate
+[2311.0s - 2313.3s] as the director of sales to fill the role
+[2313.3s - 2315.8s] so they will protect you from lowering your standards.
+[2315.8s - 2317.6s] At this point where you're at with your company
+[2317.6s - 2320.4s] is that people are desperate to fill roles
+[2320.4s - 2321.9s] because they're like, the recruiter's like,
+[2321.9s - 2323.4s] I just wanna show some wins.
+[2323.4s - 2325.4s] And the people are like, I just need some fricking help.
+[2325.4s - 2327.5s] And so you need people that have no incentive
+[2327.5s - 2330.3s] to fill the role that quickly on the interview panel
+[2330.3s - 2332.3s] so that they are holding the standards
+[2332.3s - 2334.3s] for the entire company, right?
+[2334.3s - 2335.6s] That's the first thing we wanna do.
+[2335.6s - 2338.8s] The next thing we wanna do is we wanna have the founder
+[2338.8s - 2341.4s] do at least a 20 minute final interview
+[2341.4s - 2343.0s] to ensure that nothing's missed.
+[2343.0s - 2344.9s] At this point in time, what seems to happen
+[2344.9s - 2346.8s] is that when standards are wavering,
+[2346.8s - 2347.6s] what you wanna do,
+[2347.6s - 2349.1s] like the reason that you wanna get back in there
+[2349.1s - 2350.1s] is because you wanna figure out
+[2350.1s - 2351.8s] where the heck are we dropping the ball?
+[2351.8s - 2352.7s] Is it culture?
+[2352.7s - 2353.6s] Is it skill?
+[2353.6s - 2354.9s] Are we not asking the same questions?
+[2354.9s - 2356.7s] Is there anything that's not in there
+[2356.7s - 2359.0s] that's not standardized that we're missing?
+[2359.0s - 2360.1s] Are the recruiters missing?
+[2360.1s - 2361.7s] Are the specialized recruiters like,
+[2361.7s - 2363.8s] are they not as engaged as they were in the beginning
+[2363.8s - 2364.9s] because they were trying to win our business?
+[2364.9s - 2366.4s] Like what's going on?
+[2366.4s - 2368.0s] And the way that you get that feedback
+[2368.0s - 2369.9s] is by taking the final interviews.
+[2369.9s - 2371.4s] And so I'm not saying that you need to do
+[2371.4s - 2373.6s] a two hour interview for every role,
+[2373.6s - 2376.2s] but taking 20 minutes, having one day a week
+[2376.2s - 2379.1s] where you just stack five or six back to back
+[2379.1s - 2380.7s] in the morning, that's usually what I do.
+[2380.7s - 2382.9s] And it's like, great, let me just do a final check
+[2382.9s - 2385.0s] because the most important thing at this point
+[2385.0s - 2387.1s] is that you hire and fire the right people.
+[2387.1s - 2389.8s] And right now, if you think about resource allocation,
+[2389.8s - 2391.9s] if your job is to allocate resources,
+[2391.9s - 2394.6s] then bringing in people who either take
+[2394.6s - 2396.8s] or give more resource to the company
+[2396.8s - 2398.6s] is probably one of the most beneficial things
+[2398.6s - 2399.6s] that you can do.
+[2399.6s - 2401.9s] And so until the structured interviews are in place
+[2401.9s - 2403.8s] and they're hemming and they're humming
+[2403.8s - 2406.3s] and until the interview panels are working really well,
+[2406.3s - 2408.3s] make sure that you are also doing a founder fit check.
+[2408.3s - 2409.8s] Now the last piece that goes with this
+[2409.8s - 2411.6s] and arguably my favorite thing
+[2411.6s - 2414.2s] is having a scoring system for candidates.
+[2414.2s - 2415.3s] Okay, so what does this mean?
+[2415.3s - 2416.6s] It means that we need to move
+[2416.6s - 2418.3s] from subjectively hiring people
+[2418.3s - 2420.2s] to objectively hiring people.
+[2420.2s - 2422.2s] So this looks like creating an interview rubric
+[2422.2s - 2424.6s] to score responses with a consistent scale.
+[2424.6s - 2426.5s] The easiest way that you can do this, guys,
+[2426.5s - 2428.3s] is like, there's so many fancy ways that we can do this.
+[2428.3s - 2430.0s] I also fucking hate the fancy ways
+[2430.0s - 2430.8s] because it's like, all right,
+[2430.8s - 2432.8s] so we have like a 30 point quiz that we've got.
+[2432.8s - 2434.3s] And then people just, honestly,
+[2434.3s - 2435.6s] they don't wanna fill it out correctly,
+[2435.6s - 2436.8s] so they just like don't think about it
+[2436.8s - 2437.6s] and they don't do it.
+[2437.6s - 2439.9s] We need something simple that people on your team
+[2439.9s - 2441.6s] will actually take the time to fill out.
+[2441.6s - 2443.1s] And so my favorite thing to do
+[2443.1s - 2446.6s] is to have five scores for skill
+[2446.6s - 2448.5s] and five scores for culture fit.
+[2448.5s - 2449.4s] That's it.
+[2449.4s - 2450.7s] It doesn't even need to be five for culture fit.
+[2450.7s - 2452.6s] However many values you have,
+[2452.6s - 2454.4s] that's however many you're gonna score on culture fit.
+[2454.4s - 2455.2s] And all it is,
+[2455.2s - 2458.1s] is that you take the five top skills the role needs
+[2458.1s - 2459.4s] and then your core values
+[2459.4s - 2462.8s] and you have the person score on a scale of one to five,
+[2462.8s - 2465.0s] how do they rate on this skill on a scale of one to five,
+[2465.0s - 2467.3s] how do they rate on this value, et cetera.
+[2467.3s - 2468.5s] And so then what you can do
+[2468.5s - 2471.9s] is you can have each candidate that's in the final round,
+[2471.9s - 2473.6s] you can look at their scores.
+[2473.6s - 2475.7s] And I do this all the time, even with myself,
+[2475.7s - 2476.6s] and I will tell you,
+[2476.6s - 2478.6s] there's so many times that I am like,
+[2478.6s - 2480.1s] I really like this candidate.
+[2480.1s - 2481.8s] And then I'm like, I put their scores down,
+[2481.8s - 2484.6s] I'm like, shit, this person's higher.
+[2484.6s - 2486.9s] Because a lot of the times that you'll see at this point,
+[2486.9s - 2487.7s] your team might not know this,
+[2487.7s - 2491.4s] so that likeness blinds us from someone's actual skill
+[2491.4s - 2493.4s] and what they're actually gonna bring to the table.
+[2493.4s - 2495.3s] Because some people are just really likable.
+[2495.3s - 2496.3s] They're really charismatic
+[2496.3s - 2497.5s] and they're really good at interviewing
+[2497.5s - 2498.6s] and making you like them.
+[2498.6s - 2500.8s] But they're not really good at doing the job.
+[2500.8s - 2502.6s] And interview skill does not equate
+[2502.6s - 2503.8s] to ability to do the job.
+[2503.8s - 2506.5s] And this has just been something that I've seen as well,
+[2506.5s - 2508.9s] which is like, just thinking about interviewing
+[2508.9s - 2510.6s] as a completely separate skill
+[2510.6s - 2513.3s] from whatever the job that you're hiring someone for.
+[2513.3s - 2514.8s] Some of the best hires that we've had
+[2514.8s - 2517.7s] have had honestly horrendous interviews.
+[2517.7s - 2519.8s] But we're like, okay, objectively,
+[2519.8s - 2520.9s] do they have this thing?
+[2520.9s - 2521.7s] Do they have this skill?
+[2521.7s - 2522.5s] Do they have this skill?
+[2522.5s - 2523.4s] What experience do they have?
+[2523.4s - 2524.7s] How much detour are they able to show?
+[2524.7s - 2526.3s] Versus like, man, I just felt,
+[2526.3s - 2527.9s] I just love this person.
+[2527.9s - 2530.3s] And if you're like listening to this right now,
+[2530.3s - 2532.4s] you know those people that you just loved on the interview
+[2532.4s - 2533.5s] and then they came in and you're like,
+[2533.5s - 2534.4s] ah, I love them,
+[2534.4s - 2537.0s] but they're actually not that good at this job.
+[2537.0s - 2539.8s] And so this has just been an evolution for us.
+[2539.8s - 2542.0s] Yeah, and a lot of the times it's,
+[2542.0s - 2543.2s] you enjoy talking to them,
+[2543.2s - 2545.3s] but they don't actually bring a lot of value
+[2545.3s - 2546.1s] to the business.
+[2546.1s - 2548.6s] And so that's why having a scoring system in place
+[2548.6s - 2550.9s] is so important at this point in time.
+[2550.9s - 2552.3s] We wanna have structured interviews,
+[2552.3s - 2554.3s] interview panels, do the founder fit,
+[2554.3s - 2557.0s] and then score your candidates after each interview.
+[2557.0s - 2558.5s] And each of the people who do these,
+[2558.5s - 2560.0s] because we have a multi-step interview, right?
+[2560.0s - 2561.7s] So you have multiple people scoring.
+[2561.7s - 2563.0s] And so you can look at the discrepancies
+[2563.0s - 2564.5s] between scores and that for you,
+[2564.5s - 2566.1s] if you're the founder final check,
+[2566.1s - 2567.9s] you're like, oh, okay,
+[2567.9s - 2570.3s] this score was the lowest across all three
+[2570.3s - 2571.4s] of the interviews,
+[2571.4s - 2573.1s] I'm gonna push on this one really hard.
+[2573.1s - 2574.7s] So it allows you to also focus your time
+[2574.7s - 2577.1s] on the things that are gonna get the best return
+[2577.1s - 2577.9s] for you.
+[2577.9s - 2579.3s] Yeah, Alex knows like one of the things
+[2579.3s - 2581.9s] that I love to do is watch all the interviews
+[2581.9s - 2583.7s] before I interview somebody and then think like,
+[2583.7s - 2586.9s] what's the one thing that's like a big red flag
+[2586.9s - 2587.9s] and then just straight up ask them.
+[2587.9s - 2589.5s] Be like, why does it seem like you're so defensive
+[2589.5s - 2590.4s] for feedback?
+[2590.4s - 2592.0s] And some people are like, what?
+[2592.0s - 2594.1s] And then I wanna see by asking that question,
+[2594.1s - 2595.8s] are they actually defensive to feedback?
+[2595.8s - 2598.3s] So anyways, it's a great use of time.
+[2598.3s - 2600.5s] So that's what we wanna do with recruiting, right?
+[2600.5s - 2602.5s] Our constraint is that recruiters hold
+[2602.5s - 2605.6s] inconsistent standards and the culture suffers, right?
+[2605.6s - 2607.6s] The wrong candidates are getting too far in the process.
+[2607.6s - 2609.7s] So we want to standardize selection
+[2609.7s - 2611.9s] and also do a founder fit check.
+[2611.9s - 2615.1s] Which brings us to HR, human resources,
+[2615.1s - 2617.1s] which is how we decrease the likelihood
+[2617.1s - 2620.1s] that regulators and employees sue us.
+[2620.1s - 2621.0s] Okay, at this level,
+[2621.0s - 2622.8s] the issue is that we have so many new
+[2622.8s - 2625.7s] and existing employees that performance suffers.
+[2625.7s - 2628.5s] There's compliance issues and complaints start to skyrocket.
+[2628.5s - 2632.3s] So you are really getting into having real HR at this point.
+[2632.3s - 2635.5s] I think all the way up until about this stage,
+[2635.5s - 2638.6s] it's like, you can get by with pseudo HR,
+[2638.6s - 2640.7s] you can get by with your operator playing HR,
+[2640.7s - 2641.9s] but once you get past a hundred,
+[2641.9s - 2643.8s] it's like, you got HR, right?
+[2643.8s - 2644.9s] And that's when you're gonna have
+[2644.9s - 2646.2s] like a full blown department.
+[2646.2s - 2649.2s] And so to graduate here so we can solve these issues,
+[2649.2s - 2650.8s] we wanna set up group onboarding,
+[2650.8s - 2652.5s] which is a software that you can implement.
+[2652.5s - 2655.3s] And we wanna have documented performance management systems,
+[2655.3s - 2657.7s] insurance, and we wanna reinforce our cultural values.
+[2657.7s - 2659.3s] So I wanna hit on some of this.
+[2659.3s - 2661.0s] The first thing that we wanna have in place,
+[2661.0s - 2664.3s] and this is often something that compliments an HR IS,
+[2664.3s - 2667.3s] is a system in place that hosts one-on-ones,
+[2667.3s - 2669.4s] feedback, surveys, goal progress,
+[2669.4s - 2672.3s] because this is imperative to have as a holistic view
+[2672.3s - 2674.2s] of performance as a leader.
+[2674.2s - 2676.0s] And so essentially what you have
+[2676.0s - 2678.7s] is a performance management tool, okay?
+[2678.7s - 2681.0s] And so if you have a performance management tool
+[2681.0s - 2682.9s] that manages all of it in one place,
+[2682.9s - 2684.2s] then you can have visibility
+[2684.2s - 2685.9s] into everything that's going on.
+[2685.9s - 2687.5s] Because at this point,
+[2687.5s - 2690.1s] you don't have time to look at the performance
+[2690.1s - 2691.3s] of every department.
+[2691.3s - 2692.8s] You get to the point where it's like,
+[2692.8s - 2694.0s] there's so much going on,
+[2694.0s - 2696.6s] there's such big problems that you're focused on,
+[2696.6s - 2698.5s] that you may, when you had 50 people
+[2698.5s - 2700.6s] been able to help with the performance of the department,
+[2700.6s - 2701.9s] no longer can you do that.
+[2701.9s - 2704.3s] You have to be able to proactively monitor
+[2704.3s - 2706.6s] to make sure that if you start to see performance dipping,
+[2706.6s - 2707.5s] you can say like,
+[2707.9s - 2709.4s] let's take our eyes on this.
+[2709.4s - 2711.2s] Why is it that these half this team right now
+[2711.2s - 2712.0s] is not hitting their quota?
+[2712.0s - 2713.2s] What's going on over here?
+[2713.2s - 2715.8s] So basically, you wanna prevent small problems
+[2715.8s - 2716.8s] from getting big.
+[2716.8s - 2719.4s] And right now, when you're in this fluctuation point
+[2719.4s - 2721.9s] where you're growing and getting over 100 people,
+[2721.9s - 2724.1s] the small problems become very big problems.
+[2724.1s - 2726.5s] Like the little whispers turn into shouts, right?
+[2726.5s - 2728.1s] And this tiny little performance issues,
+[2728.1s - 2729.6s] ah, you know, he's just that way.
+[2729.6s - 2732.3s] It's all of a sudden 10 or 15 people doing that.
+[2732.3s - 2735.9s] And so you wanna have one system that you can see.
+[2736.0s - 2737.9s] Okay, so this is what I set up when I had,
+[2737.9s - 2741.2s] the first time when I got past 100 employees,
+[2741.2s - 2743.8s] I had visibility that I could see every one-on-one,
+[2743.8s - 2745.1s] every person out there manager,
+[2745.1s - 2747.4s] the notes, the documentation, even the recording.
+[2747.4s - 2748.9s] I could see all the feedback
+[2748.9s - 2751.0s] that every team gave about their manager.
+[2751.0s - 2753.8s] So every week they would give feedback about their manager
+[2753.8s - 2755.4s] and I could see what they said.
+[2755.4s - 2757.0s] There were surveys that went out every week
+[2757.0s - 2759.5s] that asked how do they think I'm doing as the CEO?
+[2759.5s - 2761.1s] How do they think that the company's doing
+[2761.1s - 2763.0s] in terms of progressing towards its goals?
+[2763.0s - 2765.2s] There was a goal progress tracker
+[2765.2s - 2768.2s] that measured how far everybody each week
+[2768.2s - 2770.0s] got towards their quarterly goals.
+[2770.0s - 2771.7s] So I could see, are we red, yellow, green
+[2771.7s - 2773.2s] in each department, right?
+[2773.2s - 2775.1s] And so what this allowed me to do
+[2775.1s - 2776.7s] was allowing me to see how healthy
+[2776.7s - 2778.7s] is each team in the business.
+[2778.7s - 2780.9s] And at this point, you don't have time
+[2780.9s - 2784.4s] to focus on every single person at every point in time.
+[2784.4s - 2786.1s] The reality is, is that you're gonna at this point
+[2786.1s - 2787.6s] have so many leaders in your company
+[2787.6s - 2790.5s] that you cannot give them individual attention anymore.
+[2790.5s - 2792.9s] You have to go to like preventing problems
+[2792.9s - 2795.2s] or solving problems, but like maintenance mode,
+[2795.2s - 2796.3s] that's why you're probably gonna have
+[2796.3s - 2797.8s] an executive team at this point
+[2797.8s - 2799.3s] to help manage the other things.
+[2799.3s - 2801.2s] And so that's why having visibility
+[2801.2s - 2802.8s] is so important at this point in time
+[2802.8s - 2804.8s] so that you can see these things before they get big.
+[2804.8s - 2806.4s] What this allows you to do
+[2806.4s - 2807.6s] is this is where that ties in
+[2807.6s - 2809.6s] with reinforcing cultural values
+[2809.6s - 2810.7s] is that what we will see
+[2810.7s - 2812.8s] is you'll start to see where performance dips
+[2812.8s - 2813.6s] and you're starting to see
+[2813.6s - 2815.8s] where things are starting to get lax.
+[2815.8s - 2817.2s] Like where are people starting to let up?
+[2817.2s - 2818.5s] Where are things starting to not be as tight
+[2818.5s - 2819.8s] as they once used to be, right?
+[2819.8s - 2821.5s] Because when you go from 50 people
+[2821.5s - 2825.2s] or even 75 people to 100 or 150 people,
+[2825.2s - 2826.7s] things start to feel really different.
+[2826.7s - 2829.1s] And so reinforcing the cultural values,
+[2829.1s - 2831.3s] just like when we talked about with marketing,
+[2831.3s - 2833.4s] how we wanna continue to reinforce the brand
+[2833.4s - 2835.9s] and the messaging, we have to do the same internally.
+[2835.9s - 2838.0s] So it's constantly repeating ourselves.
+[2838.0s - 2839.7s] Now, how do we repeat ourselves?
+[2839.7s - 2841.7s] My recommendation is that you have
+[2841.7s - 2843.6s] formalized leadership training.
+[2843.6s - 2846.5s] So just like we have performance management systems,
+[2846.5s - 2848.8s] we wanna have performance development systems,
+[2848.8s - 2851.1s] which look like training one too many.
+[2851.1s - 2852.9s] To reinforce the cultural values,
+[2852.9s - 2855.1s] I suggest twice a month,
+[2855.9s - 2857.1s] hosting some sort of leadership training
+[2857.1s - 2860.2s] or full team training where you reinforce the values, right?
+[2860.2s - 2861.7s] You talk about what the values are,
+[2861.7s - 2862.6s] what the values are not,
+[2862.6s - 2865.4s] and then you reward people who showcase them.
+[2865.4s - 2867.1s] Something that we do on a weekly basis
+[2867.1s - 2868.9s] is we have a weekly team touch base.
+[2868.9s - 2871.5s] On that weekly team touch base, we give shout outs.
+[2871.5s - 2874.3s] Those shout outs are related to our three core values,
+[2874.3s - 2875.1s] right?
+[2875.1s - 2876.1s] A way that I really love doing this
+[2876.1s - 2877.1s] in our last company is that
+[2877.1s - 2879.4s] anytime that somebody showed a core value
+[2879.4s - 2880.3s] or went above and beyond
+[2880.3s - 2882.4s] to completely demonstrate that core value,
+[2882.4s - 2884.4s] we actually would send them a t-shirt that week
+[2884.4s - 2886.0s] that had that core value on it.
+[2886.0s - 2887.9s] And it's like, thank you for exemplifying,
+[2887.9s - 2888.8s] grow or die.
+[2888.8s - 2891.2s] Thank you for exemplifying, don't sugar coat it.
+[2891.2s - 2892.1s] And so at this point,
+[2892.1s - 2894.0s] just as external brand messaging
+[2894.0s - 2895.6s] becomes so important to repeat yourself,
+[2895.6s - 2897.2s] so does internal brand messaging
+[2897.2s - 2898.3s] so you can build your culture.
+[2898.3s - 2899.4s] And so these are the decisions,
+[2899.4s - 2901.6s] like who you hire, who you promote,
+[2901.6s - 2903.0s] who you fire,
+[2903.0s - 2904.4s] also communicate almost more
+[2904.4s - 2905.9s] than anything you say verbally.
+[2905.9s - 2907.5s] Like if you say, we have these values,
+[2907.5s - 2908.9s] and then you allow someone to be a shithead
+[2908.9s - 2910.6s] that doesn't actually do those values,
+[2910.6s - 2912.7s] it communicates more than anything that you're gonna say.
+[2912.7s - 2914.4s] And so people look way more about what you do
+[2914.4s - 2916.1s] than what you say in general.
+[2916.1s - 2917.4s] So that's just like,
+[2917.4s - 2918.6s] just as something that we've seen.
+[2918.6s - 2920.6s] The second piece that I wanted to add on is that
+[2920.6s - 2923.0s] Layla touched on like learning and development,
+[2923.0s - 2924.1s] trading.
+[2924.1s - 2926.2s] These are all things that we actually put in
+[2926.2s - 2929.2s] that second big bucket inside of that triangle
+[2929.2s - 2931.2s] of we've got functions of the business,
+[2931.2s - 2932.5s] we have the people in the business,
+[2932.5s - 2933.5s] and then we have the operations
+[2933.5s - 2935.0s] to connect the people to those functions.
+[2935.0s - 2937.0s] And so training is one of the core components of that.
+[2937.0s - 2938.7s] We will talk about that in a lot of depth,
+[2938.7s - 2941.9s] just in a different entire training on scaling.
+[2941.9s - 2943.9s] One of the last little very boring ones that I have here
+[2943.9s - 2947.0s] is also, you wanna have a EPLI,
+[2947.0s - 2949.0s] which is employee something liability insurance,
+[2949.0s - 2950.6s] but you can Google it.
+[2950.6s - 2952.3s] Usually at this point, you're gonna wanna have,
+[2952.3s - 2954.4s] it's like sexual harassment and things like that,
+[2954.4s - 2955.5s] that you wanna have insurance against,
+[2955.5s - 2957.3s] because you're a company now,
+[2957.3s - 2959.7s] and HR is a thing and people will sue you.
+[2959.7s - 2961.3s] So HR, right?
+[2961.3s - 2963.5s] We have too many new and existing employees,
+[2963.5s - 2965.0s] performance is starting to suffer.
+[2965.0s - 2967.6s] So we want to implement performance management systems
+[2967.6s - 2969.6s] and reinforce our cultural values.
+[2969.6s - 2970.8s] So here we are.
+[2970.8s - 2974.2s] So finance, this is how you manage your monies.
+[2974.2s - 2975.4s] All right, so the constraint at this level
+[2975.4s - 2977.6s] is that you're still paying retail for everything,
+[2977.6s - 2979.9s] and you're getting overcharged for everything.
+[2979.9s - 2981.1s] Your cash is unprotected
+[2981.1s - 2982.9s] and likely getting very low returns
+[2982.9s - 2984.6s] or no returns in general.
+[2984.6s - 2985.8s] And so to graduate,
+[2985.8s - 2987.7s] we have to renegotiate rates on everything.
+[2987.7s - 2989.3s] Cash, you wanna shift into yield accounts
+[2989.3s - 2991.6s] or something that gets a return for it.
+[2991.6s - 2993.2s] You want specialized finance roles,
+[2993.2s - 2995.2s] especially around tax mitigation.
+[2995.2s - 2997.6s] And you'll have to have internal financial audits,
+[2997.6s - 2999.8s] kind of like you'll want to start putting a cadence
+[2999.8s - 3002.0s] in place where it doesn't have to be a third-party firm,
+[3002.0s - 3003.6s] but you want to be able to audit your own financials
+[3003.6s - 3004.5s] to make sure that's legit.
+[3004.5s - 3006.2s] Because at this level, you're making a lot of money.
+[3006.2s - 3007.7s] Like there's a lot of money that's coming in,
+[3007.7s - 3009.4s] and you're not close to it.
+[3009.4s - 3012.1s] And so you have to have some sort of check system.
+[3012.1s - 3014.8s] The amount of horror stories that I have,
+[3014.8s - 3017.6s] we've experienced and also other founder entrepreneurs
+[3017.6s - 3021.0s] that we know that get past the size and beyond.
+[3021.0s - 3025.5s] Millions of dollars getting lost, stolen, misallocated.
+[3025.5s - 3027.4s] It's not like, oh, 10 grand here.
+[3027.4s - 3029.4s] You're losing that right now for sure every day
+[3029.4s - 3030.5s] all over the place.
+[3030.5s - 3032.6s] But like millions of dollars can get lost.
+[3032.6s - 3034.0s] Number one, the monthly expense cleanse.
+[3034.0s - 3036.0s] So the cool thing with this
+[3036.0s - 3037.2s] is it drops straight to the bottom line.
+[3037.2s - 3038.4s] So we have a cadence in place
+[3038.4s - 3040.5s] for our financial departments at every quarter or so.
+[3040.5s - 3042.4s] They will look at every single subscription
+[3042.4s - 3045.0s] and just say, okay, what can we delete here?
+[3045.0s - 3046.8s] And they will reach out to those departments to say,
+[3046.8s - 3048.5s] are you sure, not only are you using this,
+[3048.5s - 3049.6s] but are you using it at the level
+[3049.6s - 3051.0s] that we're currently paying for?
+[3051.0s - 3052.3s] And I would actually highlight here,
+[3052.3s - 3055.0s] this is something that I actually lead each quarter.
+[3055.0s - 3057.1s] And then I ask people on the team,
+[3057.1s - 3058.1s] can we get rid of this?
+[3058.1s - 3060.3s] Because what you will see is that people on the team
+[3060.3s - 3062.8s] want to keep everything, don't like deleting things.
+[3062.8s - 3065.6s] And so you need somebody to push to get rid of things
+[3065.6s - 3067.6s] that we haven't used in the last quarter.
+[3067.6s - 3070.2s] And so waste just happens a lot at this point, right?
+[3070.2s - 3072.6s] And so I love this reminder like Twitter,
+[3072.6s - 3074.8s] Elon came in and laid off 80% of Twitter
+[3074.8s - 3076.4s] and they were fine.
+[3076.4s - 3078.4s] Now media has whatever news they want about it.
+[3078.4s - 3080.0s] But as far as I'm concerned, I'm on the platform.
+[3080.0s - 3082.6s] I see the thing continue to grow.
+[3083.7s - 3086.2s] People over hire, like, do we need all these people?
+[3086.3s - 3088.1s] Like you have to have somebody kind of questioning
+[3088.1s - 3090.7s] like status quo on a regular basis
+[3090.7s - 3092.0s] and they have to be a little bit more dominant
+[3092.0s - 3092.9s] in terms of personnel.
+[3092.9s - 3094.2s] Like they have to be more assertive
+[3094.2s - 3095.5s] because if it's just like, oh no, we need them all.
+[3095.5s - 3097.0s] It's like, no, but do you really?
+[3097.0s - 3099.6s] Like show me utilization, what are our tickets coming in?
+[3099.6s - 3100.4s] Do we need this many?
+[3100.4s - 3101.8s] Do we need this coverage, right?
+[3101.8s - 3103.8s] So the next one, after you have kind of,
+[3103.8s - 3105.6s] you've got this cleansing process in place
+[3105.6s - 3107.8s] for both people and technology, you didn't think,
+[3107.8s - 3111.0s] okay, well, I'm an enterprise business now
+[3111.0s - 3114.1s] and you should be getting enterprise pricing.
+[3114.1s - 3116.4s] And so you should be getting volume discounts.
+[3116.4s - 3117.8s] And so I would highly recommend
+[3117.8s - 3120.0s] literally reshopping it to everyone.
+[3120.0s - 3122.7s] Like go to every single vendor you go to and buy from
+[3122.7s - 3125.8s] and ask, okay, we came in here
+[3125.8s - 3128.0s] and we've five extra volumes since then,
+[3128.0s - 3129.4s] but we're still paying retail.
+[3129.4s - 3130.9s] And the way that we shop it is like,
+[3130.9s - 3133.4s] we just go get three other vendors,
+[3133.4s - 3134.8s] show them what their rates are,
+[3134.8s - 3136.2s] show them what they're willing to pay us
+[3136.2s - 3137.2s] to switch to them.
+[3137.2s - 3138.8s] And then all of a sudden you'd be amazed
+[3138.8s - 3142.9s] at what people will do in order to keep your business.
+[3142.9s - 3144.6s] The other thing that kind of goes with that
+[3144.6s - 3146.0s] is just like when you reshop,
+[3146.0s - 3149.3s] also like renegotiating the level of service you get,
+[3149.3s - 3150.2s] because at this point,
+[3150.2s - 3152.1s] your business has become much bigger.
+[3152.1s - 3153.2s] It makes sense that you get
+[3153.2s - 3155.2s] a much higher tiered level of service.
+[3155.2s - 3157.7s] And so do not settle for whatever you had
+[3157.7s - 3158.7s] a hundred people ago.
+[3158.7s - 3160.4s] You probably need more hands on
+[3160.4s - 3161.9s] the phone number to the rep.
+[3161.9s - 3163.5s] You need to be able to not have to go
+[3163.5s - 3165.0s] into the bank to do everything.
+[3165.0s - 3166.6s] There's a lot of stuff that you can get
+[3166.6s - 3168.4s] and you can leverage at this point.
+[3168.4s - 3170.8s] Yeah, I mean, you should have the business banking,
+[3170.8s - 3173.1s] you should have a banker who's specific to your account.
+[3173.1s - 3174.2s] Like you're doing real,
+[3174.2s - 3176.6s] you're making them a lot of money.
+[3176.6s - 3178.1s] And so that should be happening.
+[3178.1s - 3179.6s] In terms of cash yield accounts,
+[3179.6s - 3182.5s] like at least today, given the current market,
+[3182.5s - 3185.2s] you should be, this number will change
+[3185.2s - 3186.7s] in terms of what percentage yield is,
+[3186.7s - 3188.3s] if you're looking at this in the future.
+[3188.3s - 3190.2s] But that money should be making you something.
+[3190.2s - 3191.3s] And at this point,
+[3191.3s - 3193.1s] when you have 50 grand, 100 grand
+[3193.1s - 3194.6s] that sits in your checking account,
+[3194.6s - 3195.9s] it's not gonna make a huge difference
+[3195.9s - 3197.9s] if you're making 5% on that or not.
+[3197.9s - 3199.7s] If you have 10 million in your account
+[3199.7s - 3201.7s] that's sitting there just for normal business functions,
+[3201.7s - 3204.0s] then 500 grand a year is material, right?
+[3204.0s - 3206.7s] And so making sure that you're just in those accounts
+[3206.7s - 3208.8s] that are gonna get higher yields,
+[3208.8s - 3210.6s] it's an easy one move thing
+[3210.6s - 3211.9s] that just makes you way more money.
+[3211.9s - 3213.2s] Begin internal audits.
+[3213.2s - 3214.1s] So I referenced earlier,
+[3214.1s - 3215.6s] you just want checks and balances
+[3215.6s - 3218.5s] just because this is uncomfortable to say,
+[3218.5s - 3220.8s] but the most likely place of theft
+[3220.8s - 3222.4s] actually happens from internal.
+[3222.4s - 3223.8s] So as much as we have insurance,
+[3223.8s - 3227.4s] we wanna stop against malware and phishing
+[3227.4s - 3229.0s] and all these scams and whatnot,
+[3229.0s - 3231.2s] the most likely people to steal from you work for you.
+[3231.2s - 3232.9s] The one thing I will add to that is just like,
+[3232.9s - 3235.3s] as the founder of the CEO of the business,
+[3235.3s - 3238.5s] like thoroughly reviewing your financial statements
+[3238.5s - 3242.4s] each month is not a luxury, it's a requirement.
+[3242.4s - 3244.7s] Like if you wanna get ahead of those things,
+[3245.8s - 3247.5s] understanding how to read the P&L,
+[3247.5s - 3248.4s] consistently reading it
+[3248.4s - 3250.3s] and not thinking that just because you've brought in,
+[3250.3s - 3252.2s] you probably have a whole financial team now,
+[3252.2s - 3253.4s] like, oh, I don't need to step back,
+[3253.4s - 3254.6s] I can just get the high level.
+[3254.6s - 3258.6s] No, I suggest continuing to dig into it every month
+[3258.6s - 3260.8s] and just keeping that as knowing that that's part of your job
+[3260.8s - 3262.6s] no matter how big the company is.
+[3262.6s - 3265.2s] And have a one or two hour meeting every month
+[3265.2s - 3266.9s] where you're like, you're just gonna review that
+[3266.9s - 3270.9s] with the head of finance and go through line items
+[3270.9s - 3273.0s] to be like, this seems high, why is this high?
+[3273.0s - 3274.0s] Who is this charged for?
+[3274.0s - 3274.8s] What is that?
+[3274.8s - 3276.0s] Because the thing is sometimes you're like,
+[3276.0s - 3277.5s] that's how much that vendor was?
+[3277.5s - 3278.3s] Man, we gotta get rid of it.
+[3278.3s - 3281.2s] Like you have to keep a pulse on this stuff
+[3281.2s - 3284.0s] or you have to have a CFO who's just an absolute savage
+[3284.0s - 3287.3s] might be who does that on your behalf.
+[3287.3s - 3288.6s] And I would say that at this point
+[3288.6s - 3290.4s] with your financial statement,
+[3290.4s - 3292.2s] you should absolutely not just be getting
+[3292.2s - 3293.5s] the financial statement,
+[3293.5s - 3297.1s] but you should also be getting notes
+[3297.1s - 3298.9s] as to why things change each month.
+[3298.9s - 3300.6s] So why is this higher this month?
+[3300.6s - 3302.7s] Why is this lower this month?
+[3302.7s - 3305.6s] I have basically anyone at this point in time,
+[3305.6s - 3307.6s] you basically want them to have that write that.
+[3307.6s - 3309.2s] So it's like you have all the financials
+[3309.2s - 3311.2s] and then you have a note section on the side
+[3311.2s - 3314.4s] next to each line item explaining why it's maintained,
+[3314.4s - 3316.3s] why it's gone up or why it's gone down.
+[3316.3s - 3318.6s] So you don't want just people to deliver numbers,
+[3318.6s - 3322.2s] but they need to be able to tell the story of the numbers,
+[3322.2s - 3324.2s] what they mean to the business.
+[3324.2s - 3326.2s] And so if you don't have a team that can tell you
+[3326.2s - 3329.0s] the story of what the financials mean about the business,
+[3329.0s - 3330.4s] you probably throw in financial team,
+[3330.4s - 3331.6s] which we'll talk about in another video.
+[3331.6s - 3334.4s] And the financial, in two stages ago,
+[3334.4s - 3337.6s] I think we had more granular financials that came in
+[3337.6s - 3339.3s] like kind of financial operations
+[3339.3s - 3340.8s] kind of starts to bridge that gap.
+[3340.8s - 3343.6s] They should have a good understanding of what's going on.
+[3343.7s - 3346.5s] A good finance team has operational awareness
+[3346.5s - 3348.2s] of what are the key levers
+[3348.2s - 3350.6s] that drive outcomes in the business.
+[3350.6s - 3352.2s] And I mean, this is, again,
+[3352.2s - 3354.1s] this is like 201, 301 version of finance,
+[3354.1s - 3355.6s] but they should be fundamentally,
+[3355.6s - 3357.8s] they're allocating your resource of money.
+[3357.8s - 3359.3s] And so they should be very astute
+[3359.3s - 3361.4s] to how this generates a return in the business
+[3361.4s - 3362.6s] and everything.
+[3362.6s - 3364.4s] And I'll just say this personally,
+[3364.4s - 3367.6s] the best CEO, sorry, CFOs that we've come in contact
+[3367.6s - 3369.2s] with, man, they're cheap.
+[3369.2s - 3370.1s] You know what I mean?
+[3370.1s - 3370.9s] They're just ruthless.
+[3370.9s - 3372.0s] They're like, I don't think we need that.
+[3372.0s - 3373.3s] I think we can downgrade.
+[3373.9s - 3374.8s] They'll do.
+[3374.8s - 3375.7s] They'll live, right?
+[3375.7s - 3379.0s] It's like you want somebody who's even more aggressive
+[3379.0s - 3379.9s] than you are.
+[3379.9s - 3383.8s] I've never had a CFO that wanted to spend money
+[3383.8s - 3385.0s] more than me, right?
+[3385.0s - 3386.2s] Like you have to have somebody who,
+[3386.2s - 3387.3s] because like founders, like we,
+[3387.3s - 3389.4s] I'm like, let's go, throw the money at it.
+[3389.4s - 3390.3s] Like, let's do this.
+[3390.3s - 3391.1s] Let's grow this stuff.
+[3391.1s - 3393.0s] But you have to have, it's yin and yang.
+[3393.0s - 3395.8s] So with that being said, that is finance.
+[3395.8s - 3398.0s] You're still paying for retail for absolutely everything.
+[3398.0s - 3399.0s] You're getting overcharged.
+[3399.0s - 3401.4s] Your cash is unprotected and getting zero returns.
+[3401.5s - 3403.5s] And so we have to renegotiate rates on everything.
+[3403.5s - 3408.0s] We put those processes in place in order to make sure
+[3408.0s - 3410.3s] that we're saving more money on a consistent basis.
+[3410.3s - 3411.6s] Cash goes into accounts.
+[3411.6s - 3414.0s] When we get more specialized finance roles,
+[3414.0s - 3415.6s] specifically against tax mitigation.
+[3415.6s - 3417.9s] So I didn't hit tax mitigation very much in this,
+[3417.9s - 3419.2s] but at this point,
+[3419.2s - 3421.4s] you probably have some significant write-offs
+[3421.4s - 3422.7s] that you qualify for.
+[3422.7s - 3424.3s] Sometimes it's R&D tax credits.
+[3424.3s - 3427.3s] There's just some, like it is now in the hundreds
+[3427.3s - 3429.1s] of thousands to millions of dollars of range.
+[3429.1s - 3430.6s] And so I think it is worth doing
+[3430.6s - 3432.2s] because it's not about what you make, it's about what you keep.
+[3432.2s - 3433.0s] All right.
+[3433.0s - 3435.1s] So bottom line at this level of specialization,
+[3435.1s - 3437.8s] if we're looking at this whole kind of whole list here,
+[3437.8s - 3439.2s] the theme is specialized.
+[3439.2s - 3440.6s] We categorized last level.
+[3440.6s - 3442.9s] Now we're specializing, specialization of roles.
+[3442.9s - 3444.8s] And so the constraint is no one is good enough
+[3444.8s - 3447.4s] to know everything and your focus is too broad.
+[3447.4s - 3449.9s] And so to graduate, we create dedicated people
+[3449.9s - 3452.1s] and teams for specific tasks.
+[3452.1s - 3455.0s] That is the bottom line of this stage.
+[3455.0s - 3458.6s] And so we went from 100 all the way up to 250
+[3458.6s - 3461.0s] and the theme was specialized.
+[3461.0s - 3462.3s] So what do we do next?
+[3462.3s - 3465.9s] Now, if you're new to this and you're like,
+[3465.9s - 3467.4s] man, that was really thorough.
+[3467.4s - 3468.3s] I would really like to have something
+[3468.3s - 3470.6s] like this for my business.
+[3470.6s - 3471.8s] Depending on what size you are,
+[3471.8s - 3473.8s] we will help create a customized
+[3473.8s - 3475.6s] a hundred million dollar scaling roadmap
+[3475.6s - 3477.6s] that has more details inside of the roadmap
+[3477.6s - 3478.7s] based on the level you're at.
+[3478.7s - 3479.9s] And it'll also give you the videos
+[3479.9s - 3482.5s] for before and after this level.
+[3482.5s - 3483.6s] So before, so that you know
+[3483.6s - 3485.4s] that you can check off these boxes.
+[3485.4s - 3486.9s] And after, so that you have a line of sight
+[3486.9s - 3488.4s] of what you need to be prepared for.
+[3489.0s - 3490.6s] This has just been so helpful for me.
+[3490.6s - 3491.8s] I've had to glean all these things
+[3491.8s - 3493.5s] from interviews and conversations
+[3493.5s - 3495.4s] and be like, oh, I gotta piece all these things together.
+[3495.4s - 3497.8s] We tried our very best to put across all functions
+[3497.8s - 3499.4s] of the business in one place so you can be like,
+[3499.4s - 3501.6s] oh, this is what's gonna happen next
+[3501.6s - 3503.1s] across all these departments.
+[3503.1s - 3504.7s] And so if you want that personalized thing,
+[3504.7s - 3505.9s] you can click the button below.
+[3505.9s - 3507.0s] You can fill out your information.
+[3507.0s - 3508.6s] We will send it through the cyber world
+[3508.6s - 3511.7s] into your inbox and yeah, rock and roll.
+[3511.7s - 3514.8s] So let's get to the final stage.
+[3514.8s - 3516.0s] Going to,
+[3519.3s - 3520.1s] there we go.
+[3520.1s - 3525.1s] Going from 250 to 499 and the theme here is capitalize.

@@ -1,0 +1,1312 @@
+[0.0s - 4.8s] In this video, we're going to give a 1,000 foot overview
+[4.8s - 8.7s] of the 10 stages of the $100 million scaling roadmap
+[8.7s - 10.4s] brought to you by acquisition.com.
+[10.4s - 12.2s] And so you'll see where you're at
+[12.2s - 14.6s] and you can watch further videos
+[14.6s - 17.2s] that deep dive into each level later in the training.
+[17.2s - 19.9s] You'll also notice that the deeper the stage of scaling,
+[19.9s - 21.3s] so down this way,
+[21.3s - 23.2s] the more complexity of the level and things.
+[23.2s - 25.2s] So the trainings that are over here
+[25.2s - 26.4s] tend to be a little bit shorter.
+[26.4s - 27.7s] There's just fewer things you have to do
+[27.7s - 30.1s] when the business only has a handful of people.
+[30.1s - 31.8s] When you have hundreds of employees,
+[31.8s - 33.6s] there's a lot more stuff that's going on.
+[33.6s - 34.6s] And so it should make sense
+[34.6s - 36.8s] that the trainings are gonna be a little bit more in depth.
+[36.8s - 38.7s] So before we dive into each of the stages,
+[38.7s - 40.1s] just as an overview,
+[40.1s - 41.4s] I just wanna double state the fact
+[41.4s - 44.3s] that we are going to go in a lot more detail.
+[44.3s - 47.2s] And so as we review each of these really high level,
+[47.2s - 51.1s] you'll probably be wanting more information at each level.
+[51.1s - 53.8s] But it's hard to actually contextualize
+[53.8s - 55.8s] all of the things that you need to do to scale.
+[55.8s - 58.3s] If we go into details and how to open the drawers
+[58.3s - 60.3s] at every one of these implementations that we have to do
+[60.3s - 62.0s] when we cover the problems and the solutions,
+[62.0s - 63.9s] you'll forget where you're even at in this thing.
+[63.9s - 66.1s] And so this video is just to give you
+[66.1s - 67.9s] with this really good idea of where you're at,
+[67.9s - 70.1s] where you're going, how this whole thing fits together.
+[70.1s - 71.6s] And then everything after this
+[71.6s - 73.0s] is gonna be specific to you
+[73.0s - 75.1s] because you should only go into the trainings
+[75.1s - 78.0s] that are relevant to your current stage of scaling.
+[78.0s - 80.2s] Let's just start with a quick overview
+[80.2s - 81.2s] of each of the stages,
+[81.2s - 84.6s] and we'll start at stage zero, which is improvise.
+[84.6s - 87.7s] So I improvise, your head count is none.
+[87.7s - 89.2s] There's nobody in the company
+[89.2s - 92.0s] and your role is actually to be a researcher, right?
+[92.0s - 93.5s] And the reason that you wanna be a researcher
+[93.5s - 96.8s] is because you know nothing and you have nothing.
+[96.8s - 98.8s] And the leadership structure is just you.
+[98.8s - 100.9s] You're all by yourself.
+[100.9s - 102.8s] Number of companies here is none
+[102.8s - 105.0s] because you're not a company yet, it's just you.
+[105.0s - 107.8s] And so at this stage, what does your product look like?
+[107.8s - 109.3s] Product is nothing,
+[109.3s - 110.9s] because you ain't got nothing to sell, right?
+[110.9s - 112.8s] And so to graduate from that stage,
+[112.8s - 115.7s] you wanna make something free to give away.
+[115.7s - 117.4s] Now, how does that tie in with marketing?
+[117.4s - 119.4s] Marketing, nobody knows about your stuff
+[119.4s - 120.4s] because just a minute ago,
+[120.4s - 122.0s] you didn't have any stuff, right?
+[122.0s - 123.6s] And so in order to graduate marketing,
+[123.6s - 124.6s] you've gotta tell people
+[124.6s - 127.2s] about the free stuff that you have, right?
+[127.2s - 129.2s] And now how do you sell the free stuff, right?
+[129.2s - 130.6s] Well, you don't know how to sell.
+[130.6s - 131.7s] So in order to graduate,
+[131.7s - 134.3s] you have to get people to try your stuff for free.
+[134.3s - 136.3s] What about customer service, okay?
+[136.3s - 138.7s] You don't actually have any customers to service.
+[138.7s - 140.3s] And so what you wanna do
+[140.3s - 143.1s] is if you can accomplish selling your free stuff,
+[143.1s - 146.1s] then you can service your free customers for free,
+[146.1s - 148.5s] which brings us to IT, okay?
+[148.5s - 151.4s] IT, you actually don't have any tech.
+[151.4s - 153.9s] And so in order to graduate from this level,
+[153.9s - 156.0s] you gotta get a computer, you gotta have internet,
+[156.0s - 157.8s] you gotta have a microphone, phone, email,
+[157.8s - 158.9s] whatever it may be,
+[158.9s - 162.5s] so that you can sell and deliver your free stuff.
+[162.5s - 163.9s] That's what you wanna get to use.
+[163.9s - 166.1s] Now after IT, we have recruiting.
+[166.1s - 167.1s] Because it's just you,
+[167.1s - 169.4s] you actually just don't know how to work at this stage.
+[169.5s - 172.6s] And so what you do is you recruit yourself to work.
+[172.6s - 174.2s] And so a lot of this stage
+[174.2s - 176.7s] is learning how to increase your work capacity
+[176.7s - 180.2s] so that you can do many things at the same time.
+[180.2s - 183.0s] Which brings us to HR, which is you're unprotected.
+[183.0s - 184.7s] You treat yourself like the business.
+[184.7s - 186.5s] And so you have no separation
+[186.5s - 188.8s] between your personal assets and your business assets.
+[188.8s - 190.7s] So you would like to create an entity
+[190.7s - 193.8s] that separates these two things from each other.
+[193.8s - 196.4s] Which brings us lastly to finance, okay?
+[196.4s - 198.8s] Your personal money is the business money.
+[198.8s - 200.2s] So at this point, what we wanna do
+[200.2s - 201.8s] is we wanna get a business bank account,
+[201.8s - 203.3s] we wanna put money in it.
+[203.3s - 206.9s] We wanna also start to write off expenses to save on taxes,
+[206.9s - 209.4s] which is a great benefit you have at this point in time
+[209.4s - 211.1s] once you separate those two things.
+[211.1s - 213.4s] So the bottom line of improvise
+[213.4s - 215.7s] is that nothing is happening, right?
+[215.7s - 217.2s] You are truly starting at nothing.
+[217.2s - 219.0s] In fact, you could say you're in the want-to-for-newer
+[219.0s - 220.1s] stage when you start here.
+[220.1s - 223.8s] And you just wanna get people to try your stuff for free.
+[223.8s - 225.6s] And so that is improvise.
+[225.6s - 228.2s] And now we will move to monetize.
+[228.2s - 230.2s] Here, headcount is still one.
+[230.2s - 232.6s] But here, you graduate when you make your first buck.
+[232.6s - 234.0s] So now you're officially a company.
+[234.0s - 236.7s] All right, so your role here is you're a starter.
+[236.7s - 238.6s] Leadership, it's still just you.
+[238.6s - 240.5s] And now you get to officially be a company.
+[240.5s - 242.4s] So you're one of 30 million companies,
+[242.4s - 243.7s] at least in the U.S.
+[243.7s - 245.5s] And to give you some kudos here,
+[245.5s - 247.3s] only 9% of people start a business.
+[247.3s - 248.7s] And so you should feel proud of the fact that,
+[248.7s - 250.7s] hey, you're already in the top 10% of people
+[250.7s - 252.7s] just by starting a business if you're up.
+[252.7s - 255.0s] Now, what are the constraints around product?
+[255.0s - 258.0s] In the beginning, not good enough to sell yet, right?
+[258.9s - 260.1s] And so to graduate, you gotta fix it until it's good enough,
+[260.1s - 261.2s] you make your V1 product.
+[261.2s - 262.6s] And that's where you got some of the feedback
+[262.6s - 264.8s] from the free stage from before.
+[264.8s - 267.7s] Marketing, no knows that you have paid stuff for sale.
+[267.7s - 269.3s] And so to graduate, you have to tell people
+[269.3s - 271.0s] about your paid stuff and then sign up
+[271.0s - 272.6s] for free ad credits online.
+[272.6s - 274.4s] So those are easy, free, cheap ways
+[274.4s - 276.0s] to get your advertising out there.
+[276.0s - 278.3s] Sales, you still don't know how to sell at this point
+[278.3s - 280.2s] because you're graduating by just getting
+[280.2s - 281.5s] your first sale here, right?
+[281.5s - 284.0s] And so all we have to do is just use good results
+[284.0s - 286.4s] from free people to sell paid people.
+[286.5s - 288.3s] And just offer to solve their problems
+[288.3s - 289.1s] in exchange for money.
+[289.1s - 290.5s] We're not talking about processing, scripting,
+[290.5s - 291.4s] or anything like that.
+[291.4s - 293.1s] You're just trying to make your first buck, all right?
+[293.1s - 295.3s] Customer service, at this level,
+[295.3s - 297.4s] the constraint is free customers aren't using it
+[297.4s - 298.2s] or like it.
+[298.2s - 299.7s] And so to graduate, you have to figure out
+[299.7s - 301.8s] all the hidden costs, which is why don't they like it
+[301.8s - 303.1s] and why aren't they using it
+[303.1s - 304.3s] by simply talking to them.
+[304.3s - 307.0s] IT at this level is that you have no basic software
+[307.0s - 308.2s] tools or social media.
+[308.2s - 310.8s] And so to graduate, figure out the free software
+[310.8s - 312.2s] that you need by joining free groups
+[312.2s - 315.1s] and reading online forums, AKA use the Google.
+[315.1s - 316.4s] Recruiting at this level,
+[316.4s - 317.9s] you don't know how to do something
+[317.9s - 319.0s] or have the time to do it.
+[319.0s - 320.4s] You're just getting started, right?
+[320.4s - 323.7s] So you reach out to people who you know to help you.
+[323.7s - 325.1s] This is where you reach out to friends and families,
+[325.1s - 326.8s] that guy you know who does that thing.
+[326.8s - 328.5s] Like you reach out to anybody you can,
+[328.5s - 330.7s] use freelancer platforms if you need to,
+[330.7s - 333.9s] just to kind of fill that initial skill or time gap.
+[333.9s - 336.5s] Human resources, HR, you pay money to freelancers
+[336.5s - 338.9s] to get work done and you don't get what you want.
+[338.9s - 340.0s] Sad face for you.
+[340.0s - 341.9s] And so you have to create basic vendor agreements
+[341.9s - 343.2s] and set expectations.
+[343.2s - 344.6s] And then finance at this level
+[345.2s - 346.3s] is that you have no way to collect money.
+[346.3s - 348.7s] And so in order to actually make your first sale,
+[348.7s - 350.5s] you have to have a way to collect money.
+[350.5s - 352.1s] And so you want to set up a payment processor
+[352.1s - 354.5s] and run your first payment and get your first deposit
+[354.5s - 356.1s] in your business bank account.
+[356.1s - 358.1s] And so the bottom line at this level
+[358.1s - 360.5s] is that your business makes no money.
+[360.5s - 362.1s] And so what do we have to do?
+[362.1s - 363.8s] We have to make our first sale.
+[363.8s - 365.9s] That is how you graduate from monetize.
+[365.9s - 368.4s] And so we just wrapped up the second stage.
+[368.4s - 369.4s] See, we're moving through these.
+[369.4s - 371.0s] So stage one is monetize.
+[371.0s - 373.7s] And now we move on to advertise.
+[373.7s - 377.5s] Advertise, head count, still one, just you.
+[377.5s - 379.4s] We're all alone out here, okay?
+[379.4s - 381.1s] Your role is your doer.
+[381.1s - 382.2s] And that's the thing at this stage
+[382.2s - 384.0s] is you want to make sure that you are in the dirt.
+[384.0s - 385.7s] You are not too good for anything.
+[385.7s - 387.7s] Your leadership structure is you don't have leaders.
+[387.7s - 389.5s] You have freelancers who are doing work
+[389.5s - 390.8s] with you and for you.
+[390.8s - 392.6s] And the number of companies here, again,
+[392.6s - 394.6s] is you're still within the 30 million
+[394.6s - 396.8s] because they do not count freelancers as employees.
+[396.8s - 399.4s] And so at this point in time, your product, right?
+[399.4s - 401.7s] Paying customers have higher expectations
+[401.7s - 404.1s] and your product is unreliable and not good enough.
+[404.1s - 407.1s] To graduate, you wanna fix it until it is good enough
+[407.1s - 408.7s] in an unscalable way.
+[408.7s - 411.2s] And so if that means you have to jump over the moon
+[411.2s - 412.7s] for your customer, you're gonna jump over the moon
+[412.7s - 414.7s] for your customer, whatever you gotta do.
+[414.7s - 416.5s] Which brings us to marketing, okay?
+[416.5s - 418.7s] At this point, lead flow is inconsistent
+[418.7s - 420.4s] because you're inconsistent.
+[420.4s - 423.2s] And so in order to get consistent lead flow,
+[423.2s - 425.3s] you need to live by the rule of 100
+[425.3s - 427.3s] and prioritize advertising daily.
+[427.3s - 430.0s] Well, that means 100 calls daily, 100 dials daily,
+[430.1s - 432.1s] 100 minutes on social media daily,
+[432.1s - 434.7s] 100 minutes of posting daily, whatever it must be,
+[434.7s - 439.0s] you do 100 of anything daily to consistently advertise.
+[439.0s - 440.7s] Which then leads into sales, right?
+[440.7s - 443.4s] At this point, sales conversions are inconsistent
+[443.4s - 445.6s] because you still just started learning how to sell.
+[445.6s - 448.0s] And so what you wanna do is nail down a script
+[448.0s - 450.1s] for setting and closing, okay?
+[450.1s - 451.1s] Where we have a formula,
+[451.1s - 452.5s] we will go into greater detail
+[452.5s - 453.9s] called the closer framework,
+[453.9s - 456.5s] which leads into customer service, okay?
+[456.5s - 458.5s] Paid customers have higher standards
+[458.5s - 460.6s] and now they're complaining, okay?
+[460.6s - 462.5s] And so in order to graduate here,
+[462.5s - 465.2s] you've gotta learn how to deal with disappointed customers,
+[465.2s - 466.7s] which we go over in the angry boat
+[466.7s - 468.1s] in the longer video for this,
+[468.1s - 470.9s] as well as how to get testimonials from happy customers,
+[470.9s - 472.3s] which is the epiphany bridge script,
+[472.3s - 474.3s] which then goes into IT.
+[474.3s - 477.0s] You actually have no money to afford tech.
+[477.0s - 478.6s] And so what we wanna do to graduate
+[478.6s - 481.9s] is use free technology, yes it exists,
+[481.9s - 484.8s] and get free trials and credits for starter softwares,
+[484.8s - 485.6s] right?
+[485.6s - 487.4s] Starter CRMs, starter softwares,
+[487.4s - 489.5s] use free trials, extend those free trials,
+[489.5s - 491.4s] because right now you still don't have that much money.
+[491.4s - 492.7s] Brings us to recruiting.
+[492.7s - 495.9s] At this point, you have too much work for part-timers,
+[495.9s - 497.7s] okay, so they're starting to get overwhelmed.
+[497.7s - 499.9s] So what you wanna do is try your best
+[499.9s - 502.8s] to convert those part-timers into full-timers.
+[502.8s - 506.4s] You wanna make public posts or run ads on job boards
+[506.4s - 508.5s] to get full-timers for the part-timers
+[508.5s - 509.7s] who don't wanna convert.
+[509.7s - 511.5s] Then we've got HR, okay?
+[511.5s - 513.2s] You have full-time employees,
+[513.2s - 514.7s] but they're actually contractors.
+[514.7s - 517.7s] So you treat your contractors like full-time employees,
+[517.7s - 519.0s] okay, and so what you wanna do
+[519.0s - 521.5s] is try and convert those part-timers into full-timers
+[521.5s - 523.4s] and set them up as W2s,
+[523.4s - 526.2s] and then convert your contractors into 1099s
+[526.2s - 527.9s] to make sure that you are compliant.
+[527.9s - 530.0s] Lastly, we've got finance, right?
+[530.0s - 531.5s] You don't keep track of your money
+[531.5s - 533.0s] or have a way to pay taxes.
+[533.0s - 534.0s] You don't know what's coming in,
+[534.0s - 535.3s] you don't know what's gotta go out.
+[535.3s - 538.1s] So you wanna spin up a QuickBooks equivalent,
+[538.1s - 540.6s] you wanna save up for taxes on a quarterly basis,
+[540.6s - 542.7s] and you wanna check your bank account daily
+[542.7s - 544.7s] because what you measure gets managed.
+[544.7s - 546.7s] The bottom line of this phase
+[546.7s - 549.8s] is that new customers are inconsistent, okay?
+[549.8s - 552.8s] And you want to let more people know about your stuff,
+[552.8s - 557.0s] which brings us to the third stage, which is stabilize.
+[557.0s - 558.4s] All right, so with the stabilize,
+[558.4s - 560.1s] we're at now one to four employees.
+[560.1s - 562.7s] So we've hired at least one person in addition to you.
+[562.7s - 564.4s] So you actually have a full-time employee,
+[564.4s - 566.1s] and this goes all the way up to four.
+[566.1s - 567.5s] Your role now is you're a trainer
+[567.5s - 568.7s] because you got all these people in here,
+[568.7s - 569.6s] you gotta train them up
+[569.6s - 570.7s] because they don't know what they're doing.
+[570.7s - 572.4s] And you're probably calling your friends, your family,
+[572.4s - 574.6s] the people in your network to try and get this going.
+[574.6s - 575.7s] Your leadership structure is
+[575.7s - 577.3s] these are your first full-time hires.
+[577.3s - 578.2s] The number of companies here,
+[578.2s - 579.5s] and this is where there's a big kudos,
+[579.5s - 582.3s] only 24% of businesses have at least one employee
+[582.3s - 583.8s] outside of the founder, right?
+[583.8s - 585.7s] And so the vast majority of businesses
+[585.7s - 587.0s] are non-employers.
+[587.0s - 589.7s] And so pretty cool that just by making that one move,
+[589.7s - 592.3s] you move so much forward in terms of percentiles.
+[592.3s - 594.2s] All right, so the constraints is at this level.
+[594.2s - 595.9s] So for product is that you don't have time
+[595.9s - 597.0s] to fix everything that's wrong, right?
+[597.0s - 598.3s] Because things are starting to pick up.
+[598.3s - 599.8s] And so to graduate, you fix the thing,
+[599.8s - 601.7s] the one thing that they complain the most about.
+[601.7s - 603.8s] For marketing, leads aren't buying fast enough.
+[603.8s - 605.2s] So you kind of used up your friends and family
+[605.2s - 606.0s] they're trying to sell.
+[606.0s - 607.7s] And so now newer audiences are colder.
+[607.7s - 609.1s] They're like, I don't know who you are.
+[609.1s - 611.3s] And so what we do is we add long-term nurturing
+[611.3s - 613.2s] via emails and or content.
+[613.2s - 615.2s] For sales, because you're starting to do that,
+[615.2s - 616.8s] you start wasting time with bad leads
+[616.8s - 618.7s] and you don't have enough time to talk to good leads.
+[618.7s - 620.0s] And so to graduate here,
+[620.0s - 622.0s] you decide on basic qualifications.
+[622.0s - 623.8s] Who is supposed to buy your thing?
+[623.8s - 626.2s] And then you outsource setting and or calendaring
+[626.2s - 628.0s] so that you have more time to be on the phone
+[628.0s - 629.0s] with good prospects,
+[629.0s - 631.7s] not texting back and forth to figure out times.
+[631.7s - 633.7s] The next thing for customer service
+[633.7s - 635.8s] is that your new customers feel lost
+[635.8s - 636.9s] because your old customers,
+[636.9s - 637.7s] they've been there a little bit,
+[637.7s - 638.7s] they knew who you were.
+[638.7s - 640.8s] These people, they didn't get that same onboarding
+[640.8s - 642.3s] because it might not be you anymore.
+[642.3s - 643.2s] All right.
+[643.2s - 644.0s] And so to graduate,
+[644.0s - 645.9s] you have to learn how to onboard customers properly,
+[645.9s - 647.5s] which also means consistently.
+[647.5s - 648.7s] In terms of IT,
+[648.7s - 650.3s] you have a bunch of different tools that you don't use
+[650.3s - 651.5s] because you got all this free trials.
+[651.5s - 652.6s] Some of them started converting money.
+[652.6s - 653.8s] You're like, wait, I don't use all these things
+[653.8s - 655.5s] or at least I don't use them at the same level.
+[655.5s - 657.8s] And so to graduate, you figure out the useful ones,
+[657.8s - 659.0s] you extend the free trials,
+[659.0s - 660.5s] getting discounts and credits online,
+[660.5s - 661.5s] which you can look for,
+[661.5s - 662.6s] and you cut the rest.
+[662.6s - 664.2s] And you just wanna make sure that the end of this,
+[664.2s - 665.9s] you just have a basic sales pipeline.
+[665.9s - 667.0s] How do people come in?
+[667.0s - 667.9s] How do they schedule?
+[667.9s - 668.7s] How do they show?
+[668.7s - 669.5s] How do they convert?
+[669.5s - 670.4s] Just a basic pipeline.
+[670.4s - 671.6s] Even on a piece of paper wouldn't matter,
+[671.6s - 673.6s] but you just wanna have some sort of predictable way
+[673.6s - 675.5s] of knowing how customers are coming in.
+[675.5s - 676.9s] Recruiting at this level,
+[676.9s - 678.2s] you're not getting quality applicants
+[678.2s - 679.0s] because you're brand new,
+[679.0s - 680.0s] you don't have a reputation.
+[680.0s - 681.3s] And so to graduate,
+[681.3s - 683.0s] just learn how to write a job description
+[683.0s - 684.0s] and review resumes.
+[684.0s - 685.8s] That's all you gotta do at this level.
+[685.8s - 690.2s] HR, you're not withholding employee taxes and fees.
+[690.2s - 691.7s] So get a payroll provider,
+[691.7s - 693.6s] so all the taxes and fees by state or handle.
+[693.6s - 695.1s] Because listen, this is the last thing you wanna do
+[695.1s - 696.4s] is have a lien on your account
+[696.4s - 697.7s] that shows up because you didn't pay your payroll.
+[697.7s - 698.7s] All right, so easy things,
+[698.7s - 699.8s] but a lot of people are paying people
+[699.8s - 701.5s] via Venmo and PayPal and checks,
+[701.5s - 702.8s] like it's a mess.
+[702.8s - 704.4s] Go buy the book, go legit.
+[704.4s - 706.6s] Finance, people are getting paid informally,
+[706.6s - 707.5s] like I just said.
+[707.5s - 709.2s] And so you have to set up the processing,
+[709.2s - 710.9s] get basic bookkeeping in place,
+[710.9s - 713.0s] and you have to start managing invoices and payments
+[713.0s - 714.4s] because you start paying vendors,
+[714.4s - 715.6s] customers start paying you,
+[715.6s - 716.8s] you gotta make sure that that's being managed.
+[716.8s - 718.1s] Otherwise, you have this money
+[718.1s - 719.0s] that's sitting in your email
+[719.0s - 720.9s] and vendors who don't wanna do their work
+[720.9s - 721.9s] and all of a sudden your business stops
+[721.9s - 722.8s] because you're not paying people.
+[722.8s - 724.0s] So the bottom line is
+[724.0s - 726.0s] there's too much for one person to do.
+[726.0s - 727.5s] And so what you gotta do here,
+[727.5s - 728.4s] you gotta get help.
+[728.4s - 730.5s] You gotta get your first couple of people on board.
+[730.5s - 732.9s] And so we just wrapped up the fourth stage,
+[732.9s - 734.6s] which is stage three.
+[734.6s - 736.3s] Stabilize, reason it's offset
+[736.3s - 737.3s] is because the first one's zero
+[737.3s - 738.4s] because you don't have a company yet.
+[738.4s - 741.0s] And so then we move on to the next stage.
+[741.0s - 741.9s] Prioritize.
+[741.9s - 744.1s] The head count now is five to nine.
+[744.1s - 745.4s] So you've got a little team.
+[746.3s - 747.1s] Your role is your manager.
+[747.1s - 748.6s] So you are having to manage the output
+[748.6s - 750.0s] of those people on your team.
+[750.0s - 751.1s] And your leadership structure
+[751.1s - 752.6s] is you have your first layer, right?
+[752.6s - 753.9s] Cause it's your first team.
+[753.9s - 755.8s] Now the number of companies here, pretty cool.
+[755.8s - 757.2s] Only three million.
+[757.2s - 758.0s] So think about that.
+[758.0s - 760.0s] Out of all the things you see on social media,
+[760.0s - 761.3s] there are only three million companies
+[761.3s - 763.4s] that even have five to nine people on their team.
+[763.4s - 765.2s] What does this look like when it comes to product?
+[765.2s - 766.0s] Okay.
+[766.0s - 766.9s] Product right now,
+[766.9s - 769.2s] you said yes to anybody that would give you money.
+[769.2s - 770.6s] And so you have feedback
+[770.6s - 772.3s] from so many different customers, right?
+[772.3s - 774.7s] It's creating too many different product directions.
+[774.7s - 775.6s] So what we want to do
+[775.6s - 777.1s] is we want to specialize the product.
+[777.1s - 779.1s] We want to turn it into a V2, right?
+[779.1s - 782.5s] And we want to price it to serve a niche down avatar.
+[782.5s - 784.4s] The problem is most people go wide right now
+[784.4s - 786.1s] when they've got to go deep.
+[786.1s - 787.5s] Which brings us to marketing, right?
+[787.5s - 789.6s] We have too many unqualified leads,
+[789.6s - 791.7s] especially as we specialize our product.
+[791.7s - 793.7s] And so we want to make better free stuff
+[793.7s - 796.3s] and more creative so that we can boost volume.
+[796.3s - 797.1s] Okay.
+[797.1s - 798.3s] We want to add qualification and friction
+[798.3s - 800.1s] so that the extra volume self-selects.
+[800.1s - 800.9s] At this point,
+[800.9s - 802.3s] a lot of people think they have to start up
+[802.3s - 803.7s] a second channel when in reality,
+[803.7s - 805.7s] they're just not doing a great job with the first,
+[805.7s - 807.3s] which brings us to sales, right?
+[807.3s - 808.8s] Speed to contact drops.
+[808.8s - 810.6s] And you have no metrics around sales
+[810.6s - 812.7s] to make sure that nothing else drops.
+[812.7s - 814.3s] And so what you want to do at this point
+[814.3s - 816.5s] is you want to track basic KPIs manually
+[816.5s - 817.9s] on a spreadsheet, okay?
+[817.9s - 819.9s] Contact rate, schedule rate, show rate,
+[819.9s - 822.2s] offer, close, cash collected.
+[822.2s - 824.5s] I'm thinking Google Sheets tracking, okay?
+[824.5s - 826.5s] This doesn't need to be a CRM at this point.
+[826.5s - 828.2s] You just need to have the numbers.
+[828.2s - 829.5s] Customer service.
+[829.5s - 831.1s] Right now we have no metrics
+[831.1s - 833.9s] for customer service or customer success.
+[833.9s - 836.5s] And so we want to install tracking KPIs
+[836.5s - 838.5s] and we want to record and centralize notes
+[838.5s - 840.7s] for each customer in a CRM.
+[840.7s - 842.7s] So we just want to have metrics
+[842.7s - 844.6s] and then have a place to store the metrics
+[844.6s - 846.1s] and have a place to store notes
+[846.1s - 847.5s] so that your team can talk to each other
+[847.5s - 849.6s] about the customers, which brings us to IT.
+[849.6s - 851.9s] Your new team is not using everything.
+[851.9s - 852.8s] Okay.
+[852.8s - 853.7s] And so we want to do is get everybody
+[853.7s - 855.3s] on the same platforms,
+[855.3s - 856.5s] protect your passwords,
+[856.5s - 859.1s] get project management tools and communication tools.
+[859.1s - 863.1s] Think Monday.com, Asana, Slack, LastPass.
+[863.1s - 865.0s] Those are the things you want to get in place right now.
+[865.0s - 867.2s] So everyone is using the same basic software
+[867.2s - 868.9s] to communicate and use for work.
+[868.9s - 870.4s] Which brings us to recruiting.
+[870.4s - 873.2s] We are wasting time with bad candidates.
+[873.2s - 875.2s] The reason is because we need to learn
+[875.2s - 876.8s] how to conduct a proper interview
+[876.8s - 879.6s] and check references, okay?
+[879.6s - 881.2s] So at this point, you need to step it up
+[881.2s - 883.8s] and learn a little bit more about the recruiting process,
+[883.8s - 886.0s] which brings us to HR, okay?
+[886.0s - 887.6s] Employees don't know how to behave.
+[887.6s - 889.1s] So you've got a few employees now,
+[889.1s - 890.3s] you're adding more in.
+[890.3s - 891.8s] They don't know, what's a PTO?
+[891.8s - 892.8s] How do I do a sick day?
+[892.8s - 894.5s] Oh, hey, I'm not coming in tomorrow.
+[894.5s - 896.3s] Hey, what are you wearing?
+[896.3s - 897.5s] There's all these things they start doing
+[897.5s - 899.7s] and they don't really know how to act.
+[899.7s - 902.0s] And so you want to install an employee handbook
+[902.0s - 904.4s] and policies to teach people how to behave.
+[904.4s - 905.9s] And lastly, we've got finance.
+[905.9s - 908.7s] Your cashflow is lumpy because you're a lumpy
+[908.7s - 910.9s] due to one time expenses, okay?
+[910.9s - 912.7s] And so you find out
+[912.7s - 914.9s] that businesses cost money to run.
+[914.9s - 917.1s] And so what you want to do is you want to get in place
+[917.1s - 920.4s] a profit and loss statement and cashflow statements set up
+[920.4s - 923.0s] and basic business insurance, okay?
+[923.0s - 925.1s] So at this point, you've got people on your team.
+[925.1s - 926.7s] You want to make sure that you're protected.
+[926.7s - 928.8s] So watch the money and get some protection.
+[928.8s - 931.0s] The bottom line is that you are trying
+[931.0s - 932.8s] to be everything to everyone.
+[932.8s - 935.4s] You need to niche down and pick one customer
+[935.4s - 937.2s] or best customers to serve.
+[937.2s - 939.3s] So we just dropped up prioritize
+[939.3s - 941.5s] and now we're going to move on to productize.
+[941.5s - 945.7s] So at the productize level, we got 10 to 19 employees.
+[945.7s - 947.2s] So we're into that next tier.
+[947.2s - 948.7s] You now are a director.
+[948.7s - 950.3s] You kind of have like one and a half layers.
+[950.3s - 952.2s] So you've got your first maybe two managers
+[952.2s - 954.3s] that are on the team managing a couple people each.
+[954.3s - 956.5s] And then you still have some direct reports yourself.
+[956.5s - 959.1s] The number of companies here is 2.4 million.
+[959.1s - 961.1s] The constraints around product
+[961.1s - 962.4s] are that customers have nothing else
+[962.4s - 963.3s] to buy from your insurance.
+[963.3s - 964.8s] So you have this new niche down product
+[964.8s - 966.6s] that serves this better avatar.
+[966.6s - 968.1s] But now that you've niche it down,
+[968.1s - 970.2s] they're like, okay, well, what else do I have to buy?
+[970.2s - 971.0s] There's nothing.
+[971.0s - 972.7s] So to graduate, you connect your CS,
+[972.7s - 974.7s] your customer success to product
+[974.8s - 976.4s] so that you can figure out what else they want
+[976.4s - 978.0s] so you can make something new to sell.
+[978.0s - 980.5s] This is why productize is the theme of the stage.
+[980.5s - 983.5s] So once we have our second product, marketing wise,
+[983.5s - 985.0s] qualified leads are too expensive
+[985.0s - 986.6s] and cap your ability to advertise.
+[986.6s - 990.2s] So once we spend more money on our niche down marketing
+[990.2s - 993.2s] with our new offer and our new higher LTV to cap
+[993.2s - 994.8s] because we have a second product,
+[994.8s - 997.3s] we can afford to spend more.
+[997.3s - 999.0s] And so we can start scoring our leads,
+[999.0s - 1001.6s] get attribution in place and a good CRO process,
+[1001.6s - 1003.2s] which is conversion rate optimization.
+[1003.3s - 1005.8s] And if all that sounds like a little bit meatier,
+[1005.8s - 1007.7s] we get this, we go super deep on this
+[1007.7s - 1009.5s] when we go into the deep video for this stage.
+[1009.5s - 1010.8s] All right, sales at this level.
+[1010.8s - 1012.9s] Customers get sold with unrealistic expectations
+[1012.9s - 1015.6s] and refunds and bad reviews become an issue.
+[1015.6s - 1018.2s] And so to graduate, create sales, aids and materials.
+[1018.2s - 1020.3s] So think via sales, webinars,
+[1020.3s - 1022.7s] like presentations, things like that.
+[1022.7s - 1024.0s] You wanna install weekly game tape
+[1024.0s - 1025.7s] between customer service, sales and marketing.
+[1025.7s - 1027.7s] So this is basically a cross departmental meeting
+[1027.7s - 1029.1s] so that everybody's on the same page
+[1029.1s - 1031.3s] or what are we promising and what are we delivering?
+[1031.4s - 1033.9s] And this then leads into a feedback metric
+[1033.9s - 1036.2s] with NPS and CSAT, so Net Promoter Score,
+[1036.2s - 1038.8s] Customer Satisfaction Score and refund rate.
+[1038.8s - 1040.4s] And if you wanna get a little bit sexier,
+[1040.4s - 1042.3s] by rep, as in by sales rep.
+[1042.3s - 1043.6s] Customer service at this level,
+[1043.6s - 1045.7s] customers come in with unrealistic expectations
+[1045.7s - 1047.8s] and they get inconsistent answers.
+[1047.8s - 1049.0s] And so to graduate, you have to build
+[1049.0s - 1052.9s] a proper CS playbook to onboard and train team
+[1052.9s - 1055.4s] to answer questions the same way.
+[1055.4s - 1057.9s] And so weekly game tape review is also kind of
+[1057.9s - 1059.7s] cross all of these departments that are happening,
+[1059.7s - 1061.0s] but it is that important.
+[1061.6s - 1064.2s] And you begin having a customer ascension path.
+[1064.2s - 1066.7s] So IT at this level is employees
+[1066.7s - 1068.2s] are using their personal hardware, right?
+[1068.2s - 1069.9s] So you're at 10-ish and maybe some of them
+[1069.9s - 1071.4s] came in with laptops and they're just using
+[1071.4s - 1072.9s] their own phones to work leads.
+[1072.9s - 1074.3s] Because let's be real, you probably didn't have
+[1074.3s - 1075.9s] as much money at that point and you're like,
+[1075.9s - 1077.9s] oh gosh, this is a problem.
+[1077.9s - 1080.0s] Somebody just left with their phone and their computer
+[1080.0s - 1082.0s] and they have all my leads or they have all my media.
+[1082.0s - 1082.8s] No bueno.
+[1082.8s - 1086.0s] And so because of that, the company provides
+[1086.0s - 1088.7s] company-owned and controlled hardware and software
+[1088.7s - 1090.3s] and you'll need to build a basic dashboard
+[1090.3s - 1091.3s] and reporting system.
+[1091.3s - 1093.0s] Recruiting at this level is that you have trouble
+[1093.0s - 1095.4s] finding higher level roles and managers.
+[1095.4s - 1097.9s] And so to graduate, you create deliberate promotions
+[1097.9s - 1100.6s] from within rather than the Peter principle,
+[1100.6s - 1102.8s] which we go in depth on, which is basically
+[1102.8s - 1104.6s] you promote people to their point of incompetence.
+[1104.6s - 1106.1s] You want to avoid that, we'll show you how.
+[1106.1s - 1108.4s] And then you want to incentivize employee referrals
+[1108.4s - 1111.5s] equal to your cost to acquire talent, which is cat.
+[1111.5s - 1113.3s] Just like cat cost to acquire customers,
+[1113.3s - 1115.7s] you have cat to acquire, cost to acquire talent.
+[1115.7s - 1117.2s] And so you have to be willing to spend
+[1117.2s - 1118.6s] to get the best talent.
+[1118.6s - 1121.0s] Human resources, you're firing people incorrectly
+[1121.0s - 1122.3s] and that exposes you.
+[1122.3s - 1123.8s] And so to graduate, you have to create
+[1123.8s - 1126.3s] termination policies and process because at this point,
+[1126.3s - 1128.1s] you probably will start letting some people go
+[1128.1s - 1129.9s] because you'll realize that you didn't know
+[1129.9s - 1131.2s] how to hire people the right way
+[1131.2s - 1132.5s] and so you got some bad eggs.
+[1132.5s - 1135.1s] All right, finance, you don't know how much money
+[1135.1s - 1137.3s] you can invest into growth.
+[1137.3s - 1139.6s] You got some extra cash, you want to grow more,
+[1139.6s - 1140.8s] but you're like, how much?
+[1140.8s - 1142.8s] And so to graduate, you make a budget,
+[1142.8s - 1144.3s] you save for big expenses,
+[1144.3s - 1146.3s] and you have simple financial forecasting
+[1146.3s - 1149.8s] so that you can begin keeping track of tax write-offs.
+[1149.8s - 1151.0s] And so it's like, I know we're going to have
+[1151.0s - 1153.3s] this big event so let's start budgeting for that
+[1153.3s - 1155.7s] and let's start writing off some of these bigger expenses
+[1155.7s - 1157.6s] because that's going to ultimately lower your tax bill.
+[1157.6s - 1159.2s] And if you have more cash left over,
+[1159.2s - 1160.9s] you can invest more into growth.
+[1160.9s - 1162.3s] And so the bottom line at this level
+[1162.3s - 1164.3s] is that you're not making enough money per customer.
+[1164.3s - 1165.8s] You have low LTV to cat.
+[1165.8s - 1167.3s] This is why we productize.
+[1167.3s - 1169.4s] This is why we start the second product.
+[1169.4s - 1171.8s] And so you make and sell your second premium product
+[1171.8s - 1174.6s] to your customers and have all of these downstream impacts
+[1174.6s - 1176.0s] that get you to the next level.
+[1176.1s - 1177.7s] And so we just wrapped up the sixth stage,
+[1177.7s - 1179.4s] which is stage five productize,
+[1179.4s - 1183.0s] which moves us into the next stage, stage six, optimize.
+[1183.0s - 1184.5s] All right, optimize.
+[1184.5s - 1186.1s] This is when our head count is getting up there.
+[1186.1s - 1188.4s] We are 20 to 49 people.
+[1188.4s - 1190.9s] Your role is you are an actual leader now, right?
+[1190.9s - 1191.8s] You have people to lead.
+[1191.8s - 1194.7s] You have two full layers of managers underneath of you.
+[1194.7s - 1196.4s] So usually that looks like a director level
+[1196.4s - 1197.7s] and a manager level.
+[1197.7s - 1201.0s] The number of companies here is only 2.1 million companies.
+[1201.0s - 1203.1s] And so it is definitely an accomplishment
+[1203.1s - 1205.9s] to get to this point if you are there in your business.
+[1205.9s - 1208.8s] Now, what does this look like from a product standpoint?
+[1208.8s - 1209.6s] At this point,
+[1209.6s - 1212.3s] improving two products slows down improvements.
+[1212.3s - 1213.6s] So you've got two things to focus on.
+[1213.6s - 1214.9s] You've got split attention.
+[1214.9s - 1216.1s] And so in order to graduate,
+[1216.1s - 1219.0s] you need to install incremental product improvement
+[1219.0s - 1221.3s] processes for both products, right?
+[1221.3s - 1222.7s] It's almost like a product pipeline
+[1222.7s - 1225.0s] for each of these things with separate owners
+[1225.0s - 1226.3s] able to oversee them.
+[1226.3s - 1227.4s] Going into marketing,
+[1227.4s - 1230.0s] marketing looks like ads are not converting as well
+[1230.0s - 1231.2s] to colder traffic.
+[1231.2s - 1232.2s] As your company expands,
+[1232.2s - 1233.4s] you sell more people in the market,
+[1233.4s - 1234.8s] the people become colder and colder.
+[1234.8s - 1236.2s] And so cat goes up.
+[1236.2s - 1238.8s] And so in order to combat this,
+[1238.8s - 1241.1s] you want to implement an ad assembly process
+[1241.1s - 1242.5s] to increase volume,
+[1242.5s - 1244.2s] which is something we're going to go into more depth
+[1244.2s - 1245.8s] in the video itself.
+[1245.8s - 1247.0s] Going into sales,
+[1247.0s - 1250.3s] sales are closing efficiency on the core product drops
+[1250.3s - 1252.1s] and it becomes very inconsistent.
+[1252.1s - 1254.0s] Refunds go down, but so do closes.
+[1254.0s - 1256.0s] So it's like, great, we're not losing money,
+[1256.0s - 1257.6s] but we're also not making more money.
+[1257.6s - 1258.5s] And so what we want to do
+[1258.5s - 1260.6s] is we want to install sales training systems,
+[1260.6s - 1263.2s] individual coaching and team cadence
+[1263.2s - 1265.0s] to increase closing efficiency
+[1265.0s - 1266.8s] and to make sure that we get consistent.
+[1266.8s - 1268.5s] That brings us to customer service.
+[1268.5s - 1271.5s] Turn increases due to the volume and the new product.
+[1271.5s - 1273.7s] And so what we want to do to combat the turn
+[1273.7s - 1276.3s] and to graduate is to create a customer segmentation
+[1276.3s - 1278.3s] by cohort and activation points.
+[1278.3s - 1280.9s] So essentially we want to segment our customers
+[1280.9s - 1282.7s] so that we can figure out how to reduce turn
+[1282.7s - 1284.1s] for each type of customer.
+[1284.1s - 1285.5s] And we want to make sure that we understand
+[1285.5s - 1287.5s] how to activate, AKA engage,
+[1287.5s - 1289.0s] the customers that we do have.
+[1289.0s - 1291.6s] Bringing us to IT, new people are coming in,
+[1291.6s - 1295.0s] old people are leaving with IP, with data, with access.
+[1295.0s - 1298.2s] And so we need to install cybersecurity, malware,
+[1298.2s - 1301.1s] password protection from and for employees
+[1301.1s - 1304.8s] and proper onboarding and offboarding procedures.
+[1304.8s - 1306.0s] It's all about protection
+[1306.0s - 1307.2s] because you've got more people coming in
+[1307.2s - 1308.2s] and more people going out.
+[1308.2s - 1310.2s] Speaking of people, recruiting.
+[1310.2s - 1311.7s] The number and types of roles
+[1311.7s - 1313.8s] that exceed your current network.
+[1313.8s - 1317.0s] So everyone you've reached out to already has a job
+[1317.0s - 1318.4s] or they're not what you're looking for.
+[1318.4s - 1321.7s] And so you have to learn to headhunt higher level roles
+[1321.7s - 1324.3s] and add in multiple interview filtering
+[1324.3s - 1325.7s] for different skills.
+[1325.7s - 1326.9s] Okay, so you're going to learn
+[1326.9s - 1328.5s] how am I going to find people
+[1328.5s - 1330.0s] that can be a head of finance
+[1330.0s - 1333.1s] for a 50 person company or a 35 person company?
+[1333.1s - 1335.0s] How do I find a director of marketing?
+[1335.0s - 1336.7s] And how do I make sure interviews
+[1336.7s - 1337.9s] that I get the right people?
+[1337.9s - 1340.0s] Which brings us to HR, right?
+[1340.0s - 1342.0s] You can't get higher level talent
+[1342.0s - 1344.8s] because they expect a full compensation package,
+[1344.8s - 1347.0s] benefits, bonus, retirement, et cetera.
+[1347.0s - 1348.5s] So you want to set up benefits,
+[1348.5s - 1351.1s] retirement and an advanced compensation plan
+[1351.1s - 1352.5s] so that you can attract that talent
+[1352.5s - 1354.0s] that you need to grow your company.
+[1354.0s - 1355.4s] And finishing off with finance.
+[1355.4s - 1357.2s] You are spending money to grow,
+[1357.2s - 1360.0s] but you're not growing and money is missing.
+[1360.0s - 1361.7s] Where the heck is your return?
+[1361.7s - 1363.7s] We want to scale up AR and AP.
+[1363.7s - 1365.7s] So accounts receivable and accounts payable.
+[1365.7s - 1367.6s] It's like, all right, we're paying vendors
+[1367.6s - 1370.0s] and then we're collecting money from customers, right?
+[1370.0s - 1372.3s] We have to start tracking both of those meticulously
+[1372.3s - 1374.4s] with more granular financial data.
+[1374.4s - 1375.7s] So I want to have more visibility
+[1375.7s - 1377.7s] into what's happening with the finances.
+[1377.7s - 1379.3s] That's why I mentioned the balance sheet.
+[1379.3s - 1380.2s] And we want to make sure
+[1380.2s - 1381.8s] that we're paying our taxes quarterly
+[1381.8s - 1383.4s] so that we are compliant.
+[1383.4s - 1386.3s] So the bottom line here is that everything is inefficient.
+[1386.3s - 1389.3s] And so we grow by doing everything better
+[1389.3s - 1390.2s] rather than more.
+[1390.2s - 1394.0s] So that was the seventh stage of Optimize,
+[1394.0s - 1395.6s] which brings us to the next one,
+[1395.6s - 1397.1s] which is Categorize.
+[1397.1s - 1399.3s] All right, so stage seven, Categorize.
+[1399.3s - 1400.6s] You're at 50 to 99.
+[1400.6s - 1403.5s] So we got into 50 plus all the way up to 100,
+[1403.5s - 1404.9s] companies in this range.
+[1404.9s - 1406.3s] And so you're now an executive.
+[1406.3s - 1407.6s] So you've got all these directors.
+[1407.6s - 1410.3s] You've got three layers of leadership underneath of you.
+[1410.3s - 1412.9s] And now we've got 1.2 million other companies here.
+[1412.9s - 1413.7s] Out of 30 million,
+[1413.7s - 1416.1s] we're already down to 1.2 million companies.
+[1416.1s - 1418.0s] So we're in already a very small percentage,
+[1418.0s - 1419.4s] 4% or less.
+[1419.4s - 1421.2s] All right, and so the constraint here for product
+[1421.2s - 1423.4s] is that the product begins to get outdated.
+[1423.4s - 1425.2s] Improvements take too long to roll out.
+[1425.2s - 1427.5s] And so to graduate, you fix one problem at a time
+[1427.5s - 1430.7s] with focused feature specific teams.
+[1430.7s - 1431.9s] All right, so you have to prioritize,
+[1431.9s - 1433.4s] but now you're doing that same structure
+[1433.4s - 1436.6s] with more people that you're doing these priorities for.
+[1436.6s - 1438.2s] Marketing, lead flow is volatile
+[1438.2s - 1439.7s] because you only have one way to get customers.
+[1439.7s - 1442.1s] So this is typically when we recommend,
+[1442.1s - 1444.9s] you start looking at that second acquisition channel.
+[1444.9s - 1446.2s] And so to graduate,
+[1446.2s - 1448.2s] you fund the second acquisition channel
+[1448.2s - 1450.0s] with two things to pad yourself,
+[1450.0s - 1452.3s] to create a much stronger referral process,
+[1452.3s - 1453.5s] which we'll show you how to do.
+[1453.5s - 1456.8s] And you wanna have segmented lead nurture by lead score,
+[1456.8s - 1458.5s] because we've already started scoring our leads,
+[1458.5s - 1460.2s] but we're not marketing to them differently
+[1460.2s - 1461.6s] internally via email.
+[1461.6s - 1463.1s] And so as soon as we segment them,
+[1463.7s - 1464.6s] we'll get higher returns on our email,
+[1464.6s - 1466.4s] we get higher returns via referral.
+[1466.4s - 1469.2s] And so that extra cash, which cost us almost nothing,
+[1469.2s - 1471.8s] allows us to fund the second channel for growth.
+[1471.8s - 1473.6s] So we picked the most similar platform,
+[1473.6s - 1475.1s] and we have a whole process of how you pick
+[1475.1s - 1478.0s] what the next advertising channel you're gonna use is.
+[1478.0s - 1479.9s] So the next constraint is gonna be sales.
+[1479.9s - 1482.3s] So leads are getting wasted, all right,
+[1482.3s - 1484.5s] and they're not getting consistently worked by the team.
+[1484.5s - 1487.0s] And so to graduate, we create better schedule coverage
+[1487.0s - 1488.7s] so we get more throughput overall,
+[1488.7s - 1490.4s] we create a lead nurture checklist,
+[1490.4s - 1492.2s] and we create kudos.
+[1492.2s - 1496.8s] So a culture of working leads and shout outs
+[1496.8s - 1499.4s] for the people who have just as high show rates
+[1499.4s - 1500.5s] as close rates.
+[1500.5s - 1502.4s] From there, we go to customer service.
+[1502.4s - 1505.0s] And so at this point, customer service is only reactive.
+[1505.0s - 1507.2s] It's all firefighting, it's chaos.
+[1507.2s - 1508.0s] And so to graduate,
+[1508.0s - 1510.0s] we have to go from reactive to proactive.
+[1510.0s - 1512.1s] So we create a proactive customer journey
+[1512.1s - 1514.9s] and communication that matches with each of the milestones,
+[1514.9s - 1517.7s] and we focus on renewals and extensions at this point.
+[1517.7s - 1520.4s] So then from an IT perspective to support that,
+[1520.4s - 1523.7s] data, IP and access are all over the place and disorganized.
+[1523.7s - 1525.0s] That's the problem here.
+[1525.0s - 1527.2s] To graduate, we create network technology,
+[1527.2s - 1528.7s] we bring solutions to the cloud.
+[1528.7s - 1530.1s] This is specific if you're in person,
+[1530.1s - 1532.1s] if you're remote, you probably are in the cloud.
+[1532.1s - 1533.1s] You get a data host,
+[1533.1s - 1535.7s] and then you centrally locate hardware if you're offsite
+[1535.7s - 1536.5s] and if you're onsite,
+[1536.5s - 1537.6s] obviously you have a storage closet
+[1537.6s - 1539.6s] that has all the new computers and things like that.
+[1539.6s - 1543.0s] Recruiting wise, it takes too long to hire good people
+[1543.0s - 1544.4s] and they get hired elsewhere.
+[1544.4s - 1545.9s] And you have too many roles open
+[1545.9s - 1547.2s] to keep track of candidates
+[1547.2s - 1548.6s] and where they are in the process.
+[1548.6s - 1550.0s] Because at earlier stages,
+[1550.6s - 1551.4s] we already talked about,
+[1551.4s - 1552.3s] okay, we're gonna have multiple interviews now,
+[1552.3s - 1554.6s] and we have multiple candidates for different roles.
+[1554.6s - 1555.8s] And so you have to track all these things
+[1555.8s - 1557.1s] and you're like, are you an interview too?
+[1557.1s - 1559.2s] Wait, you're John, I'm talking to Tim.
+[1559.2s - 1560.6s] It's completely disorganized.
+[1560.6s - 1562.7s] And so to graduate, you install an ATS,
+[1562.7s - 1564.8s] which is an applicant tracking system
+[1564.8s - 1567.2s] to keep track of so many open roles.
+[1567.2s - 1569.1s] And so think about this just as a CRM,
+[1569.1s - 1569.9s] but for applicants.
+[1569.9s - 1572.0s] It's like a sales pipeline for candidates
+[1572.0s - 1572.8s] who are coming in.
+[1572.8s - 1574.6s] And so then on top of that,
+[1574.6s - 1577.6s] you add in specialized recruiting firms
+[1577.6s - 1579.6s] to keep up with the demand of hiring
+[1579.7s - 1580.7s] and some skill sets
+[1580.7s - 1582.1s] that you don't know how to hire yourself
+[1582.1s - 1585.2s] or go find those pools of super specific developer
+[1585.2s - 1588.2s] or really some type of programmer, whatever.
+[1588.2s - 1590.7s] From there, HR is that we have too many different places
+[1590.7s - 1593.0s] for employee information and you have no data.
+[1593.0s - 1596.1s] And so to graduate, we set up an HRIS,
+[1596.1s - 1598.1s] which is a human resource information system.
+[1598.1s - 1600.7s] It's all the, wait, who's due for a promotion?
+[1600.7s - 1601.8s] When was their last one?
+[1601.8s - 1603.7s] Who's got John's date of birth?
+[1603.7s - 1605.4s] Like you have all this information for employees
+[1605.4s - 1606.6s] that's scattered all over the place
+[1606.6s - 1608.1s] and it's probably not protected data.
+[1608.1s - 1610.5s] And so you put it into an HRIS to be compliant.
+[1610.5s - 1611.7s] And honestly, at this point,
+[1611.7s - 1613.9s] when you got 100 employees, you need it.
+[1613.9s - 1616.6s] So finance-wise, the problem is
+[1616.6s - 1618.8s] your team starts spending your money stupidly.
+[1618.8s - 1620.6s] This happens because you're no longer
+[1620.6s - 1621.8s] the one who's spending everything.
+[1621.8s - 1623.1s] They're spending money
+[1623.1s - 1624.7s] and they don't do it as well as you do.
+[1624.7s - 1625.8s] And so to graduate,
+[1625.8s - 1627.7s] you have to set up quarterly expense management,
+[1627.7s - 1629.6s] budgets by department, cards with limits,
+[1629.6s - 1631.1s] and expense approval process.
+[1631.1s - 1632.4s] You add in insurance coverage
+[1632.4s - 1633.7s] and you get fancier projections.
+[1633.7s - 1635.0s] You're like, that's a lot of stuff.
+[1635.0s - 1638.0s] We cover it in a lot more depth in the deeper video.
+[1638.8s - 1640.3s] So bottom line here for this stage
+[1640.3s - 1642.5s] is that every system is overwhelmed
+[1642.5s - 1644.6s] and the business is disorganized.
+[1644.6s - 1647.2s] And so to graduate, you have to triage.
+[1647.2s - 1648.6s] You have to organize stuff
+[1648.6s - 1649.6s] and you've got to move it
+[1649.6s - 1651.4s] and say this bucket goes here,
+[1651.4s - 1652.7s] this bucket of leads goes here,
+[1652.7s - 1654.1s] this applicants go here,
+[1654.1s - 1655.4s] these leads go here.
+[1655.4s - 1656.8s] You get organized.
+[1656.8s - 1658.8s] So we just wrapped up the eighth stage,
+[1658.8s - 1660.6s] which is stage seven categorize,
+[1660.6s - 1663.7s] which then moves us into stage eight, specialize.
+[1663.7s - 1665.1s] All right, so specialize.
+[1665.1s - 1667.4s] This is when we really get into the big teams.
+[1667.4s - 1670.2s] We have 100 to 249 people.
+[1670.2s - 1672.1s] Your role is you're really president.
+[1672.1s - 1674.3s] You have four layers underneath of you,
+[1674.3s - 1676.7s] including a full blown executive team.
+[1676.7s - 1678.0s] So you've got an executive team,
+[1678.0s - 1679.1s] usually some directors,
+[1679.1s - 1681.0s] and then usually two levels of management underneath
+[1681.0s - 1682.4s] at a minimum.
+[1682.4s - 1683.8s] The number of companies here,
+[1683.8s - 1685.9s] only 900,000 companies.
+[1685.9s - 1687.7s] So less than a million even get here.
+[1687.7s - 1688.9s] So if you're watching this video
+[1688.9s - 1689.9s] and you are already here,
+[1689.9s - 1691.8s] you are already an exception to many.
+[1691.8s - 1693.9s] What does it look like for product at this stage?
+[1693.9s - 1696.3s] At this place, product has too many features
+[1696.3s - 1697.8s] and it starts to overwhelm customers.
+[1697.8s - 1700.0s] So it starts to be this like discombobulated thing
+[1700.0s - 1701.7s] that's like a Frankenstein
+[1701.7s - 1704.2s] that has accumulated over the years.
+[1704.2s - 1705.9s] And so in order to graduate here,
+[1705.9s - 1707.4s] we've got to survey our customers
+[1707.4s - 1709.2s] to understand what they really value.
+[1709.2s - 1710.4s] We've got to prune the product
+[1710.4s - 1712.2s] to take away the things they don't value,
+[1712.2s - 1713.6s] improve it through deletion.
+[1713.6s - 1714.8s] And then the things that we prune,
+[1714.8s - 1715.9s] they can become cross sells,
+[1715.9s - 1717.0s] they can become add-on,
+[1717.0s - 1719.1s] they can become things that people can buy on their own
+[1719.1s - 1720.6s] as additions to the core product.
+[1720.6s - 1721.8s] Which brings us to marketing.
+[1721.8s - 1724.0s] At this level, broader creative
+[1724.0s - 1725.6s] brings in lower quality leads
+[1725.6s - 1727.3s] and it dilutes the brand.
+[1727.3s - 1728.8s] And so our cap goes up again
+[1728.8s - 1730.3s] because of these two things.
+[1730.3s - 1731.6s] And so in order to graduate,
+[1731.6s - 1734.4s] we've got to grow the brand with standardized messaging,
+[1734.4s - 1738.4s] big free value and very big positive brand associations.
+[1738.4s - 1741.3s] So we start having to repeat our core messaging
+[1741.3s - 1743.8s] that we feel like got forgotten along the way,
+[1743.8s - 1745.2s] we have to hone in on that
+[1745.2s - 1746.0s] and we have to make sure
+[1746.0s - 1747.4s] that we are constantly giving
+[1747.4s - 1748.8s] and pouring into the audience
+[1748.8s - 1751.4s] rather than just continuing to extract from it.
+[1751.4s - 1753.4s] Then we go into sales, right?
+[1753.5s - 1755.3s] So right now, closing efficiency
+[1755.3s - 1758.0s] on the premium product drops, okay?
+[1758.0s - 1760.6s] And so in order to solve this and graduate,
+[1760.6s - 1762.8s] we wanna route the best leads, right?
+[1762.8s - 1764.4s] That are gonna buy the premium product
+[1764.4s - 1766.5s] to the best closers, okay?
+[1766.5s - 1767.7s] And then we wanna get in place,
+[1767.7s - 1769.7s] automated metrics tracking
+[1769.7s - 1771.6s] to make sure that we can track everything
+[1771.6s - 1773.2s] by closer, by product,
+[1773.2s - 1774.9s] to make sure that we are routing the best leads
+[1774.9s - 1776.0s] to the best closers.
+[1776.0s - 1777.2s] Now customer service.
+[1777.2s - 1779.0s] We have multiple customer journeys
+[1779.0s - 1780.6s] and they are conflicting
+[1780.6s - 1782.4s] or poorly timed with one another.
+[1782.4s - 1783.6s] So things are starting to route
+[1783.6s - 1785.8s] and they're starting to hit each other, right?
+[1785.8s - 1788.4s] And so we wanna create proactive recommendations
+[1788.4s - 1789.9s] to cross sell other stuff
+[1789.9s - 1792.2s] and a blended customer journey.
+[1792.2s - 1793.1s] So in the beginning,
+[1793.1s - 1794.9s] you had a customer journey for your first product,
+[1794.9s - 1795.8s] then for your second.
+[1795.8s - 1796.8s] Now you wanna have one
+[1796.8s - 1799.0s] that combines all the products into one
+[1799.0s - 1800.0s] so people understand
+[1800.0s - 1801.6s] where they interact with each other.
+[1801.6s - 1802.9s] That brings us to IT.
+[1802.9s - 1805.3s] So the department outgrows general software
+[1805.3s - 1808.6s] and needs specific solutions, okay?
+[1808.6s - 1811.1s] And so there's too many internal inquiries
+[1811.1s - 1813.1s] and there's no inquiry process
+[1813.1s - 1815.5s] and we don't have any departmental policies.
+[1815.5s - 1816.7s] So to graduate,
+[1816.7s - 1818.8s] we have to get specialized tech stacks
+[1818.8s - 1820.0s] for each department
+[1820.0s - 1822.7s] and create an internal inquiry process,
+[1822.7s - 1825.3s] AKA like a ticketing system for IT
+[1825.3s - 1827.4s] for each one of those tech stacks.
+[1827.4s - 1829.4s] Then we have to staff it up as needed
+[1829.4s - 1831.5s] and create departmental processes
+[1831.5s - 1833.2s] and service level agreements.
+[1833.2s - 1834.2s] Service level agreements
+[1834.2s - 1836.0s] are essentially understanding how long
+[1836.0s - 1837.5s] specific tasks take
+[1837.5s - 1839.9s] that the IT team does over and over again.
+[1839.9s - 1842.2s] Now, going into recruiting.
+[1842.2s - 1845.0s] Recruiters are holding inconsistent standards
+[1845.0s - 1847.1s] and your culture is suffering for that, right?
+[1847.1s - 1850.0s] The wrong candidates are getting too far in the process.
+[1850.0s - 1851.2s] And so what we need to do
+[1851.2s - 1854.0s] is standardize our selection process
+[1854.0s - 1856.4s] and have a founder final fit check.
+[1856.4s - 1858.8s] So I wanna make sure that we have a process
+[1858.8s - 1860.1s] for how we interview
+[1860.1s - 1862.0s] and a process for how we select
+[1862.0s - 1863.3s] so that we can protect ourselves
+[1863.3s - 1865.1s] against inconsistent standards.
+[1865.1s - 1866.8s] Human resources, what does that look like?
+[1866.8s - 1870.0s] We have so many new and existing employees,
+[1870.0s - 1871.6s] performance starts to suffer, right?
+[1871.6s - 1873.1s] Just due to volume
+[1873.1s - 1875.5s] and compliance issues and complaints start to go up.
+[1875.5s - 1878.6s] So you start to hear just negative HR stuff.
+[1878.6s - 1879.6s] And so what we wanna do
+[1879.6s - 1881.3s] is we wanna set up group onboarding,
+[1881.3s - 1882.8s] which you can solve with software
+[1882.8s - 1885.3s] as well as documented performance management.
+[1885.3s - 1886.6s] So we can bring on a system
+[1886.6s - 1887.8s] or a piece of technology
+[1887.8s - 1889.8s] to help us manage performance at this point,
+[1889.8s - 1892.7s] as well as getting employee liability insurance
+[1892.7s - 1895.2s] and we wanna reinforce our cultural values.
+[1895.2s - 1896.1s] At this point,
+[1896.1s - 1897.7s] the same problem that happens in marketing,
+[1897.7s - 1899.4s] which is that we have broad messaging,
+[1899.4s - 1902.1s] happens culturally, which we have broad messaging
+[1902.1s - 1903.0s] and it's not as potent.
+[1903.0s - 1905.1s] And so we want to reinforce the messaging,
+[1905.1s - 1906.6s] reinforce what built the company
+[1906.6s - 1907.8s] and make sure that it's getting through
+[1907.8s - 1909.6s] to all the employees at every layer.
+[1909.6s - 1912.5s] And then lastly, we have finance, finance,
+[1912.5s - 1916.1s] which is you're still paying retail for everything, okay?
+[1916.1s - 1918.0s] And you're getting overcharged, right?
+[1918.0s - 1919.1s] Your cash is unprotected
+[1919.1s - 1920.9s] and you're not getting any returns on it.
+[1920.9s - 1923.0s] And so we wanna renegotiate rates on everything.
+[1923.0s - 1924.4s] You're the big dog now, right?
+[1924.4s - 1925.8s] Okay, there's only so many companies
+[1925.8s - 1926.7s] that get to this level.
+[1926.7s - 1929.4s] You should get special treatment at this point in time.
+[1929.4s - 1930.6s] And you wanna make sure
+[1930.6s - 1933.0s] that you are getting special finance roles, right?
+[1933.0s - 1934.3s] Especially like tax
+[1934.3s - 1936.3s] to make sure that we are mitigating risk.
+[1936.3s - 1937.7s] And so we're starting to specialize
+[1937.7s - 1939.0s] our roles at this point in time.
+[1939.0s - 1940.4s] And internally, we wanna make sure
+[1940.4s - 1941.8s] that we are auditing our financials
+[1941.8s - 1943.2s] on a consistent basis.
+[1943.2s - 1944.4s] This could be a yearly audit
+[1944.4s - 1946.4s] that you do from an external firm
+[1946.4s - 1948.4s] because at this point in time, we are unprotected
+[1948.4s - 1949.3s] and we need to make sure
+[1949.3s - 1951.3s] that we have a third party protecting us,
+[1951.3s - 1953.0s] looking out for us on our behalf
+[1953.0s - 1955.2s] because unfortunately, a lot of the things that occur
+[1955.2s - 1958.1s] that go wrong in finance happen internally, not externally.
+[1958.1s - 1961.0s] And so the bottom line is that no one is good enough
+[1961.0s - 1962.7s] to know everything, right?
+[1962.7s - 1964.6s] So we wanna create dedicated people
+[1964.6s - 1966.9s] and teams for specific tasks.
+[1966.9s - 1969.0s] So we just wrapped up the ninth stage,
+[1969.0s - 1971.0s] which is stage eight, specialize.
+[1971.0s - 1973.6s] And so we will move to the last stage,
+[1973.6s - 1975.0s] which is capitalize.
+[1975.0s - 1976.7s] All right, so stage nine
+[1976.7s - 1979.4s] of the $100 million scaling roadmap.
+[1979.4s - 1981.2s] So now you're past 250,
+[1981.2s - 1982.9s] all the way up to 500 in head count.
+[1982.9s - 1985.5s] Your role, you go from president to chairman.
+[1985.5s - 1988.8s] Now you've got basically product leaders,
+[1988.8s - 1990.3s] division leaders, CEOs,
+[1990.3s - 1992.4s] the terminology will change between companies,
+[1992.4s - 1994.5s] but you basically have these little mini businesses
+[1994.5s - 1997.4s] that are all revenue lines that sit in one conglomeration
+[1997.4s - 1998.3s] that you're in charge of
+[1998.3s - 2000.2s] and you're fundamentally allocating resources
+[2000.2s - 2001.6s] between these divisions.
+[2001.6s - 2004.0s] And the number of companies here is 300,000.
+[2004.0s - 2008.0s] So it's 0.001% of companies who start here
+[2008.0s - 2009.5s] actually end up making it to this point.
+[2009.5s - 2012.1s] So kudos to you, it's a very big accomplishment.
+[2012.1s - 2013.7s] So the constraint for product at this level
+[2013.7s - 2016.4s] is that changes to successful products, AKA cash cows.
+[2016.4s - 2017.8s] This is the main thing that made you money.
+[2017.8s - 2018.8s] This will made you famous.
+[2018.8s - 2020.5s] This is what built the business
+[2020.5s - 2023.6s] that changes to it at this point, just make it worse.
+[2023.6s - 2026.5s] So the problem is you still need to make new stuff
+[2026.5s - 2028.3s] to grow, but you can't change your main thing.
+[2028.3s - 2029.4s] And so to graduate,
+[2029.4s - 2031.3s] you wanna find your next rising star.
+[2031.3s - 2033.2s] And so you either have to buy it through M&A,
+[2033.2s - 2034.2s] mergers and acquisitions,
+[2034.2s - 2035.6s] or you wanna build it through R&D,
+[2035.6s - 2036.8s] so research and development.
+[2036.8s - 2038.7s] And you start need to start thinking
+[2038.7s - 2040.4s] one, two, three years out of like,
+[2041.0s - 2043.3s] what's the bet that I'm gonna make with the product
+[2043.3s - 2044.8s] so that I have that thing ready
+[2044.8s - 2046.0s] right as the market needs it?
+[2046.0s - 2048.0s] Because at this point, you're so big
+[2048.0s - 2049.5s] that for someone to move the needle for you,
+[2049.5s - 2050.6s] you gotta capture a market.
+[2050.6s - 2052.0s] You gotta capture a whole trend.
+[2052.0s - 2053.2s] Marketing at this level,
+[2053.2s - 2055.4s] your lead attribution by channel becomes very difficult
+[2055.4s - 2056.8s] because you're marketing all over the place.
+[2056.8s - 2057.6s] You're getting leads everywhere
+[2057.6s - 2058.9s] for different types of products,
+[2058.9s - 2060.4s] different types of salespeople.
+[2060.4s - 2062.4s] And platform and regulatory compliance
+[2062.4s - 2063.7s] starts to become an issue as well.
+[2063.7s - 2064.6s] And so to graduate,
+[2064.6s - 2066.8s] you shift to brand first advertising
+[2066.8s - 2068.9s] with an omni-channel approach
+[2068.9s - 2071.8s] with blended ROAS across products
+[2071.8s - 2073.6s] and you install compliance process.
+[2073.6s - 2075.6s] So basically, it's like, okay,
+[2075.6s - 2077.7s] we're gonna spend a million dollars every month, fine.
+[2077.7s - 2079.5s] All right, well, how much of that is top of funnel?
+[2079.5s - 2080.5s] How much of that is awareness?
+[2080.5s - 2082.2s] How much of that is brand sponsorships?
+[2082.2s - 2083.7s] How many of those things are collaborations?
+[2083.7s - 2085.6s] How much of that is investment into things
+[2085.6s - 2088.3s] that our customers will love and know about
+[2088.3s - 2091.7s] relative to just arbitraging the ROAS of direct response,
+[2091.7s - 2092.6s] conversion optimization?
+[2092.6s - 2095.0s] So we gotta go bigger picture at this level.
+[2095.0s - 2096.8s] Sales, so the constraint here
+[2096.8s - 2098.4s] is that there's too many leads and products
+[2098.4s - 2099.8s] for any one type of salesperson.
+[2099.8s - 2101.0s] You got way too much stuff going on.
+[2101.0s - 2102.3s] You can't just feed leads to sales guys
+[2102.3s - 2103.2s] because there's too many things
+[2103.2s - 2104.4s] for any one salesperson to learn.
+[2104.4s - 2105.3s] And so to graduate,
+[2105.3s - 2108.3s] salespeople specialize in selling different products
+[2108.3s - 2111.1s] to different leads using different processes
+[2111.1s - 2113.7s] and sometimes even in different territories.
+[2113.7s - 2115.6s] And so if you have, let's say,
+[2115.6s - 2117.4s] you're a direct consumer and then you have wholesalers,
+[2117.4s - 2119.4s] that would be a second completely different thing.
+[2119.4s - 2121.7s] And the wholesalers might be by territory, right?
+[2121.7s - 2124.2s] And so you're gonna have different entire salespeople
+[2124.2s - 2126.3s] for processes, for different products,
+[2126.3s - 2127.6s] for different prospects.
+[2127.6s - 2130.0s] So the constraint for customer service at this level
+[2130.0s - 2132.3s] is that support for very new offerings
+[2132.3s - 2133.8s] is breaking due to high volume.
+[2133.8s - 2135.2s] I mean, you got a lot of stuff going on.
+[2135.2s - 2136.3s] All right, and so to graduate,
+[2136.3s - 2139.7s] you have to start triaging to specialize CS reps
+[2139.7s - 2142.3s] to improve efficiency and shorten training.
+[2142.3s - 2144.0s] And this is a common theme for both of these
+[2144.0s - 2146.4s] is that you can't, no one can know enough.
+[2146.4s - 2147.9s] Like you can't get somebody onboarded
+[2147.9s - 2149.5s] and they have to learn the wholesale sales process
+[2149.5s - 2151.0s] and the prospect and the product.
+[2151.0s - 2153.2s] And also the direct to consumer process
+[2153.2s - 2155.1s] and prospects and sales group is too much.
+[2155.1s - 2156.2s] Same thing on the CS side.
+[2156.2s - 2157.6s] They can't service all these different types
+[2157.6s - 2159.3s] of customers, so you start specializing in those.
+[2159.3s - 2162.6s] IT at this level, the old tech stack is now insufficient.
+[2162.6s - 2165.0s] So you're like, wait, two steps ago, I got a new one.
+[2165.0s - 2167.5s] Well, at this point, it's probably been a few years
+[2167.5s - 2170.3s] and you know what, it probably needs to get updated.
+[2170.3s - 2172.0s] And departments also demand new
+[2172.0s - 2173.9s] and even more specialized solutions.
+[2173.9s - 2176.3s] So to graduate, you hire more specialized tech roles
+[2176.3s - 2177.6s] for each major tech function
+[2177.6s - 2180.1s] with updated and segmented tech stacks.
+[2180.1s - 2183.6s] And you may need a new ERP or enterprise level software
+[2183.6s - 2185.6s] to kind of try and tie all these different,
+[2185.6s - 2187.6s] disparate systems together.
+[2187.6s - 2189.9s] And so in the last section, the IT is like,
+[2189.9s - 2192.5s] okay, we maybe got one person to support this new tech.
+[2192.5s - 2194.6s] Now you almost have these mini departments
+[2194.6s - 2196.5s] that have to support entire departments
+[2196.5s - 2199.0s] of these new technologies that you're putting into place.
+[2199.0s - 2201.7s] And so the constraint now leads to marketing.
+[2201.7s - 2203.4s] So the best talent doesn't respond
+[2203.4s - 2204.4s] to standard recruiting efforts
+[2204.4s - 2206.7s] from anyone besides the CEO or founder.
+[2206.7s - 2208.7s] And to be clear, you're still gonna be recruiting
+[2208.7s - 2209.6s] like your normal thing.
+[2209.6s - 2211.1s] You're still gonna have individual contributors,
+[2211.1s - 2212.5s] managers, directors, et cetera,
+[2212.5s - 2214.3s] but the best talent in the world,
+[2214.3s - 2216.8s] the people who can really take you to the next level,
+[2216.8s - 2218.3s] they're only responding to you.
+[2218.3s - 2220.5s] And so to graduate, the founder has to start
+[2220.5s - 2222.5s] directly attracting the highest level roles
+[2222.5s - 2223.7s] and they have to sell them.
+[2223.7s - 2225.6s] You have to sell these stars
+[2225.6s - 2227.7s] on why they should help you build your company
+[2227.7s - 2228.6s] and your vision.
+[2228.6s - 2230.8s] And this is where sometimes it's six months,
+[2230.8s - 2233.0s] 12 months plus of courting someone
+[2233.0s - 2235.4s] to get them to switch their entire world over
+[2235.4s - 2236.5s] to your business.
+[2236.5s - 2238.6s] For human resources to support that,
+[2238.6s - 2240.3s] so that huge amount of growth
+[2240.3s - 2241.8s] that somebody like that can bring on,
+[2241.8s - 2242.9s] churn is gonna increase.
+[2243.8s - 2244.8s] You know customer churn?
+[2244.8s - 2246.2s] Well, when you got 250 employees,
+[2246.2s - 2247.7s] you might lose 5%.
+[2247.7s - 2249.5s] It's like, oh wait, holy cow.
+[2249.5s - 2250.8s] So we're losing between 12 and a half
+[2250.8s - 2253.4s] and 25 people every single month.
+[2253.4s - 2254.2s] Oh my God.
+[2254.2s - 2256.0s] So we have to recruit 25 people
+[2256.0s - 2257.4s] just to break even on our churn.
+[2257.4s - 2258.8s] So this becomes an issue.
+[2258.8s - 2260.5s] And you don't have the right people
+[2260.5s - 2261.6s] who you need to grow.
+[2261.6s - 2264.8s] So this is where we create strategic workforce planning.
+[2264.8s - 2266.0s] So this just fancy word
+[2266.0s - 2269.0s] for basically forecasting out the people side of growth.
+[2269.0s - 2270.4s] And so it's like, okay,
+[2270.4s - 2272.6s] what kind of capacity are we gonna have?
+[2272.6s - 2273.8s] Who do we need to backfill?
+[2273.8s - 2276.2s] Where are the skill gaps within our company?
+[2276.2s - 2278.0s] What kind of redundancies do we want?
+[2278.0s - 2279.6s] What kind of redundancies do we not want?
+[2279.6s - 2281.0s] Can we shift people around?
+[2281.0s - 2284.2s] And a lot of times we're gonna go from generalists
+[2284.2s - 2286.1s] to, before this we had some specialists,
+[2286.1s - 2287.9s] now to hyper-specialization.
+[2287.9s - 2288.9s] Because in general,
+[2288.9s - 2290.4s] the more specialized the labor,
+[2290.4s - 2291.8s] the more productive it is,
+[2291.8s - 2293.3s] but it just takes a lot of volume
+[2293.3s - 2295.0s] to be able to get somebody to do one ticket
+[2295.0s - 2296.5s] all day long.
+[2296.5s - 2297.7s] And you can't do that in the beginning.
+[2297.7s - 2299.8s] But when you have scale, you can.
+[2299.8s - 2301.4s] And so finance at this level
+[2301.4s - 2302.7s] from a constraint perspective,
+[2302.7s - 2304.4s] is that your finances aren't legit enough
+[2304.4s - 2305.9s] to get other people to give you money.
+[2305.9s - 2307.3s] So think about this in terms of raising money,
+[2307.3s - 2309.5s] borrowing money, or getting bought,
+[2309.5s - 2310.8s] like selling some of your equity.
+[2310.8s - 2312.9s] And you do all of that stuff so that,
+[2312.9s - 2314.8s] or you wanna consider doing some of that stuff,
+[2314.8s - 2316.4s] so that you can make a big investment
+[2316.4s - 2319.4s] into that rising star through M&A or R&D,
+[2319.4s - 2321.0s] like we talked about earlier in product.
+[2321.0s - 2322.1s] And so to graduate,
+[2322.1s - 2324.2s] you go through what we call prep for sale,
+[2324.2s - 2326.0s] which is you get a quality of earnings,
+[2326.0s - 2328.0s] you talk to investment bankers,
+[2328.0s - 2328.8s] they tell you all the things
+[2328.8s - 2329.8s] that are wrong with your business,
+[2329.9s - 2331.6s] you get your capital structure audited,
+[2331.6s - 2332.5s] you look at your entities,
+[2332.5s - 2334.5s] you get legal people to look at that.
+[2334.5s - 2336.3s] And then sometimes you consider making,
+[2336.3s - 2337.8s] hedging your big investments,
+[2337.8s - 2339.3s] so that when you expand,
+[2339.3s - 2341.0s] you can actually smooth out your profit curve,
+[2341.0s - 2342.6s] depending on market trends
+[2342.6s - 2344.2s] or different prices for commodities
+[2344.2s - 2346.2s] that might relate to your business.
+[2346.2s - 2348.7s] And so at this point, you can just say,
+[2348.7s - 2349.9s] cool, I'm professional enough
+[2349.9s - 2352.0s] that I've got this credit line of 20 million bucks,
+[2352.0s - 2353.9s] and I can go do something big,
+[2353.9s - 2356.4s] or it's just good to have it in your back pocket,
+[2356.4s - 2357.8s] because when you clean up your house,
+[2357.8s - 2359.7s] it always just makes the house better.
+[2360.5s - 2362.1s] And so the bottom line at the capitalized stage
+[2362.1s - 2363.4s] is that you're not sure
+[2363.4s - 2365.0s] where the next big growth comes from.
+[2365.0s - 2366.3s] For you to get to the next level of growth,
+[2366.3s - 2367.1s] you got to make a big,
+[2367.1s - 2368.0s] like you got to make a,
+[2368.0s - 2369.3s] you got to capture another big market,
+[2369.3s - 2370.7s] you got to get a new product
+[2370.7s - 2372.8s] that's really going to capitalize
+[2372.8s - 2375.6s] on all the resources that you have at your disposal.
+[2375.6s - 2376.5s] And so to graduate,
+[2376.5s - 2378.2s] you make your big bet on the future.
+[2378.2s - 2380.1s] And so we just went from
+[2380.1s - 2381.1s] zero
+[2382.2s - 2383.0s] to hero
+[2383.9s - 2385.8s] in one video.
+[2385.8s - 2387.3s] And so the remainder of the videos
+[2387.3s - 2390.0s] give deeper dives into each stage.
+[2390.0s - 2391.9s] And if you want your own customized
+[2391.9s - 2393.9s] $100 million scaling roadmap,
+[2393.9s - 2395.5s] which I was referencing earlier,
+[2395.5s - 2397.8s] you can click below this video on the button.
+[2397.8s - 2399.0s] I'm not sure if it'll say that,
+[2399.0s - 2401.0s] but if you have a business,
+[2401.0s - 2402.8s] then you will be able to figure it out.
+[2402.8s - 2405.2s] And so we make these customized scaling roadmaps
+[2405.2s - 2406.7s] for you that break down
+[2406.7s - 2408.6s] the things you should look out for at this stage,
+[2408.6s - 2411.0s] what you should already have finished by this point,
+[2411.0s - 2413.1s] and what's coming up next.
+[2413.1s - 2413.9s] All right?
+[2413.9s - 2414.9s] And so we do this for you
+[2414.9s - 2416.3s] so that hopefully we can transfer
+[2416.3s - 2418.5s] as many of the lessons as we've learned
+[2418.5s - 2420.8s] throughout our careers and our portfolio companies
+[2420.8s - 2421.7s] and the thousands of companies
+[2421.7s - 2423.9s] that we've looked at over the years to you.
+[2423.9s - 2426.4s] So hopefully you can grow faster and save the world.
+[2426.4s - 2427.2s] All right?
+[2427.2s - 2428.3s] And so reminder,
+[2428.3s - 2431.1s] we recommend just using the roadmap to navigate.
+[2431.1s - 2432.6s] Otherwise, you may end up wasting time
+[2432.6s - 2434.4s] learning about things that aren't relevant yet.
+[2434.4s - 2435.6s] So I don't want you,
+[2435.6s - 2437.4s] you know, if you've got a 40 person business,
+[2437.4s - 2438.7s] like don't go through the first three steps.
+[2438.7s - 2439.6s] It's about like getting
+[2439.6s - 2441.2s] your first payment processor in place, right?
+[2441.2s - 2442.0s] And at the same point,
+[2442.0s - 2443.7s] you might not want to go to 250 to 500
+[2443.7s - 2445.6s] because all the stuff is going to be deep dive
+[2445.6s - 2448.0s] on the types of compliance that you have to look at
+[2448.0s - 2449.1s] and you don't want to deal with that.
+[2449.1s - 2450.0s] All right?
+[2450.0s - 2451.4s] So just try and stick to where you're at
+[2451.4s - 2453.0s] because that's fundamentally the only thing
+[2453.0s - 2455.2s] you need to focus on to get to the next level.
+[2455.2s - 2456.1s] All right?
+[2456.1s - 2457.0s] And so next up,
+[2457.0s - 2458.6s] we're going to go into the video
+[2458.6s - 2460.2s] that hopefully if you're watching this,
+[2460.2s - 2461.3s] the next one isn't going to be,
+[2461.3s - 2463.3s] unless you happen to be at zero, right?
+[2463.3s - 2465.4s] It's going to be the one that is specific to you.
+[2465.4s - 2466.7s] So go click that button,
+[2466.7s - 2469.5s] get the customized scaling framework
+[2469.5s - 2471.9s] and click the video that is your stage
+[2471.9s - 2473.2s] and go to that one next.

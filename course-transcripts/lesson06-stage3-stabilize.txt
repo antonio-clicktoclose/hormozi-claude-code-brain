@@ -1,0 +1,1110 @@
+[0.0s - 4.2s] All right, so we just concluded level.
+[4.2s - 5.5s] This is the third level up.
+[5.5s - 7.5s] Now we're getting into the fourth level up,
+[7.5s - 8.3s] which is level three.
+[8.3s - 9.8s] That seems weird, but we started at zero.
+[9.8s - 12.2s] So anyways, we're getting into one to four employees.
+[12.2s - 14.2s] Theme is stabilize.
+[14.2s - 16.5s] All right, and so the head count here is one to four.
+[16.5s - 19.1s] Your role now transitions into trainer
+[19.1s - 20.1s] because then you got four people.
+[20.1s - 21.2s] They don't know what they're doing
+[21.2s - 23.0s] and you got to train them, right?
+[23.0s - 25.3s] The leadership structure is this is your first team
+[25.3s - 26.1s] of full-time hires.
+[26.1s - 28.1s] It's your first small team that's like you
+[28.1s - 29.8s] and you're three people, four people,
+[29.8s - 31.8s] and you're like, okay, we're just getting things going, right?
+[31.8s - 33.4s] The number of companies that are here,
+[33.4s - 35.9s] notice the massive drop off from before.
+[35.9s - 37.2s] So the number of companies
+[37.2s - 41.3s] that have just one full-time employee or more is 24%.
+[41.3s - 43.6s] So remember, 9% of people have a business to begin with
+[43.6s - 44.4s] that makes a dollar.
+[44.4s - 47.3s] Now cut that by like 25% of that.
+[47.3s - 51.5s] So one out of four of those, one out of 11,
+[51.5s - 52.7s] actually have another employee.
+[52.7s - 54.0s] And so if you even have one employee,
+[54.0s - 55.8s] you're already in the top percent of percent.
+[55.8s - 58.6s] And so I say this just as an encouragement to you
+[58.6s - 60.9s] that like, you're not as far back as you think you are.
+[60.9s - 63.1s] And even though there's Gap, you know, Gaple,
+[63.1s - 65.6s] there's Apple and Google and Tesla
+[65.6s - 66.7s] and some of these monster companies,
+[66.7s - 67.5s] there's so few of them.
+[67.5s - 68.7s] There's seven of them right now
+[68.7s - 71.4s] that are the magnificent seven out of 30 million
+[71.4s - 72.2s] businesses.
+[72.2s - 73.5s] And so I say that you're probably doing better
+[73.5s - 74.4s] than you think you are.
+[74.4s - 76.4s] All right, so with that being said,
+[76.4s - 79.9s] let's kick off product at the stabilized level
+[79.9s - 81.2s] with Layla.
+[81.2s - 83.0s] So product is the good services
+[83.0s - 84.8s] or results that you deliver, right?
+[84.8s - 86.2s] And so the constraint right now
+[86.2s - 88.8s] is that volume creates cracks, okay?
+[88.8s - 90.1s] And then you have no time
+[90.1s - 92.0s] to fix all the things that are wrong, okay?
+[92.0s - 93.6s] And so in order to graduate,
+[93.6s - 97.3s] you have to fix the thing they complain about the most
+[97.3s - 100.8s] or create the highest activation throughput, okay?
+[100.8s - 101.9s] So what does that mean?
+[101.9s - 102.8s] So what you wanna do
+[102.8s - 105.2s] is you wanna look at your list of feedback
+[105.2s - 106.4s] from your last stage.
+[106.4s - 107.9s] You were collecting a list of all the things
+[107.9s - 108.9s] that created friction,
+[108.9s - 110.0s] creating a list of all the things
+[110.0s - 111.8s] that were hidden costs, okay?
+[111.8s - 113.6s] Now what you wanna do is prioritize
+[113.6s - 114.8s] the things that you can fix
+[114.8s - 117.4s] by return on investment, okay?
+[117.4s - 118.5s] What does that mean?
+[118.5s - 120.6s] It means that what are you gonna get the most bang
+[120.6s - 123.0s] for your buck for if you fix it, okay?
+[123.0s - 125.2s] This is actually it's strategy of business,
+[125.2s - 127.1s] which is like we put our resources,
+[127.1s - 129.2s] aka our time, money, people, et cetera,
+[129.2s - 131.4s] towards the thing that's gonna give us the most return.
+[131.4s - 134.0s] How big of an effect will this have on the product?
+[134.0s - 136.4s] What's the investment to do it, time and resources?
+[136.4s - 138.5s] And what's the likelihood it works?
+[138.5s - 140.8s] Does this look similar to the value equation, right?
+[140.8s - 142.1s] Because what we're trying to do
+[142.1s - 144.0s] is figure out what thing, if fixed,
+[144.0s - 147.8s] creates the most value for the business by proxy,
+[147.8s - 149.5s] doing it for the customer.
+[149.5s - 152.8s] And so what we're gonna do is we're gonna take that list
+[152.8s - 156.0s] and we're gonna force rank it using this framework,
+[156.0s - 157.4s] right, in that order.
+[157.4s - 160.7s] If you're not sure, think about it like this.
+[160.7s - 163.2s] What's the reason that they cancel or leave?
+[163.2s - 164.4s] What's the number one reason
+[164.4s - 165.6s] that they're canceling or leaving?
+[165.6s - 168.0s] And that thing can be number one.
+[168.0s - 169.7s] So if you wanna just cut through all this,
+[169.7s - 171.1s] if you're like return on investment and value,
+[171.1s - 172.2s] I have no freaking idea.
+[172.2s - 173.5s] Cool, why are they leaving?
+[173.5s - 175.4s] Let's just fix that, right?
+[175.4s - 178.2s] So if, for example, people are leaving
+[178.2s - 180.1s] because they're saying that you're too slow to respond,
+[180.1s - 181.8s] we have to figure out something
+[181.8s - 183.8s] to make it fast to respond, right?
+[183.8s - 184.8s] Maybe it's a platform you need,
+[184.8s - 186.6s] maybe it's visibility, whatever it might be, right?
+[186.6s - 187.6s] Or you hire somebody.
+[187.6s - 189.1s] Or you hire somebody, right.
+[189.1s - 190.1s] And here's the thing.
+[190.1s - 193.5s] Longer term, we're gonna reverse engineer activation.
+[193.5s - 197.5s] Activation is the point at which somebody receives value
+[197.5s - 199.7s] or engages with the product to get value
+[199.7s - 201.4s] from the product, service, or result.
+[201.4s - 203.2s] So an example of that might be, you know,
+[203.8s - 204.9s] in GymLaunch, for example,
+[204.9s - 206.6s] we might say that activation
+[206.6s - 208.0s] with our last company, GymLaunch,
+[208.0s - 212.0s] was when somebody got on their first call with a coach.
+[212.0s - 213.8s] And so it's like their activation
+[213.8s - 215.6s] was like the first time they're getting value,
+[215.6s - 217.1s] the first time they're engaging with the product
+[217.1s - 219.8s] is their first call with a coach who's on our team.
+[219.8s - 221.0s] And when you think about activation,
+[221.0s - 222.2s] there's two things that you can think about.
+[222.2s - 224.6s] So one is, what are the things that occur?
+[224.6s - 225.5s] And then the other is,
+[225.5s - 226.8s] what are the behaviors that they took?
+[226.8s - 228.1s] All right, so you can look at both of those things.
+[228.1s - 230.6s] So the thing that occurred was for us,
+[230.6s - 232.0s] if they made a sale in their first week
+[232.0s - 233.6s] from the leads that we helped them generate,
+[233.6s - 234.8s] that would be a big activation.
+[234.8s - 236.5s] That's very likely that they'd stay
+[236.5s - 237.7s] and continue to pay with us.
+[237.7s - 239.7s] On the experiential side, things that they did,
+[239.7s - 241.6s] well, what are the things that create that outcome?
+[241.6s - 244.0s] Well, the people who attend the call with the first coach
+[244.0s - 247.0s] to get them started on their ads
+[247.0s - 247.8s] and make sure that their coach
+[247.8s - 249.7s] threw their first sale on how to work the leads,
+[249.7s - 251.7s] then that would be a leading indicator
+[251.7s - 252.7s] to them getting the sale.
+[252.7s - 254.6s] So you can break it into both sides
+[254.6s - 256.5s] and thinking in terms of thinking about activation.
+[256.5s - 257.7s] And so what that looks like,
+[257.7s - 258.8s] you can look at this framework,
+[258.8s - 260.4s] which we call the Rice framework, right?
+[260.4s - 263.2s] Reach, impact, confidence, expense.
+[263.2s - 265.7s] Okay, so up here, we have things with the highest impact,
+[265.7s - 268.0s] but also the highest investment, right?
+[268.0s - 269.7s] They're cost us so much money.
+[269.7s - 271.6s] Below that, we have things that are low impact,
+[271.6s - 273.1s] but high investment, right?
+[273.1s - 275.4s] So it's like, they're not gonna return much for us
+[275.4s - 278.1s] and they also cost a lot of money, gross.
+[278.1s - 280.0s] Over here, we have things that are high impact,
+[280.0s - 281.1s] but low investment.
+[281.1s - 282.8s] We like things like this,
+[282.8s - 285.6s] things that cost very little money, time, resources,
+[285.6s - 288.2s] and create a lot of return for our customers and product.
+[288.2s - 289.8s] And then below that, we have things that are low impact,
+[289.8s - 291.6s] but low investment, which are just kind of like,
+[291.6s - 293.2s] I would say like golden BBs.
+[293.2s - 296.2s] And so what we wanna do is like the upper left
+[296.2s - 299.9s] is the most important to do better, not more, okay?
+[299.9s - 302.2s] So we wanna do better with the upper left,
+[302.2s - 303.4s] not more of it.
+[303.4s - 305.3s] The obvious thing you're gonna do is like,
+[305.3s - 307.6s] I'm gonna do all the things that make big impact
+[307.6s - 308.7s] that are low investment.
+[308.7s - 310.0s] This seems obvious.
+[310.0s - 312.2s] And the thing is, is that because it's so obvious,
+[312.2s - 314.4s] most of the times people have already done these.
+[314.4s - 316.2s] And so most of the time, this box is almost,
+[316.2s - 318.1s] now, if there is something that magically appears there,
+[318.1s - 319.4s] obviously you do that first.
+[319.4s - 322.5s] But if you've kind of used up all the very simple solutions
+[322.5s - 325.4s] that have high impact, you're kind of left with these.
+[325.4s - 326.7s] And so here's the issue,
+[326.7s - 329.9s] is that sometimes you might love redesigning your website,
+[329.9s - 331.6s] but it might do absolutely nothing.
+[331.6s - 334.0s] And so so many entrepreneurs stay stuck in here,
+[334.0s - 337.9s] or they just basically do what I would consider B-
+[337.9s - 339.0s] and C-plus tasks.
+[339.0s - 340.6s] Like it's stuff to do.
+[340.6s - 342.8s] It's not really gonna move the needle.
+[342.8s - 344.8s] But because they can do it really quickly,
+[344.8s - 346.0s] they get a fast feedback loop.
+[346.0s - 346.8s] So they're like, oh, you know what?
+[346.8s - 348.3s] I've got six things to do today.
+[348.3s - 349.9s] I'm gonna get some momentum,
+[349.9s - 351.4s] get some quick wins for the day,
+[351.4s - 353.4s] but they never actually get to the heavy win.
+[353.4s - 355.1s] And so for weeks and months on end,
+[355.1s - 357.3s] they never actually do anything substantive.
+[357.3s - 359.3s] And so the best entrepreneurs that I know
+[359.3s - 361.1s] and the things that have made huge material impact
+[361.1s - 363.3s] in terms of the speed that our companies have grown
+[363.3s - 365.0s] has been ruthlessly prioritizing.
+[365.0s - 368.1s] Okay, now we have three things in this high impact,
+[368.1s - 369.4s] high investment box.
+[369.4s - 370.8s] Of those three things,
+[370.8s - 373.7s] which one is the biggest impact that we can make?
+[373.7s - 374.6s] And you know what?
+[374.6s - 376.0s] It's usually a big hairy problem.
+[376.0s - 377.7s] It's usually got lots of variables
+[377.8s - 378.6s] attached to it.
+[378.6s - 380.3s] It's got two or three departments it's gonna touch.
+[380.3s - 381.7s] But if you really wanna make a difference,
+[381.7s - 384.1s] if you really want to set yourself apart
+[384.1s - 386.0s] from the other businesses in your space,
+[386.0s - 388.8s] those big hairy problems are typically the opportunity.
+[388.8s - 391.0s] And so I like to give myself a little money tag saying,
+[391.0s - 393.1s] okay, if I solve this big problem,
+[393.1s - 394.6s] how much do I get paid?
+[394.6s - 396.5s] Because if we saw, let's say we cut churn in half
+[396.5s - 397.8s] and we're gonna do it in this one big way
+[397.8s - 398.8s] that we have a high,
+[398.8s - 400.5s] we think is a high predictor that it's gonna happen.
+[400.5s - 403.3s] Okay, well, I might get paid $20 million.
+[403.3s - 405.7s] All of a sudden, I'd be like, you know what?
+[405.7s - 406.9s] This is kind of worth it.
+[407.0s - 408.6s] Frames in reference,
+[408.6s - 409.7s] the effort that I have to put
+[409.7s - 411.0s] relative to what I'm gonna get back for it.
+[411.0s - 412.7s] So just doing that in a vacuum
+[412.7s - 413.9s] sometimes can feel really disheartening
+[413.9s - 414.8s] because you're like, man,
+[414.8s - 416.1s] I just have to keep working and working
+[416.1s - 417.6s] and someday be able to get it.
+[417.6s - 419.5s] But at least if you quantify
+[419.5s - 421.0s] how much you think you're actually gonna get
+[421.0s - 423.5s] in terms of enterprise value lift or profit boost,
+[423.5s - 425.2s] it makes a huge impact at least for me
+[425.2s - 426.7s] and my motivation to continue.
+[426.7s - 427.8s] At this point in time,
+[427.8s - 429.1s] you don't have that many resources
+[429.1s - 432.0s] and so you wanna prioritize fewer, bigger wins.
+[432.0s - 433.7s] That's the main theme of this.
+[433.7s - 435.0s] Once you have a big team,
+[435.0s - 438.7s] doing things that are low investment, high impact
+[438.7s - 440.0s] and low impact, low investment,
+[440.0s - 441.6s] those are things that you can delegate to your team.
+[441.6s - 442.8s] But like right now,
+[442.8s - 444.4s] it's just you and maybe a couple of people.
+[444.4s - 446.4s] It's like we wanna focus on the biggest bang for our buck.
+[446.4s - 448.4s] And so at this point,
+[448.4s - 449.3s] we started with product
+[449.3s - 451.4s] that we had no time to fix everything that's wrong.
+[451.4s - 453.7s] So then we fixed the thing they complained about the most.
+[453.7s - 455.9s] Now we move on to marketing.
+[455.9s - 457.5s] So we gotta tell people about our stuff
+[457.5s - 458.8s] and how it's better.
+[458.8s - 461.0s] And so now we're stabilizing.
+[461.0s - 463.1s] So the constraint is that leads aren't buying fast enough
+[463.1s - 464.8s] because they're colder than your first prospects.
+[465.7s - 466.6s] So from the beginning,
+[466.6s - 467.4s] you reached out to people who knew you,
+[467.4s - 468.2s] reached out to your warm network,
+[468.2s - 469.2s] maybe you made some posts
+[469.2s - 470.4s] and you got some initial customers.
+[470.4s - 473.0s] But now you kind of like exhausted that pool.
+[473.0s - 474.3s] And so to graduate,
+[474.3s - 476.0s] the thing that I like to add at this level
+[476.0s - 477.6s] is long-term nurture
+[477.6s - 478.7s] because everybody's colder now.
+[478.7s - 480.7s] So it's basically like we have to expand
+[480.7s - 482.9s] the size of our warm pool.
+[482.9s - 487.6s] And so you do that through email and or content.
+[487.6s - 488.7s] And so this is what this looks like
+[488.7s - 491.1s] is that you start installing an email cadence.
+[491.1s - 493.6s] So I think best is three times a week segmented.
+[494.1s - 495.1s] That's the super extreme.
+[495.1s - 496.5s] You might be a little bit earlier on that.
+[496.5s - 498.6s] And so the worst or the minimum would just be
+[498.6s - 501.2s] just send one blast to the entire list once a week.
+[501.2s - 502.4s] Just to show that you're alive,
+[502.4s - 503.4s] that you're top of mind
+[503.4s - 504.8s] and just keep it value driven.
+[504.8s - 505.6s] And in the next slide,
+[505.6s - 506.4s] I'll show you a full breakdown
+[506.4s - 508.4s] of how I structure those emails.
+[508.4s - 510.4s] But these are the bullets.
+[510.4s - 511.2s] You have a subject,
+[511.2s - 512.8s] you have some quick hit of value
+[512.8s - 514.5s] to reward them for opening.
+[514.5s - 515.6s] You have some tactical value
+[515.6s - 517.2s] about whatever it is that you sell.
+[517.2s - 518.7s] Then you have some sort of call to action
+[518.7s - 519.5s] that can be like,
+[519.5s - 520.8s] by the way, if you want more help with this,
+[520.8s - 522.4s] by the way, if you want a personalized thing,
+[522.4s - 523.8s] by the way, if you want a personalized plan
+[523.8s - 525.2s] for us walking you through this,
+[525.2s - 528.8s] we've got a custom scaling framework you can check out.
+[528.8s - 529.8s] And then you train the click,
+[529.8s - 531.3s] which is like, I like to have a PS statement
+[531.3s - 532.5s] that drives people to click in general
+[532.5s - 533.8s] because I want people to get used
+[533.8s - 535.8s] to opening my emails and clicking from them.
+[535.8s - 538.4s] All right, so that's the email side.
+[538.4s - 539.8s] All right, now the content side,
+[539.8s - 541.9s] it's having just at least one platform
+[541.9s - 543.6s] that you're consistently making content on.
+[543.6s - 545.4s] All right, and a lot of people think
+[545.4s - 547.1s] that this content is in order to get customers.
+[547.1s - 548.3s] It's actually not.
+[548.3s - 550.0s] A lot of people who are already in your audience
+[550.0s - 551.3s] are just a little colder.
+[551.3s - 553.4s] And so this should just be seen as nurture
+[553.4s - 554.6s] more than lead gen.
+[554.6s - 556.6s] Now, of course, you might get some people,
+[556.6s - 558.3s] the algorithms might expose it to a new audience
+[558.3s - 559.9s] and they come in, that's fine.
+[559.9s - 561.1s] But really all we're doing
+[561.1s - 562.4s] is we're trying to warm more people up
+[562.4s - 563.6s] because we've already done the first ring
+[563.6s - 564.7s] of people who know you.
+[564.7s - 566.8s] And so this is what an email might look like
+[566.8s - 568.0s] for long-term nurture.
+[568.0s - 568.8s] So the quick hit,
+[568.8s - 570.3s] so this is from Mozy Money Minute,
+[570.3s - 571.4s] which is my newsletter.
+[571.4s - 574.2s] If you wanna check out, you can just opt in for it.
+[574.2s - 575.7s] But all of my emails pretty much
+[575.7s - 576.9s] follow the same structure.
+[576.9s - 577.9s] My favorite quote of all time
+[577.9s - 579.1s] or some quote that I have,
+[579.1s - 580.5s] which is, we question all of our beliefs
+[580.5s - 581.6s] except for those that we truly believe,
+[581.6s - 582.8s] those who never think to question.
+[582.8s - 583.9s] And then we do our values.
+[583.9s - 585.5s] So for me, this was a belief-breaking formula.
+[585.5s - 586.8s] A lot of people need to know how to break beliefs,
+[586.8s - 589.4s] whether with their team or a prospect.
+[589.4s - 590.4s] And so there's four steps.
+[590.4s - 592.8s] Say the wrong belief, say why it's wrong,
+[592.8s - 595.2s] say what's right, and then provide proof.
+[595.2s - 596.5s] And then the CTA would say,
+[596.5s - 597.6s] by the way, if you're a business owner
+[597.6s - 598.4s] who's looking to scale,
+[598.4s - 600.8s] you can apply for a seat in our workshop that we have.
+[600.8s - 602.9s] And then finally, I like to reward the click,
+[602.9s - 605.2s] which is, hey, this was a funny meme that I had
+[605.2s - 606.3s] that I thought was good.
+[606.3s - 607.8s] So then people click it, they laugh,
+[607.8s - 609.5s] and then they associate that laughter with me.
+[609.5s - 610.3s] Great.
+[611.2s - 612.0s] And so that's what that looks like.
+[612.0s - 614.7s] I can't tell you how to make content in one video,
+[614.7s - 615.5s] obviously.
+[615.5s - 616.9s] So in the Leeds book, in the Leeds training,
+[616.9s - 618.1s] which is on our site,
+[618.1s - 620.5s] I have a full two-part training series
+[620.5s - 622.1s] just on making content.
+[622.1s - 623.5s] But I'm just gonna give you two frameworks
+[623.5s - 624.7s] that are really helpful.
+[624.7s - 627.7s] So almost all content, written, video, whatever,
+[627.7s - 628.7s] have these three components.
+[628.7s - 630.7s] You have a hook that gets people's attention.
+[630.7s - 632.2s] You have to do something that provides value
+[632.2s - 633.1s] to retain them.
+[633.1s - 635.2s] And then you reward them for doing it
+[635.2s - 636.3s] so that they come back again.
+[636.3s - 638.5s] And that's fundamentally, and every piece of content
+[638.5s - 640.7s] has run through this cycle many, many, many times.
+[640.7s - 643.1s] And so if you think about this video, for example,
+[643.1s - 645.4s] the hook is every one of the introductions
+[645.4s - 648.3s] for a department or a function is the hook.
+[648.3s - 650.4s] If we do a good job providing value,
+[650.4s - 651.3s] then we can retain you.
+[651.3s - 652.7s] And then if you're like, oh, I'm gonna use this,
+[652.7s - 653.7s] I'm gonna write that down,
+[653.7s - 654.7s] then you get the reward for it,
+[654.7s - 656.3s] and then you're willing to stay for the next one.
+[656.3s - 659.7s] Now, the topics, there's five categories
+[659.7s - 660.7s] that I like to think of
+[660.7s - 662.8s] when I'm trying to think about creating content.
+[662.8s - 663.6s] Because you're like,
+[663.6s - 665.1s] what do I make my content about at this stage?
+[665.1s - 667.4s] Well, I look at my life stories.
+[667.4s - 668.9s] These are my far past.
+[668.9s - 670.8s] My recent past is like, what happened last week?
+[670.8s - 671.6s] Let me look at my calendar.
+[671.6s - 672.5s] What are the conversations I had?
+[672.5s - 674.0s] What are the customer issues that I had?
+[674.0s - 675.7s] Your life happens every day.
+[675.7s - 677.1s] And so you only have to make content
+[677.1s - 678.1s] about a tiny piece of it.
+[678.1s - 679.9s] And so just take the most interesting part
+[679.9s - 680.8s] from the last week.
+[680.8s - 681.9s] I mean, you had, believe me,
+[681.9s - 683.2s] I'm sure you had something that was interesting.
+[683.2s - 684.1s] If you're in business,
+[684.1s - 685.3s] something interesting happened in the last seven days.
+[685.3s - 687.0s] And then you just talk about it.
+[687.0s - 689.7s] Even just how you solved a problem, very valuable.
+[689.7s - 692.1s] There's the present, which is like what's top of mind.
+[692.1s - 693.3s] So for me, I always like to have a way
+[693.3s - 695.3s] that I can document quick ideas as I get them.
+[695.3s - 696.3s] That's where I tweet.
+[696.4s - 697.6s] And then trending stuff.
+[697.6s - 698.7s] So this is more like, okay,
+[698.7s - 700.1s] people are talking about interest rates.
+[700.1s - 702.5s] People are talking about this new algorithm change
+[702.5s - 703.4s] on a platform.
+[703.4s - 707.1s] This new law came into place that affects my industry.
+[707.1s - 708.7s] These are the trends that you can hop on
+[708.7s - 710.1s] that'll just get disproportionate views
+[710.1s - 711.3s] for short periods of time.
+[711.3s - 713.3s] And then finally, you have manufactured content,
+[713.3s - 716.3s] which is like, you try and do something purposefully crazy.
+[716.3s - 719.4s] So it's like, I lived on $100 a month for two years.
+[719.4s - 720.5s] Here's what happened.
+[720.5s - 722.3s] And so those take the most work,
+[722.3s - 723.6s] but if done well,
+[723.6s - 726.7s] can get you the most views and growth overall.
+[726.7s - 727.9s] When I'm thinking about how to structure
+[727.9s - 729.1s] the content in general,
+[729.1s - 730.8s] there's really just three components that you do it.
+[730.8s - 732.7s] You're either gonna do this in a list format.
+[732.7s - 734.0s] These are all the requirements.
+[734.0s - 735.5s] Let's think about like a checklist.
+[735.5s - 737.3s] There's steps, which is we have to do this
+[737.3s - 738.8s] in this order.
+[738.8s - 739.6s] First you do step one,
+[739.6s - 741.4s] then you do step two, then step three.
+[741.4s - 742.6s] This is a sequence.
+[742.6s - 744.2s] And then finally, you have stories.
+[744.2s - 747.2s] And so you'll merge list steps and stories
+[747.2s - 749.4s] and interweave them into your content.
+[749.4s - 752.5s] But these are the three core structures of content
+[752.6s - 753.6s] that humans consume.
+[753.6s - 755.6s] And so like, what is this presentation?
+[755.6s - 757.6s] Well, it has a combination of lists.
+[757.6s - 759.4s] Like every one of these departments is a list.
+[759.4s - 761.3s] We're not saying do product and then marketing
+[761.3s - 762.8s] or marketing and then IT.
+[762.8s - 765.3s] These are all the things that have to occur to move on.
+[765.3s - 767.1s] But in terms of steps,
+[767.1s - 769.5s] the entire framework is done in steps
+[769.5s - 770.8s] because we have level,
+[770.8s - 773.0s] stage zero, stage one, stage two, stage three,
+[773.0s - 774.4s] and they are done in sequence.
+[774.4s - 775.7s] And then in between,
+[775.7s - 777.1s] Layla and I try and tell stories.
+[777.1s - 778.8s] And so I have two chapters on content.
+[778.8s - 779.6s] You can check it out.
+[779.6s - 780.9s] I think we'll probably link it below this video
+[780.9s - 782.6s] if you wanna go start on that course.
+[782.6s - 784.9s] But that's fundamentally what we have to do
+[784.9s - 786.8s] to warm up more of the prospects
+[786.8s - 790.0s] so that we can get sales to close faster again.
+[790.0s - 791.4s] So that's what we have to do at marketing
+[791.4s - 793.1s] at this level and stabilize.
+[793.1s - 794.8s] So now we move on to sales, right?
+[794.8s - 795.8s] Which is how you get people
+[795.8s - 798.0s] to give you money for your stuff, right?
+[798.0s - 799.1s] And so the constraint right now
+[799.1s - 801.6s] is that you waste time with bad leads, okay?
+[801.6s - 804.7s] You don't have enough time to talk to good leads.
+[804.7s - 806.3s] And so to graduate this,
+[806.3s - 809.6s] you need to decide on basic qualifications,
+[809.6s - 812.0s] outsource setting, and calendaring, okay?
+[812.0s - 813.3s] So qualifying.
+[813.3s - 815.2s] Literally qualifying prospects are just saying like,
+[815.2s - 818.2s] who are we not gonna sell, okay?
+[818.2s - 819.5s] I'll walk you through some examples.
+[819.5s - 820.7s] What is required for someone
+[820.7s - 823.8s] to even be able to use our product, right?
+[823.8s - 826.0s] And so when we think about who are we not gonna sell,
+[826.0s - 827.2s] what you could look at right now
+[827.2s - 828.1s] is who are all the people
+[828.1s - 829.3s] that are the worst customers?
+[829.3s - 830.2s] Who are the people that take up
+[830.2s - 831.9s] the most time from customer service
+[831.9s - 834.2s] and are a huge pain in the fricking butt?
+[834.2s - 835.6s] And so those are the people oftentimes
+[835.6s - 838.3s] that you shouldn't sell and don't meet the requirements
+[838.3s - 839.8s] to even be able to use your product.
+[839.8s - 841.9s] So for example, when we first started GymLaunch,
+[841.9s - 844.3s] we recognized that all of our systems that we had
+[844.3s - 845.7s] in the very beginning
+[845.7s - 848.1s] were really catered towards small gyms.
+[848.1s - 850.0s] If we sold to like a really big gym
+[850.0s - 851.2s] or if we sold to a yoga studio
+[851.2s - 852.8s] or if we sold to a bar studio,
+[852.8s - 853.9s] it didn't really make sense.
+[853.9s - 855.5s] Now are those things that over 10 years
+[855.5s - 856.3s] we've iterated on?
+[856.3s - 857.4s] Yes, but in the beginning,
+[857.4s - 858.6s] if we sold to those people,
+[858.6s - 860.2s] they were really loud, they took a lot of time,
+[860.2s - 861.9s] and they were not saying good things about us.
+[861.9s - 863.2s] So we said, you know what?
+[863.2s - 866.4s] To qualify, you actually have to be this type of gym.
+[866.4s - 869.7s] You have to be a small fitness related gym, right?
+[869.7s - 871.7s] We also realized that people who didn't have
+[871.7s - 874.1s] at least three employees didn't do well
+[874.1s - 875.1s] because they didn't have enough help
+[875.1s - 876.2s] to execute our systems.
+[876.2s - 877.2s] So then we said, okay,
+[877.2s - 878.9s] we need people to have at least three employees.
+[878.9s - 880.6s] Then we realized that people couldn't do
+[880.6s - 883.4s] some of the things that we had in our product
+[883.4s - 885.5s] if they didn't have at least 30 clients.
+[885.5s - 886.8s] So one of the things we had, for example,
+[886.8s - 888.2s] is like, hey, we're gonna have you reach out
+[888.2s - 889.7s] to your clients and then give them
+[889.7s - 891.1s] this paid in full play, right?
+[891.1s - 892.7s] That was one of our like claims to fame.
+[892.7s - 894.2s] It's like, you're gonna get all these clients
+[894.2s - 895.2s] to pay in full for the year
+[895.2s - 896.1s] and it's gonna give you all this cash
+[896.1s - 897.2s] that you can put back into marketing
+[897.2s - 898.9s] that you can get into more new clients, right?
+[898.9s - 900.1s] Well, if they didn't have 30 clients,
+[900.1s - 901.4s] they couldn't do the paid in full play.
+[901.4s - 902.5s] And so we were like, okay, cool.
+[902.5s - 904.6s] 30 clients, three employees,
+[904.6s - 907.8s] don't be bar, yoga, goat, meditation,
+[907.8s - 908.6s] anything like that.
+[908.6s - 910.5s] And not be a personal trainer, which was even lower.
+[910.5s - 911.6s] Or a personal trainer.
+[911.6s - 913.5s] And the last thing we wanna consider, right?
+[913.5s - 915.8s] When it comes to like qualifying is consider BANT.
+[915.8s - 920.0s] BANT was actually initiated by IBM like 50 years ago
+[920.0s - 921.9s] and it's more or less stood the test of time.
+[921.9s - 924.5s] And so BANT stands for budget,
+[924.6s - 927.5s] authority, need, and timing.
+[927.5s - 929.1s] And so if you think about like
+[929.1s - 930.5s] what you want a prospect to have,
+[930.5s - 932.0s] it's like you want them to have the money to spend.
+[932.0s - 934.2s] You wanna have them be able to make the decision.
+[934.2s - 935.6s] You want them to wanna start now
+[935.6s - 936.4s] and that the need,
+[936.4s - 937.9s] which with Layla is kind of referencing like,
+[937.9s - 940.1s] well, if they don't own a gym,
+[940.1s - 941.9s] then they don't have the need for gym launch.
+[941.9s - 944.3s] If they already are at full capacity,
+[944.3s - 945.6s] then they won't have the need for gym launch
+[945.6s - 947.2s] unless they wanna open another location, right?
+[947.2s - 948.2s] And so it's like we wanna make sure
+[948.2s - 949.4s] that the need matches too.
+[949.4s - 951.4s] And so when you're thinking about qualifying a prospect
+[951.4s - 952.2s] either on a set call
+[952.2s - 954.0s] or an application form that's automated,
+[954.0s - 956.4s] we wanna ask questions that relate to who they are
+[956.4s - 958.6s] and then what are the things related to the decision
+[958.6s - 959.5s] that we need to know
+[959.5s - 961.5s] in order to close the sale for the right people.
+[961.5s - 963.8s] So a cool tactic we have is actually this is for B2B,
+[963.8s - 965.1s] but if you are a B2B business,
+[965.1s - 967.0s] one of our favorite tactics for outbound
+[967.0s - 968.5s] is actually this voicemail.
+[968.5s - 970.6s] So basically you're gonna call somebody
+[970.6s - 972.7s] and you're going to reference their competitor.
+[972.7s - 975.3s] So if I'm calling CrossFit 123,
+[975.3s - 976.9s] I'm going to actually mention their competitor,
+[976.9s - 979.6s] which is CrossFit 345 in the voicemail.
+[979.6s - 981.7s] I'm gonna say, hey, this is John calling
+[981.7s - 984.4s] in regards to CrossFit 345.
+[984.4s - 986.2s] Give me a call back when you get a chance.
+[986.2s - 987.0s] And that person is gonna be like,
+[987.0s - 988.1s] why the heck are they calling me
+[988.1s - 989.4s] about the CrossFit across the street?
+[989.4s - 990.6s] Like I'm so interested.
+[990.6s - 992.5s] I'm gonna call back immediately, right?
+[992.5s - 993.9s] And so that's actually just a cool tactic
+[993.9s - 995.2s] that we have in terms of what you can do
+[995.2s - 996.4s] from an outbound standpoint.
+[996.4s - 997.9s] So that brings us to sales.
+[997.9s - 999.4s] We wasted time with bad leads
+[999.4s - 1001.5s] and we didn't have enough time to talk to good ones.
+[1001.5s - 1004.2s] So we qualify people, we outsource setting
+[1004.2s - 1005.3s] and we calendar.
+[1005.3s - 1007.4s] And that brings us to customer service.
+[1007.4s - 1008.5s] All right, so customer service
+[1008.5s - 1009.5s] is how you get the four R's,
+[1009.5s - 1011.6s] retention, referrals, reviews,
+[1012.5s - 1013.3s] and then ascension.
+[1013.3s - 1014.4s] So getting them to resell.
+[1014.4s - 1015.4s] So at this level,
+[1015.4s - 1017.7s] the constraint is that new customers feel lost
+[1017.7s - 1019.1s] and it's not the same experience
+[1019.1s - 1020.6s] as when it was just you, right?
+[1020.6s - 1021.5s] Like they're like,
+[1021.5s - 1023.0s] I'm in, I miss when it was just us,
+[1023.0s - 1025.8s] just us and a couple of gals, right?
+[1025.8s - 1027.8s] And so to graduate,
+[1027.8s - 1030.1s] you learn to onboard customers properly.
+[1030.1s - 1031.4s] All right, so this is what this looks like.
+[1031.4s - 1032.8s] So this is the growth framework.
+[1032.8s - 1034.8s] So growth is the acronym here.
+[1034.8s - 1036.1s] And so when you're onboarding,
+[1036.1s - 1038.5s] you wanna, this is just an easy way to think of it.
+[1038.5s - 1039.7s] So goal setting is the G.
+[1039.7s - 1041.7s] So you wanna establish clear expectations.
+[1041.7s - 1043.4s] So a lot of this will sound similar
+[1043.4s - 1045.4s] to the CLO closer, right?
+[1045.4s - 1048.1s] And that's because humans respond to things the same way
+[1048.1s - 1050.0s] in order to get them to change their behavior.
+[1050.0s - 1051.4s] And so if we initially had to get them
+[1051.4s - 1052.5s] to change their behavior to buy,
+[1052.5s - 1053.8s] now we have to get them to continue
+[1053.8s - 1055.9s] to change their behavior to do, right?
+[1055.9s - 1057.8s] So we establish the clear expectations,
+[1057.8s - 1059.4s] what their goals are, what they're trying to do.
+[1059.4s - 1061.2s] Then we allocate time.
+[1061.2s - 1062.8s] So we provide personal success paths saying,
+[1062.8s - 1064.0s] okay, this is the goal.
+[1064.0s - 1065.1s] These are the steps you need to take
+[1065.1s - 1066.2s] in order to get there.
+[1066.2s - 1068.2s] Then we wanna optimize the first experience.
+[1068.2s - 1069.9s] So you ensure a positive start
+[1069.9s - 1071.8s] with quick wins to see immediate value.
+[1071.8s - 1072.9s] So that's kind of like trying to get
+[1072.9s - 1075.4s] to that activation point as soon as humanly possible.
+[1075.4s - 1078.2s] And so all onboarding is is really a streamlined
+[1078.2s - 1080.8s] or a lubricated process of getting to activation
+[1080.8s - 1082.8s] as quickly as humanly possible.
+[1082.8s - 1085.3s] Then from a workflow integration,
+[1085.3s - 1086.8s] that sounds a little bit B2B-ish,
+[1086.8s - 1088.5s] but from a B2C component,
+[1088.5s - 1089.5s] it's just thinking like,
+[1089.5s - 1092.0s] how do we make sure that it fits within their lives?
+[1092.0s - 1092.9s] Like, and if it's a business,
+[1092.9s - 1094.5s] how do we fit within their daily operations?
+[1094.5s - 1096.7s] Because you don't wanna add more stuff for them to do.
+[1096.7s - 1098.7s] It's like, how can I seamlessly integrate
+[1098.7s - 1100.0s] so that they don't need to do anything new
+[1100.0s - 1102.0s] in order to use my product or service?
+[1102.0s - 1104.4s] Then we wanna track and provide feedback
+[1104.4s - 1106.1s] and have regular loops so we can monitor,
+[1106.1s - 1107.7s] recognize, reward, and relay.
+[1107.7s - 1108.7s] And so thinking about it like,
+[1108.7s - 1110.9s] okay, what cadence are we gonna communicate on?
+[1110.9s - 1112.6s] And then every time we wanna BAMB BAMB,
+[1112.6s - 1114.1s] which is book a meeting from a meeting.
+[1114.1s - 1114.9s] And so you say,
+[1114.9s - 1116.2s] hey, this is the end of the onboarding call.
+[1116.2s - 1117.7s] This is the next time we're gonna talk.
+[1117.7s - 1119.5s] And if you have any issues,
+[1119.5s - 1120.9s] please reach out to X, Y, and Z,
+[1120.9s - 1122.3s] or you can reach out to me here.
+[1122.3s - 1123.6s] All right, and so this is kind of the last step,
+[1123.6s - 1125.3s] handoff to ongoing support and growth.
+[1125.3s - 1126.9s] So you transition to long-term support
+[1126.9s - 1129.3s] and relationship building once success is realized,
+[1129.3s - 1131.1s] and you make sure that they know where to ask questions.
+[1131.1s - 1132.0s] That's why I underline that.
+[1132.0s - 1133.6s] A lot of times people just feel lost, right?
+[1133.6s - 1135.0s] This is why a lot of new customers in the beginning,
+[1135.0s - 1136.0s] you didn't need to do this
+[1136.0s - 1137.3s] because they had your cell phone.
+[1137.3s - 1139.6s] But to graduate from here, it's like, okay,
+[1139.6s - 1140.6s] this is our chat support.
+[1140.6s - 1141.4s] You can go to our portal.
+[1141.4s - 1142.3s] You can message us here.
+[1142.3s - 1144.3s] We have response times that are within five minutes.
+[1144.3s - 1149.0s] We have three reps, you know, Suzy, Sandy, and Serika.
+[1149.0s - 1151.2s] And so they're gonna take care of you,
+[1151.2s - 1153.9s] and they're abreast on what's going on in your business.
+[1153.9s - 1154.8s] That's the deal.
+[1154.8s - 1156.1s] Now, if we did this stuff,
+[1156.1s - 1157.3s] think about the difference in experience
+[1157.3s - 1158.4s] of like you just sold somebody,
+[1158.4s - 1159.6s] and then like they don't get an email,
+[1159.6s - 1160.9s] they don't know what's going on,
+[1160.9s - 1163.6s] versus, hey, this is your goal.
+[1163.6s - 1165.7s] This is what the steps you need to take are.
+[1165.7s - 1167.5s] This is the first one we're gonna give to you.
+[1167.5s - 1168.4s] This is how we're gonna make sure
+[1168.4s - 1169.6s] that it's not a big cost to you
+[1169.6s - 1170.9s] in terms of your day-to-day.
+[1170.9s - 1173.1s] This is gonna be our feedback loop on a regular basis
+[1173.1s - 1174.2s] so you know when to hear from us.
+[1174.2s - 1176.1s] And then from here on out, if you have questions,
+[1176.1s - 1177.4s] talk to us on this cadence.
+[1177.4s - 1178.9s] And this is our next meeting, right?
+[1178.9s - 1180.3s] Like if you had that, people would be like,
+[1180.3s - 1181.1s] I feel pretty good.
+[1181.1s - 1181.9s] I think I know what's going on.
+[1181.9s - 1183.2s] These people seem legit.
+[1183.2s - 1184.6s] They seem on top of their stuff.
+[1184.6s - 1186.6s] And that is a good onboarding experience.
+[1186.6s - 1190.1s] And so from here, as Stabilize, they felt lost,
+[1190.1s - 1192.9s] and we learned how to onboard customers the right way.
+[1192.9s - 1194.5s] So we go to iTizzle.
+[1194.5s - 1196.3s] How you gather, store, analyze,
+[1196.3s - 1198.3s] and display information, okay?
+[1198.3s - 1200.7s] And so at this point, your constraint
+[1200.7s - 1201.7s] is that you have a bunch of tools
+[1201.7s - 1203.3s] that you're paying for,
+[1203.3s - 1204.1s] and you thought you would use,
+[1204.1s - 1204.9s] but you don't pay for them,
+[1204.9s - 1206.2s] and you don't use them, right?
+[1206.2s - 1207.7s] So to graduate, what you wanna do
+[1207.7s - 1210.5s] is you wanna figure out which ones you actually use, okay?
+[1210.5s - 1212.8s] And so of the platforms that you actually use,
+[1212.8s - 1214.1s] extend your free trial
+[1214.1s - 1216.0s] through credits or discounts if possible,
+[1216.0s - 1217.7s] and then also cut the rest of them.
+[1217.7s - 1218.9s] And the result of all of those
+[1218.9s - 1222.3s] is that you want to build a basic sales pipeline, okay?
+[1222.3s - 1224.7s] And so it might be duct taped together at this point,
+[1224.7s - 1225.5s] but that's okay.
+[1225.5s - 1228.3s] We're gonna get everything tied up in a later stage.
+[1228.3s - 1230.3s] And so a basic sales pipeline, okay?
+[1230.3s - 1232.3s] What does that look like, for example?
+[1232.3s - 1233.1s] We'll put this here.
+[1233.1s - 1234.6s] We've got conversion.
+[1234.6s - 1237.2s] We've got opt-ins, scheduled, showed,
+[1237.2s - 1240.1s] offer, closed, cash collected, backouts.
+[1240.1s - 1241.2s] Basic pipeline.
+[1241.2s - 1242.3s] Like here's the thing.
+[1242.3s - 1243.3s] This is your baseline,
+[1243.3s - 1245.7s] and you cannot improve without knowing where you are.
+[1245.7s - 1248.2s] And so you just wanna start to track things,
+[1248.2s - 1250.4s] and you wanna make sure that you have enough software
+[1250.4s - 1253.1s] that can basic track these metrics.
+[1253.1s - 1254.2s] Now, can you add more?
+[1254.2s - 1256.1s] Will it be a little bit different based on your business?
+[1256.1s - 1258.3s] Yes, but this is a baseline to give you
+[1258.3s - 1259.7s] to understand where to start.
+[1259.7s - 1262.3s] And we've added a descriptor as well as a metric
+[1262.3s - 1265.8s] so you understand what metric are you actually looking for
+[1265.8s - 1269.2s] when it relates to opt-ins or showed or offer, et cetera.
+[1269.2s - 1270.8s] And so start here,
+[1270.8s - 1272.4s] and you can iterate from this point on.
+[1272.4s - 1274.7s] And that really covers IT at that point.
+[1274.7s - 1276.2s] You have a bench of different tools.
+[1276.2s - 1277.4s] You're gonna cut the ones you don't use.
+[1277.4s - 1278.7s] You're gonna extend the ones you do use.
+[1278.7s - 1279.5s] You're gonna make sure that you have
+[1279.5s - 1281.4s] a basic sales pipeline where you at least track
+[1281.4s - 1284.0s] and know your metrics, which brings us to recruiting.
+[1284.0s - 1285.7s] All right, so recruiting is how you find
+[1285.7s - 1287.0s] and hire people for your business
+[1287.0s - 1288.5s] and the constraint at this level.
+[1288.5s - 1290.2s] At stabilized stage 3s,
+[1290.2s - 1292.2s] you're not getting quality job applications,
+[1292.2s - 1294.2s] or it just takes forever to find good people
+[1294.2s - 1295.3s] or new people.
+[1295.3s - 1296.2s] And so to graduate,
+[1296.2s - 1297.9s] you have to learn how to write a job description
+[1297.9s - 1299.2s] and review resumes.
+[1299.2s - 1302.3s] And so we have an SOP that's available below this video
+[1302.3s - 1304.7s] in terms of thinking about job descriptions overall,
+[1304.7s - 1307.1s] but they actually work the same way as ads.
+[1307.1s - 1308.8s] All right, so you wanna write a hook or a headline.
+[1308.8s - 1310.0s] This is the first line that you wanna speak
+[1310.0s - 1311.8s] to their dream job as well as the ways
+[1311.8s - 1313.7s] in which we see this role differently.
+[1313.7s - 1315.3s] So why should they apply here
+[1315.3s - 1318.6s] and not to ABC job across the street?
+[1318.6s - 1320.2s] Next, we wanna retain them in the ad,
+[1320.2s - 1321.6s] just like normal ad copy.
+[1321.6s - 1322.9s] So now that you have them reading,
+[1322.9s - 1324.9s] explain why the values of the company are important,
+[1324.9s - 1327.7s] what they are, and how to translate this into the role.
+[1328.2s - 1331.5s] How do these values translate into what they do every day?
+[1331.5s - 1333.0s] Then we transition to educating them.
+[1333.0s - 1334.9s] So you educate them on the main stuff
+[1334.9s - 1335.9s] that this job entails.
+[1335.9s - 1337.2s] These are the activities, right?
+[1337.2s - 1338.2s] What are the top three things
+[1338.2s - 1340.4s] that they're responsible for in the business,
+[1340.4s - 1343.3s] and how does that impact overall growth in the company?
+[1343.3s - 1345.3s] And then finally, you reinforce them,
+[1345.3s - 1347.5s] which is, okay, what's in it for them, right?
+[1347.5s - 1348.7s] They're like, okay, I get what you have.
+[1348.7s - 1349.5s] You got my attention.
+[1349.5s - 1351.1s] I understand how this all ties together.
+[1351.1s - 1351.9s] What's in it for me?
+[1351.9s - 1353.3s] And so how much money are they gonna make?
+[1353.3s - 1354.3s] What are the benefits?
+[1354.3s - 1355.1s] What are some of the, you know,
+[1355.1s - 1356.7s] did they pay time off?
+[1356.7s - 1358.3s] Do they've got great, you know,
+[1358.3s - 1359.4s] is there a great working environment?
+[1359.4s - 1360.7s] Did you win an award for, you know,
+[1360.7s - 1361.6s] great places to work?
+[1361.6s - 1362.9s] That kind of stuff.
+[1362.9s - 1365.4s] And so this, if you just follow the structure,
+[1365.4s - 1367.1s] and we have a whole SOP around it,
+[1367.1s - 1368.8s] you'll get far more job applications.
+[1368.8s - 1370.5s] The number of times that Layla and I
+[1370.5s - 1372.1s] have gone to a portfolio company
+[1372.1s - 1374.4s] that's been struggling to find or fill a specific role,
+[1374.4s - 1376.3s] and we just say, just show me the job description.
+[1376.3s - 1377.9s] And then all, I mean,
+[1377.9s - 1379.4s] I see Layla do this more than me,
+[1379.4s - 1381.0s] go in there and she'll just change the headline,
+[1381.0s - 1382.9s] change the way it's described, change the first line,
+[1382.9s - 1384.3s] and then literally overnight,
+[1384.3s - 1387.7s] they go from having like 10 applicants a week
+[1387.7s - 1389.4s] to getting like 30 a day.
+[1389.4s - 1391.4s] And so like the difference is,
+[1391.4s - 1392.9s] it's not like you won't get to like a double.
+[1392.9s - 1394.4s] Sometimes you can get like a 30X,
+[1394.4s - 1396.7s] and it happens all the time if you know what you're doing.
+[1396.7s - 1398.4s] And if you look at this like an ad,
+[1398.4s - 1399.9s] and that's why they call them job ads,
+[1399.9s - 1401.5s] not just like, I'm gonna make them
+[1401.5s - 1403.1s] jump through the hoops and make this look terrible.
+[1403.1s - 1403.9s] It's like, yeah, well,
+[1403.9s - 1405.3s] you're gonna get nobody who's gonna apply.
+[1405.3s - 1407.5s] So if you really see at this point in your business,
+[1407.5s - 1408.4s] in the beginning,
+[1408.4s - 1410.9s] you only have an external funnel to get customers,
+[1410.9s - 1413.3s] and now you're developing an internal funnel to get talent.
+[1413.3s - 1414.2s] And so the next piece,
+[1414.2s - 1416.3s] so it's like, okay, we've got applications,
+[1416.3s - 1418.0s] so all these people are coming into us.
+[1418.0s - 1420.0s] Well, now we also have to review resumes.
+[1420.0s - 1420.8s] Because if you remember,
+[1420.8s - 1421.6s] the problem was we're not getting
+[1421.6s - 1423.6s] high quality applications and it's taking forever.
+[1423.6s - 1426.5s] Well, once we learn how to write the job application
+[1426.5s - 1428.0s] or the job description, excuse me,
+[1428.0s - 1429.3s] we're gonna get way more.
+[1429.3s - 1431.4s] But now we still need to sift through all this stuff.
+[1431.4s - 1433.3s] And so we have an S&P below this,
+[1433.3s - 1434.3s] you can go check it out.
+[1434.3s - 1435.5s] But the big picture is,
+[1435.5s - 1436.7s] you have to figure out what you want.
+[1436.7s - 1438.3s] So what are the past achievements
+[1438.3s - 1440.1s] that they have objective data support
+[1440.1s - 1441.0s] that they actually did it,
+[1441.0s - 1442.8s] not just claiming they did it, right?
+[1442.8s - 1444.1s] What's the relevant experience,
+[1444.1s - 1447.7s] like how does it relate to what the business is currently
+[1447.7s - 1449.7s] and to their specific job?
+[1449.7s - 1451.3s] And what are the skills that transfer
+[1451.3s - 1454.1s] as well as what are the ones that don't, right?
+[1454.1s - 1456.8s] So that's the good stuff, that's the stuff we want.
+[1456.8s - 1458.5s] The next is what are the stuff we don't want, right?
+[1458.5s - 1459.9s] Where's the irrelevant experience?
+[1459.9s - 1460.9s] Do they have too much experience?
+[1460.9s - 1462.1s] Do they have too little experience?
+[1462.1s - 1464.0s] Do they have the wrong skills for the role?
+[1464.0s - 1466.8s] And then finally, for a benchmark to look at,
+[1466.8s - 1470.1s] is you wanna target a 20% pass rate to screening call.
+[1470.1s - 1472.3s] So if you get 100 applications,
+[1472.3s - 1474.3s] you should be hoping that you get about 20
+[1474.3s - 1475.5s] that you could pass to screening.
+[1475.5s - 1476.3s] Now, if you're like,
+[1476.3s - 1477.3s] why wouldn't pass any of these people?
+[1477.3s - 1478.9s] Then you might have an issue with the job description
+[1478.9s - 1479.9s] and you need to fix that.
+[1479.9s - 1482.9s] And so this metric is both a measure
+[1482.9s - 1484.6s] of how good your job description is
+[1484.6s - 1486.5s] in terms of how well you're passing them
+[1486.5s - 1489.9s] and also how effective your resume review process is.
+[1489.9s - 1491.6s] So it's both of those things put together.
+[1491.6s - 1493.5s] One thing that you wanna pay attention to at this level
+[1493.5s - 1495.0s] is that a lot of people,
+[1495.0s - 1496.7s] what they do is they bring in somebody
+[1496.7s - 1499.5s] with irrelevant experience or too much experience.
+[1499.5s - 1501.6s] Oftentimes, you know when you bring in somebody
+[1501.6s - 1502.6s] with not enough experience
+[1502.6s - 1504.1s] because they don't know how to do the job.
+[1504.1s - 1505.9s] But a lot of times what happens is you might get people
+[1505.9s - 1507.5s] when you do really well with the job description
+[1507.5s - 1509.7s] that actually are overqualified for the job.
+[1509.7s - 1512.0s] So what happens is that then you hire somebody
+[1512.0s - 1515.1s] who might be at stage seven in the scaling framework
+[1515.1s - 1516.3s] and they've been in a company that's there
+[1516.3s - 1518.9s] and they take the stage seven practices
+[1518.9s - 1520.3s] and bring them into stage three.
+[1520.3s - 1522.1s] And sometimes that can actually cause issues.
+[1522.1s - 1523.9s] So there is absolutely such thing
+[1523.9s - 1525.5s] as having too much experience
+[1525.5s - 1527.7s] because somebody will take big company habits
+[1527.7s - 1529.3s] and bring them into a small company
+[1529.3s - 1531.5s] where it throws things off and it's actually not good.
+[1532.4s - 1533.2s] And so we wanna make sure that someone
+[1533.2s - 1535.4s] has the right experience that you're looking for
+[1535.4s - 1536.9s] and can help you with the stage of growth
+[1536.9s - 1537.7s] you're at right now.
+[1537.7s - 1540.5s] And you will be in the next 12 to 18 months.
+[1540.5s - 1541.7s] Beyond that is not something
+[1541.7s - 1544.1s] that you want to pay attention to today.
+[1544.1s - 1545.2s] Boom.
+[1545.2s - 1548.7s] And so that concludes our recruiting step at stage three.
+[1548.7s - 1549.9s] So you're not getting quality applicants
+[1549.9s - 1550.8s] or it takes forever.
+[1550.8s - 1552.7s] So you learn how to write a job description
+[1552.7s - 1554.2s] and review resumes properly.
+[1554.2s - 1555.8s] So at the stabilized stage,
+[1555.8s - 1558.7s] you've just got your one to four key people.
+[1558.7s - 1561.2s] You're building your first kind of original team.
+[1561.9s - 1562.7s] You're hiring from some vendors.
+[1562.7s - 1564.1s] You might keep some of them on too.
+[1564.1s - 1566.9s] And the whole problem is that you need help.
+[1566.9s - 1568.3s] And so one of the things that people don't know
+[1568.3s - 1569.1s] is that in the very beginning,
+[1569.1s - 1570.7s] that core first team,
+[1570.7s - 1573.3s] that first few hires sets the bar.
+[1573.3s - 1576.7s] It sets the culture for what you're going to create.
+[1576.7s - 1578.0s] And in the beginning, of course,
+[1578.0s - 1579.7s] you just reach out to your friends and your family
+[1579.7s - 1580.6s] and people be like,
+[1580.6s - 1582.1s] hey, do you wanna work with me a little on the side?
+[1582.1s - 1585.5s] But the thing is that if you set the wrong direction
+[1585.5s - 1587.6s] for that team in that culture,
+[1587.6s - 1589.1s] it can create really big issues
+[1589.1s - 1590.5s] when you're three or four times bigger
+[1590.5s - 1592.8s] and then you have to undo it all and do it again.
+[1592.8s - 1596.7s] And so if you would like help getting to the next level
+[1596.7s - 1600.6s] here and scaling your sales, scaling your marketing,
+[1600.6s - 1603.8s] scaling your ability to deliver customers
+[1603.8s - 1604.9s] on a consistent basis
+[1604.9s - 1606.3s] so you can have a reliable product
+[1606.3s - 1608.3s] that people find really valuable,
+[1608.3s - 1610.1s] that has really good margin
+[1610.1s - 1612.5s] that you can reinvest into scaling,
+[1612.5s - 1613.4s] then you should come and check out
+[1613.4s - 1614.7s] one of our scaling workshops.
+[1614.7s - 1617.1s] And so if you're just watching this video randomly
+[1617.1s - 1618.9s] and you don't have a personalized scaling roadmap,
+[1618.9s - 1619.8s] you should do that first.
+[1619.8s - 1621.0s] You can click the button below this video
+[1621.0s - 1622.0s] and grab your own.
+[1622.0s - 1623.1s] It'll tell you where you're at,
+[1623.1s - 1624.9s] what stage you just graduated from
+[1624.9s - 1626.0s] and what you need to do next.
+[1626.0s - 1627.5s] But that's with broad metrics.
+[1627.5s - 1630.9s] If you would like us to help tailor those solutions
+[1630.9s - 1634.5s] to your business and your industry right now,
+[1634.5s - 1635.7s] we would love to do it.
+[1635.7s - 1637.2s] And so if that's interesting,
+[1637.2s - 1638.5s] somewhere above this page,
+[1638.5s - 1639.4s] there's probably a button
+[1639.4s - 1640.9s] that says something like workshop.
+[1640.9s - 1641.9s] And if you click that,
+[1641.9s - 1643.9s] you can apply and see if you qualify.
+[1643.9s - 1645.3s] So if that's interesting,
+[1645.3s - 1647.1s] click there and otherwise enjoy the rest of the video.
+[1647.1s - 1649.5s] And then boom, over to human resources.
+[1649.5s - 1651.1s] So human resources,
+[1651.1s - 1653.0s] human resources is how you protect yourself
+[1653.0s - 1655.2s] from employees and regulators, right?
+[1655.2s - 1656.5s] And so at this level,
+[1656.5s - 1659.4s] the constraint is that you are not withholding
+[1659.4s - 1661.4s] employee taxes or fees, okay?
+[1661.4s - 1662.8s] That's where a lot of people are.
+[1662.8s - 1663.9s] And so to graduate,
+[1663.9s - 1665.5s] you wanna get a payroll provider
+[1665.5s - 1668.1s] so all taxes and fees by state are handled
+[1668.1s - 1670.8s] and onboard the team to that platform, okay?
+[1670.8s - 1672.1s] So what does that look like?
+[1672.1s - 1674.3s] Payroll providers are fairly easy to find.
+[1674.3s - 1677.6s] There are large ones like ADP, Gusto, Paychex.
+[1677.6s - 1679.2s] Gusto is for smaller businesses
+[1679.2s - 1680.8s] so you might wanna look at starting there.
+[1680.8s - 1684.2s] ADP and Paychex are some of the big players in the space.
+[1685.2s - 1686.2s] I'm not gonna recommend
+[1686.2s - 1687.6s] or not recommend either one of those.
+[1687.6s - 1690.0s] And to tell you how techie I am,
+[1690.0s - 1692.0s] I actually paid all my company's payroll over the phone
+[1692.0s - 1693.7s] until eventually got someone to take it over
+[1693.7s - 1695.0s] from me in the beginning.
+[1695.0s - 1696.7s] You don't have to be a tech person
+[1696.7s - 1697.9s] to get these things rolled out.
+[1697.9s - 1698.7s] There are lots of ways
+[1698.7s - 1700.9s] that you can facilitate these things from happening.
+[1700.9s - 1702.7s] The point is that you wanna be compliant
+[1702.7s - 1703.5s] and you wanna make sure
+[1703.5s - 1704.8s] that you're doing things the right way
+[1704.8s - 1706.0s] so that people don't come back
+[1706.0s - 1707.7s] and like we were mentioning earlier,
+[1707.7s - 1709.9s] sue you for paying the wrong taxes,
+[1709.9s - 1710.8s] paying the wrong fees,
+[1710.8s - 1712.3s] like not paying the states
+[1712.3s - 1713.5s] that your employees are employed in.
+[1713.5s - 1714.6s] Especially if you're remote,
+[1714.6s - 1716.8s] this is something that you really wanna focus on sooner
+[1716.8s - 1718.5s] because if you're in one state
+[1718.5s - 1719.7s] and everyone you employ is in one state,
+[1719.7s - 1721.3s] this isn't something that's gonna be
+[1721.3s - 1722.8s] as difficult to deal with.
+[1722.8s - 1723.7s] But if you're remote
+[1723.7s - 1725.3s] and you employ people from all these different states,
+[1725.3s - 1727.4s] you owe fees to all those different states
+[1727.4s - 1728.7s] and a payroll provider
+[1728.7s - 1731.1s] will actually pay those fees to the states for you.
+[1731.1s - 1733.9s] All right, so Finance is how you manage your money
+[1733.9s - 1735.0s] and how you report it.
+[1735.0s - 1736.3s] And so the constraint here
+[1736.3s - 1738.5s] is that people are getting paid informally.
+[1738.5s - 1739.7s] You forget to pay bills.
+[1739.7s - 1742.2s] This may start sounding familiar for some of you
+[1742.2s - 1744.0s] and customers aren't getting billed properly.
+[1744.0s - 1744.8s] All of a sudden you're like,
+[1744.8s - 1746.3s] hey, I thought we billed that guy.
+[1746.3s - 1747.3s] Well, I haven't seen,
+[1747.3s - 1748.1s] where's that invoice?
+[1748.1s - 1749.6s] Hey, did we get that one?
+[1749.6s - 1750.4s] I don't know, right?
+[1750.4s - 1751.3s] So all this stuff,
+[1751.3s - 1752.3s] like you get more volume
+[1752.3s - 1753.7s] and things start breaking, right?
+[1753.7s - 1755.2s] And so to graduate,
+[1755.2s - 1756.3s] you set up payroll processing,
+[1756.3s - 1758.4s] which we covered, right?
+[1758.4s - 1760.6s] Because that depends on how you wanna delineate that.
+[1760.6s - 1761.7s] Like, is that a finance function
+[1761.7s - 1763.6s] or is it an HR function?
+[1763.6s - 1765.3s] There's basic bookkeeping that we put in place.
+[1765.3s - 1767.0s] We have to manage invoices and payments,
+[1767.0s - 1768.2s] which is AR and AP.
+[1768.2s - 1769.6s] AR means accounts receivable.
+[1769.6s - 1771.3s] This is when customers need to pay you.
+[1771.3s - 1773.3s] Accounts payable is what you pay vendors.
+[1773.3s - 1774.5s] All right, and so for example,
+[1774.5s - 1775.6s] if you're late on payments,
+[1775.6s - 1776.6s] then people are like,
+[1776.6s - 1778.1s] hey, I don't wanna do this for you.
+[1778.1s - 1780.0s] And you're like, no, no, no, I thought I paid you.
+[1780.0s - 1781.0s] And they're like, no, you didn't.
+[1781.0s - 1781.8s] And then you're like, oh,
+[1781.8s - 1784.3s] but I need that core thing to deliver my service.
+[1784.3s - 1785.8s] And they're like, well, tough cookies
+[1785.8s - 1787.2s] because you didn't pay me.
+[1787.2s - 1790.0s] And so these types of business interruptions occur
+[1790.0s - 1790.9s] right when you're at this stage
+[1790.9s - 1792.9s] because you have no formal finance process.
+[1792.9s - 1795.0s] All right, and so this is what this looks like.
+[1795.8s - 1796.7s] So billing processes is make sure
+[1796.7s - 1799.0s] that all client contracts are entered properly.
+[1799.0s - 1804.0s] So we've lost so much more than $3 million here,
+[1804.7s - 1806.6s] but we've lost so much money here
+[1806.6s - 1808.2s] in terms of making sure that contracts
+[1808.2s - 1809.9s] are filled in properly.
+[1809.9s - 1810.9s] Collections process,
+[1810.9s - 1813.4s] so if they are filled in properly,
+[1813.4s - 1814.7s] but then the customer doesn't pay them,
+[1814.7s - 1816.2s] it's like, you need to know
+[1816.2s - 1817.9s] how many declines are we getting?
+[1817.9s - 1818.9s] Are we getting chargebacks?
+[1818.9s - 1821.3s] Are there, like we need somebody who's managing that
+[1821.3s - 1823.2s] and making sure that we're pushing customers
+[1823.2s - 1824.9s] to pay their stuff on time, right?
+[1825.8s - 1827.3s] And as much as I'm sure they love you,
+[1827.3s - 1828.9s] customers also love their money a lot too
+[1828.9s - 1830.4s] and would prefer to get the service for free
+[1830.4s - 1831.5s] if you don't follow up with them.
+[1831.5s - 1834.7s] You wanna set aside money for fixed and recurring bills.
+[1834.7s - 1836.2s] So if you know that you always have rent,
+[1836.2s - 1837.8s] if you know that you always have these softwares
+[1837.8s - 1839.0s] that are core to your business,
+[1839.0s - 1840.4s] you wanna just put that money aside first.
+[1840.4s - 1841.4s] Like if you're online,
+[1841.4s - 1842.9s] just think of your rent as all the software
+[1842.9s - 1844.9s] that you need to run your business.
+[1844.9s - 1847.0s] And then the last piece here is create process.
+[1847.0s - 1848.3s] Even an email will work
+[1848.3s - 1849.7s] for incoming bills to get forwarded to.
+[1849.7s - 1853.4s] So it could just be like ap at your company.com
+[1853.4s - 1854.7s] or accounts receivable
+[1855.5s - 1857.0s] or finance at your company.com.
+[1857.0s - 1859.1s] And that way you at least have some place
+[1859.1s - 1860.2s] where you're like, okay,
+[1860.2s - 1861.3s] you're in the middle of a meeting like,
+[1861.3s - 1862.7s] hey, email that to here.
+[1862.7s - 1864.3s] And then that way you can just get it off your plate
+[1864.3s - 1865.9s] and then you can chunk the time later
+[1865.9s - 1867.9s] and then you can make sure it all gets done.
+[1867.9s - 1869.3s] And so for finance,
+[1869.3s - 1871.5s] we started with people are getting paid informally.
+[1871.5s - 1873.3s] So you get the payable processor.
+[1873.3s - 1874.6s] You forget to pay bills.
+[1874.6s - 1877.8s] So you get a AP in place, so accounts payable.
+[1877.8s - 1879.5s] And then customers aren't getting billed properly.
+[1879.5s - 1880.5s] So you put AR in place.
+[1880.5s - 1881.4s] So accounts receivable
+[1881.4s - 1883.3s] and potentially a collections process.
+[1883.3s - 1884.5s] And I'll give you a quick tip on this,
+[1885.4s - 1887.6s] which is that I tend to always be late on collections
+[1887.6s - 1889.4s] in terms of every business that I have.
+[1889.4s - 1891.6s] And there are few roles in this world
+[1891.6s - 1894.6s] that pay for themselves faster than collections.
+[1894.6s - 1895.5s] It's like, okay,
+[1895.5s - 1896.8s] we have $50,000 a month that's not being collected.
+[1896.8s - 1898.3s] It's like, well, one person can go collect that.
+[1898.3s - 1900.2s] They usually don't cost $50,000 a month.
+[1900.2s - 1902.4s] So like worth doing.
+[1902.4s - 1904.1s] All right, that being said,
+[1904.1s - 1904.9s] the bottom line,
+[1904.9s - 1906.4s] if you forgot everything about this stage
+[1906.4s - 1908.0s] is that the constraint you have right now
+[1908.0s - 1910.6s] is that workload is exceeding your current resources.
+[1910.6s - 1913.0s] And to graduate, you gotta get help.
+[1913.0s - 1913.8s] That's it.
+[1913.8s - 1915.1s] So we're hiring our first people
+[1915.1s - 1916.6s] and we're rocking and rolling.
+[1916.6s - 1919.7s] And so we've graduated from stage three
+[1919.7s - 1921.3s] of one to four employees.
+[1921.3s - 1923.1s] And the next level we're gonna get to
+[1923.1s - 1925.3s] is five to nine where we prioritize.
+[1925.3s - 1928.1s] And so at this point, you are a business owner.
+[1928.1s - 1929.1s] All right, you have a business,
+[1929.1s - 1931.1s] you're generating revenue, you have employees.
+[1931.1s - 1932.7s] And so if you're watching this video
+[1932.7s - 1935.4s] and you don't have a custom scaling roadmap,
+[1935.4s - 1937.3s] we offer them to you absolutely free.
+[1937.3s - 1939.0s] You can click the button below and you can get them.
+[1939.0s - 1942.6s] So it's a custom, a download basically that we work
+[1942.6s - 1945.1s] and it's a lot more stuff beyond the stuff
+[1945.1s - 1947.8s] that's in this video to help you get to the next level.
+[1947.8s - 1950.3s] And we show you the stage before and the stage after.
+[1950.3s - 1951.2s] That way it's like, okay,
+[1951.2s - 1952.9s] I definitely tick and tied all these ones
+[1952.9s - 1954.2s] and I've got the one in my current stage
+[1954.2s - 1956.4s] and I can prepare for what growth I have to
+[1956.4s - 1958.0s] or the problems that are going to come
+[1958.0s - 1960.1s] for my next phase of growth.
+[1960.1s - 1962.5s] All right, that being said, we'll see you next video.
