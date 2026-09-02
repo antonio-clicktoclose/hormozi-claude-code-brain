@@ -1,0 +1,40 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$(git rev-parse --show-toplevel)/.agents/hooks/clear-writing-context.py\"",
+            "statusMessage": "Loading clear-writing standard"
+          }
+        ],
+        "matcher": "startup|resume|clear|compact"
+      }
+    ],
+    "SubagentStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$(git rev-parse --show-toplevel)/.agents/hooks/clear-writing-context.py\"",
+            "statusMessage": "Loading clear-writing standard"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$(git rev-parse --show-toplevel)/.agents/hooks/clear-writing-guard.py\"",
+            "statusMessage": "Checking clear writing",
+            "timeout": 20
+          }
+        ]
+      }
+    ]
+  },
+  "description": "Project hooks, including the portable clear-writing check."
+}
